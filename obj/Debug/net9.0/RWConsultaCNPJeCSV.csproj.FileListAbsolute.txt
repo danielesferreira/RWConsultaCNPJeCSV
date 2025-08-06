@@ -15,3 +15,4 @@ C:\RWConsultaCNPJeCSV\obj\Debug\net9.0\ref\RWConsultaCNPJeCSV.dll
 C:\RWConsultaCNPJeCSV\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\RWConsultaCNPJeCSV\obj\Debug\net9.0\RWConsultaCNPJeCSV.csproj.AssemblyReference.cache
 C:\RWConsultaCNPJeCSV\obj\Debug\net9.0\RWConsul.B8EB05C8.Up2Date
+C:\RWConsultaCNPJeCSV\obj\Debug\net9.0\RWConsultaCNPJeCSV.sourcelink.json

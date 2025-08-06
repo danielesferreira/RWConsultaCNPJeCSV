@@ -1,0 +1,65 @@
+{
+  "abertura": "14/07/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "MILLENA COMERCIO VAREJISTA DE MOVEIS E ELETRO LTDA",
+  "fantasia": "MILLENA MOVEIS",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "61.20-5-99",
+      "text": "Serviços de telecomunicações sem fio não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 0001 BV E 0004 PARTE",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "contabilidade@millenamoveis.com.br",
+  "telefone": "(81) 4042-3828",
+  "data_situacao": "14/07/2021",
+  "cnpj": "00.296.549/0065-30",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "200000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "05/07/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "W GEAR INDUSTRIA E COMERCIO DE ROUPAS LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 0082 BV",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "wgearbr@gmail.com",
+  "telefone": "(21) 3388-9999",
+  "data_situacao": "05/07/2021",
+  "cnpj": "06.328.612/0012-47",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

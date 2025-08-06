@@ -1,0 +1,66 @@
+{
+  "abertura": "18/12/1995",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SKILLUS RESTAURANTE LTDA",
+  "fantasia": "SKILLUS STEAK HOUSE",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JULIANE CRISTINA KONRAD SCHULER",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "CARLA ADRIANA KONRAD",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "PISO SUPERIOR LOJA BV 052-A / 053 SHOPPING CENTER RECIFE",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-900",
+  "telefone": "(81) 3464-6288/ (81) 3464-6287",
+  "data_situacao": "05/02/2005",
+  "cnpj": "00.966.053/0001-61",
+  "ultima_atualizacao": "2025-07-30T12:38:50.461Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "300000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2021",
+    "data_exclusao": "31/12/2021",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

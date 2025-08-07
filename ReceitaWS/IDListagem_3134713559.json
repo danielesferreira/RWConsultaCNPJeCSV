@@ -1,0 +1,62 @@
+{
+  "abertura": "11/07/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RL RESTAURANTE & PIZZARIA LTDA",
+  "fantasia": "RANCHO DO LEO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "THATIANA REIS AVILA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA BRIGADEIRO EDUARDO GOMES",
+  "numero": "2401",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.870-100",
+  "email": "robertocont@bol.com.br",
+  "telefone": "(31) 3471-6658",
+  "data_situacao": "11/07/2017",
+  "cnpj": "28.151.480/0001-00",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

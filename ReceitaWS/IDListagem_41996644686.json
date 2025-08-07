@@ -1,0 +1,82 @@
+{
+  "abertura": "09/06/1997",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CASA DE COSMETICOS ELIANE LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "96.02-5-01",
+      "text": "Cabeleireiros, manicure e pedicure"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ELIANE BATISTA DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA AVESTRUZ",
+  "numero": "584",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-230",
+  "email": "cosmeticoseliane@hotmail.com",
+  "telefone": "(41) 3643-3641",
+  "data_situacao": "09/04/2004",
+  "cnpj": "01.923.090/0001-55",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

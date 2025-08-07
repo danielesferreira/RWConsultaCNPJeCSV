@@ -1,0 +1,57 @@
+{
+  "abertura": "21/09/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CLEONORA DE LIMA RODRIGUES 03390778322",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL (LOT PLANALTO ICARAI II)",
+  "numero": "02",
+  "complemento": "LOJA 02 QD C LOT 005 GRANJAS DE VERANEIO ICARAI",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.620-340",
+  "telefone": "(85) 3011-7845",
+  "data_situacao": "21/09/2017",
+  "cnpj": "28.694.221/0001-26",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "3000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

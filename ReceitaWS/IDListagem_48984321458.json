@@ -1,0 +1,57 @@
+{
+  "abertura": "27/09/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SHIRLEY VAZ COIMBRA 00472350986",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RODOVIA JOAO GUALBERTO SOARES",
+  "numero": "229",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-300",
+  "email": "shirleycoimbra@gmail.com",
+  "telefone": "(48) 3050-1999",
+  "data_situacao": "27/09/2022",
+  "cnpj": "48.104.719/0001-07",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "8000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "27/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "27/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

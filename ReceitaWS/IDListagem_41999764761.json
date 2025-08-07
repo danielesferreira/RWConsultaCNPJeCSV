@@ -1,0 +1,57 @@
+{
+  "abertura": "19/07/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "J G DOS SANTOS SACOLAO AVESTRUZ",
+  "fantasia": "SACOLAO AVESTRUZ",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "logradouro": "RUA MARACANA",
+  "numero": "1324",
+  "complemento": "COND SOBR. 04-COND.RES.MA",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-260",
+  "email": "joelgomesdossantos72@gmail.com",
+  "telefone": "(41) 9924-1369",
+  "data_situacao": "19/07/2021",
+  "cnpj": "42.773.809/0001-04",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "abertura": "09/10/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SMART PAULISTA COMERCIO DE CASES E ELETRONICOS LTDA",
+  "fantasia": "SMART CASE PAULISTA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RICARDO MARRA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "WILLIANS JOSE SIMON",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA TREZE DE MAIO",
+  "numero": "1933",
+  "complemento": "LOJA 101 M",
+  "municipio": "SAO PAULO",
+  "bairro": "BELA VISTA",
+  "uf": "SP",
+  "cep": "01.327-001",
+  "email": "x@x.com.br",
+  "telefone": "(11) 2628-2676",
+  "data_situacao": "09/10/2019",
+  "cnpj": "35.137.640/0001-22",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

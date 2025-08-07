@@ -1,0 +1,82 @@
+{
+  "abertura": "09/09/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ARAUFIBRA TELECOMUNICACOES VALENS LTDA",
+  "fantasia": "ARAUFIBRA TELECOMUNICACOES VALENS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "61.10-8-03",
+      "text": "Serviços de comunicação multimídia - SCM"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "33.14-7-10",
+      "text": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+    },
+    {
+      "code": "70.20-4-00",
+      "text": "Atividades de consultoria em gestão empresarial"
+    },
+    {
+      "code": "77.11-0-00",
+      "text": "Locação de automóveis sem condutor"
+    },
+    {
+      "code": "82.11-3-00",
+      "text": "Serviços combinados de escritório e apoio administrativo"
+    },
+    {
+      "code": "82.19-9-99",
+      "text": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+    },
+    {
+      "code": "85.99-6-04",
+      "text": "Treinamento em desenvolvimento profissional e gerencial"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SOILE ISRAEL RAUSIS FERREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA ARCHELAU DE ALMEIDA TORRES",
+  "numero": "1203",
+  "complemento": "SALA 01",
+  "municipio": "ARAUCARIA",
+  "bairro": "IGUACU",
+  "uf": "PR",
+  "cep": "83.701-145",
+  "email": "adnagele@treefibernet.com.br",
+  "telefone": "(41) 9652-1600",
+  "data_situacao": "09/09/2022",
+  "cnpj": "47.887.659/0001-75",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

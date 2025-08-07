@@ -1,0 +1,62 @@
+{
+  "abertura": "18/02/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "YESFIT MODA FITNESS LTDA",
+  "fantasia": "YESFIT MODA FITNESS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RENATA SANTANA MORAIS DE ARAUJO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA BARRETO DE MENEZES",
+  "numero": "565",
+  "complemento": "LJ 03",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-000",
+  "email": "lojayesfit@gmail.com",
+  "telefone": "(81) 9303-0329 / (0000) 0000-0000",
+  "data_situacao": "18/02/2025",
+  "cnpj": "59.535.311/0001-06",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "18/02/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

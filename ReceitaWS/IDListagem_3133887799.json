@@ -1,0 +1,66 @@
+{
+  "abertura": "30/10/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CASA PET COMERCIO DE ALIMENTOS LTDA",
+  "fantasia": "CASA PET",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.23-1-09",
+      "text": "Comércio atacadista de alimentos para animais"
+    },
+    {
+      "code": "46.92-3-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DANIEL GONCALVES DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA BRIGADEIRO EDUARDO GOMES",
+  "numero": "2555",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SAO SALVADOR",
+  "uf": "MG",
+  "cep": "30.881-403",
+  "email": "ss@ssservicoscontabeis.com",
+  "telefone": "(31) 3417-6373",
+  "data_situacao": "30/10/2024",
+  "cnpj": "57.898.580/0001-01",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "30/10/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

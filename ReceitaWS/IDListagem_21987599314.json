@@ -1,0 +1,66 @@
+{
+  "abertura": "29/09/1970",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CAFE E BAR BOGARDO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "HERMINIO ALVES DE MORAES",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "ANTONIO GERALDO DE SOUSA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "LRG DA LAPA",
+  "numero": "37",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "20.021-170",
+  "data_situacao": "15/01/2021",
+  "cnpj": "34.115.626/0001-65",
+  "ultima_atualizacao": "2025-07-16T05:50:05.670Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

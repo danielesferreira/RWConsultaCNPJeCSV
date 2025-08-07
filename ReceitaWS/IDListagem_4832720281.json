@@ -1,0 +1,86 @@
+{
+  "abertura": "30/09/2005",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CONRAT TECNOLOGIA LTDA",
+  "fantasia": "CONRAT TECNOLOGIA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "43.21-5-00",
+      "text": "Instalações elétricas"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "BERNARDINO CONRAT JUNIOR",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "IZABEL CRISTINA MARTENDAL CONRAT",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AVENIDA JOAO ANTONIO BESEN",
+  "numero": "399",
+  "complemento": "SALA 02",
+  "municipio": "ANTONIO CARLOS",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.180-211",
+  "email": "ninoconrat@gmail.com",
+  "telefone": "(48) 3272-0281 / (48) 3272-0281",
+  "data_situacao": "30/09/2005",
+  "cnpj": "07.620.924/0001-30",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

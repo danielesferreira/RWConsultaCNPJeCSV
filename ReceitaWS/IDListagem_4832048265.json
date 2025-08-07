@@ -1,0 +1,62 @@
+{
+  "abertura": "25/09/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DRIKA BALI SUL LTDA",
+  "fantasia": "DRIKA BALI SUL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "46.42-7-01",
+      "text": "Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ADRIANA CLAUDIA DA SILVA SOARES MAGALHAES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA ARMANDO CALIL BULOS",
+  "numero": "5001",
+  "complemento": "KM 05",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "drika.modapraiasul@gmail.com",
+  "telefone": "(48) 3204-8265 / (48) 9695-6808 / (48) 8477-4588",
+  "data_situacao": "25/09/2012",
+  "cnpj": "16.952.469/0001-60",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "110000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "25/09/2012",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "abertura": "01/03/1994",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MATTONI MATERIAIS PARA CONSTRUCAO LTDA",
+  "fantasia": "MATTONI MATERIAIS PARA CONSTRUCAO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "43.30-4-02",
+      "text": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+    },
+    {
+      "code": "43.29-1-05",
+      "text": "Tratamentos térmicos, acústicos ou de vibração"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GILDO NOVACK FONTOURA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MOEMA ARAUJO MOTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA EMA",
+  "numero": "855",
+  "municipio": "ARAUCARIA",
+  "bairro": "JD CALIFORNIA",
+  "uf": "PR",
+  "cep": "83.706-480",
+  "data_situacao": "03/11/2005",
+  "cnpj": "86.878.972/0001-07",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

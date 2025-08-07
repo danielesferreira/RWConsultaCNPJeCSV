@@ -1,0 +1,66 @@
+{
+  "abertura": "08/12/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ECLIPSE COMERCIO DE EQUIPAMENTOS E SERVICOS DE INFORMATICA LTDA",
+  "fantasia": "ECLIPSE INFORMATICA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.19-9-01",
+      "text": "Fotocópias"
+    },
+    {
+      "code": "82.11-3-00",
+      "text": "Serviços combinados de escritório e apoio administrativo"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SABRINA MASSOTI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ROD SC 403",
+  "numero": "6110",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGELESES",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "eclipse.computadores@hotmail.com",
+  "telefone": "(48) 3206-4159",
+  "data_situacao": "08/12/2008",
+  "cnpj": "10.520.488/0001-31",
+  "ultima_atualizacao": "2025-07-20T23:06:44.442Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "78800.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

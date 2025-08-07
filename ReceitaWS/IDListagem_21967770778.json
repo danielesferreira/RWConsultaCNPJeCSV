@@ -1,0 +1,85 @@
+{
+  "abertura": "25/09/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "L. F. MENDES INFORMATICA",
+  "fantasia": "MIX CAPAS E ACESSORIOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    },
+    {
+      "code": "47.89-0-08",
+      "text": "Comércio varejista de artigos fotográficos e para filmagem"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "logradouro": "AVENIDA MINISTRO EDGARD ROMERO",
+  "numero": "00081",
+  "complemento": "LOJ 18",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MADUREIRA",
+  "uf": "RJ",
+  "cep": "21.350-901",
+  "email": "syscontabilidade@outlook.com",
+  "telefone": "(21) 3359-5842",
+  "data_situacao": "25/09/2018",
+  "cnpj": "31.600.223/0001-13",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

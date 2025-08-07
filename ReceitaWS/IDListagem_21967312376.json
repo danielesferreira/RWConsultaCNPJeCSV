@@ -1,0 +1,74 @@
+{
+  "abertura": "25/08/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "IMPERIO DE CACHOEIRAS COMERCIO DE TINTAS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CAMILLA DA SILVA SANTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JEFFERSON COSTA PIMENTEL DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ESCRITORA MARIA COTAS",
+  "numero": "730",
+  "complemento": "LOJA 11",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE SANTA LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "telefone": "(21) 6599-6143 / (21) 9784-7228",
+  "data_situacao": "25/08/2020",
+  "cnpj": "38.216.937/0001-71",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "80000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

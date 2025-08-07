@@ -1,0 +1,74 @@
+{
+  "abertura": "23/02/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CONSTRUTORA DEDA E CLAUDIA LTDA",
+  "fantasia": "CONSTRUTORA DEDA E CLAUDIA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "41.20-4-00",
+      "text": "Construção de edifícios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "41.10-7-00",
+      "text": "Incorporação de empreendimentos imobiliários"
+    },
+    {
+      "code": "68.10-2-01",
+      "text": "Compra e venda de imóveis próprios"
+    },
+    {
+      "code": "68.21-8-01",
+      "text": "Corretagem na compra e venda e avaliação de imóveis"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CLAUDIA AGUIAR MANDU CAIRES",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANDRE ALVES CAIRES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA HEITOR SANCHES",
+  "numero": "622",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "CANTO DO FORTE",
+  "uf": "SP",
+  "cep": "11.700-310",
+  "email": "dedatabela@uol.com.br",
+  "telefone": "(13) 7417-3958",
+  "data_situacao": "23/02/2017",
+  "cnpj": "27.184.014/0001-69",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "abertura": "24/02/2003",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SUPPLEMENTS COMERCIO DE ALIMENTOS SUPLEMENTARES LTDA",
+  "fantasia": "SUPPLEMENTS NUTRICAO ESPORTIVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DAVI CARNEIRO ROMA",
+      "qual": "30-Sócio ou Acionista Menor (Assistido/Representado)",
+      "nome_rep_legal": "SHIRLEY NEPOMUCENO CARNEIRO ROMA",
+      "qual_rep_legal": "14-Mãe"
+    },
+    {
+      "nome": "JULIANA MENDES MAIA ROMA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PROFESSOR DIAS DA ROCHA",
+  "numero": "800",
+  "complemento": "LOJA 16",
+  "municipio": "FORTALEZA",
+  "bairro": "ALDEOTA",
+  "uf": "CE",
+  "cep": "60.170-285",
+  "email": "supplements.mmacedo@supplements.com.br",
+  "telefone": "(85) 3267-5511",
+  "data_situacao": "06/12/2003",
+  "cnpj": "05.528.001/0001-27",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "360000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "02/02/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CARLOS A DA SILVA JUNIOR CARTUCHOS",
+  "fantasia": "EXPRESSO CARTUCHO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-02",
+      "text": "Recarga de cartuchos para equipamentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    }
+  ],
+  "logradouro": "RUA ARAO LINS DE ANDRADE",
+  "numero": "18",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.400-200",
+  "telefone": "(81) 3224-4851 / (81) 8743-4382 / (81) 3077-8002",
+  "data_situacao": "02/02/2011",
+  "cnpj": "13.205.568/0001-90",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "02/02/2011",
+    "data_exclusao": "31/12/2019",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

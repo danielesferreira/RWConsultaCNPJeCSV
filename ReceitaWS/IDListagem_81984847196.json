@@ -1,0 +1,66 @@
+{
+  "abertura": "20/09/1996",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "VITORIO & MATOSO COMERCIO DE BICICLETAS PECAS E ACESSORIOS LTDA",
+  "fantasia": "LIMIT BIKE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.63-6-03",
+      "text": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ERNANDES VITORIO DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "PAULA KARINA MATOSO TAVARES VITORIO DA SILVA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R HIDROLANDIA",
+  "numero": "198",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "JARDIM PIEDADE",
+  "uf": "PE",
+  "cep": "54.420-160",
+  "data_situacao": "03/11/2005",
+  "cnpj": "01.438.003/0001-74",
+  "ultima_atualizacao": "2025-08-04T13:45:00.409Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "4000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

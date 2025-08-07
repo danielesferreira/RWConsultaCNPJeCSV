@@ -1,0 +1,86 @@
+{
+  "abertura": "19/11/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BOREAL COMERCIO DE ALIMENTOS LTDA",
+  "fantasia": "BOREAL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.91-5-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    },
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    },
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARCIO ROGERIO DA CUNHA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R ARAPONGAS",
+  "numero": "365",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-160",
+  "email": "supermercadoboreal@gmail.com",
+  "telefone": "(41) 9975-0640",
+  "data_situacao": "19/11/2021",
+  "cnpj": "44.303.740/0001-72",
+  "ultima_atualizacao": "2025-08-03T13:11:00.675Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "345000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

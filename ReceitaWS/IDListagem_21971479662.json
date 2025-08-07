@@ -1,0 +1,57 @@
+{
+  "abertura": "04/07/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "55.810.715 HEYDE LOTA OLIVEIRA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA MANOEL DELFIM SARMENTO",
+  "numero": "185",
+  "complemento": "LOJA 1",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "28.680-080",
+  "email": "lota.heyde@gmail.com",
+  "telefone": "(21) 9812-5074",
+  "data_situacao": "04/07/2024",
+  "cnpj": "55.810.715/0001-00",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "04/07/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "04/07/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

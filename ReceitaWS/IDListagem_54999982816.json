@@ -1,0 +1,65 @@
+{
+  "abertura": "09/02/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RENAN CASAGRANDE COMERCIO VAREJSITA DE ROUPAS INFANTIS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "logradouro": "RUA SAO PAULO",
+  "numero": "389",
+  "municipio": "BENTO GONCALVES",
+  "bairro": "CENTRO",
+  "uf": "RS",
+  "cep": "95.700-026",
+  "email": "renancasa@yahoo.com.br",
+  "telefone": "(54) 9632-2138",
+  "data_situacao": "09/02/2024",
+  "cnpj": "53.870.844/0001-50",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/02/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "09/02/2024",
+    "data_exclusao": "31/12/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

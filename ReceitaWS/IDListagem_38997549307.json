@@ -1,0 +1,61 @@
+{
+  "abertura": "23/05/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "50.780.387 MICHELY SILVA RODRIGUES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "logradouro": "AVENIDA R. MAJ. FIDENCIO CANGUSSU",
+  "numero": "168A",
+  "municipio": "PORTEIRINHA",
+  "bairro": "CENTRO",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "mels39478@gmail.com",
+  "telefone": "(38) 9812-0907",
+  "data_situacao": "23/05/2023",
+  "cnpj": "50.780.387/0001-14",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "23/05/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "23/05/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

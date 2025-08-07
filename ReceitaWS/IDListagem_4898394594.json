@@ -1,0 +1,98 @@
+{
+  "abertura": "29/08/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "REI DOS SERVICOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "33.29-5-01",
+      "text": "Serviços de montagem de móveis de qualquer material"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.19-2-00",
+      "text": "Representantes comerciais e agentes do comércio de mercadorias em geral não especializado"
+    },
+    {
+      "code": "63.99-2-00",
+      "text": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "70.20-4-00",
+      "text": "Atividades de consultoria em gestão empresarial"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "73.19-0-04",
+      "text": "Consultoria em publicidade"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "82.11-3-00",
+      "text": "Serviços combinados de escritório e apoio administrativo"
+    },
+    {
+      "code": "82.91-1-00",
+      "text": "Atividades de cobrança e informações cadastrais"
+    },
+    {
+      "code": "95.29-1-05",
+      "text": "Reparação de artigos do mobiliário"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LEONARDO ADRIANO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA JOSE CARLOS DAUX",
+  "numero": "17790",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "CANASVIEIRAS",
+  "uf": "SC",
+  "cep": "88.052-401",
+  "email": "dp@aexclusivacolchoes.com.br",
+  "telefone": "(48) 3028-3155",
+  "data_situacao": "29/08/2024",
+  "cnpj": "57.061.104/0001-23",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "150000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "29/08/2024",
+    "data_exclusao": "29/08/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

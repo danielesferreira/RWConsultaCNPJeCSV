@@ -1,0 +1,66 @@
+{
+  "abertura": "18/11/2014",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "VITAL MODAS LTDA",
+  "fantasia": "VITAL MODAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "qsa": [
+    {
+      "nome": "ADELICE DE FREITAS SOBRINHO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "NIVIA FERNANDA RODRIGUES DE FREITAS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ITARUMA",
+  "numero": "96",
+  "complemento": "QUADRA: 0032; LOTE: 011B;",
+  "municipio": "JATAI",
+  "bairro": "VILA SANTA MARIA",
+  "uf": "GO",
+  "cep": "75.800-089",
+  "email": "contato@limacontabil.com",
+  "telefone": "(64) 3632-7386 / (64) 3632-7386",
+  "data_situacao": "04/04/2018",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "21.426.791/0001-96",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

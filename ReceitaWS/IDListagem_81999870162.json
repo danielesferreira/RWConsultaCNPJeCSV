@@ -1,0 +1,61 @@
+{
+  "abertura": "12/04/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "OSCAR E ABYS EMPREENDIMENTOS DE MODA LTDA",
+  "fantasia": "O&A",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    }
+  ],
+  "logradouro": "AVENIDA BARRETO DE MENEZES",
+  "numero": "152",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PRAZERES",
+  "uf": "PE",
+  "cep": "54.310-310",
+  "email": "fiscal@oscarcalcados.com.br",
+  "telefone": "(12) 3925-3914",
+  "data_situacao": "12/04/2024",
+  "cnpj": "37.765.702/0005-08",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1100000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

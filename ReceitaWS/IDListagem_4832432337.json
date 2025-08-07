@@ -1,0 +1,77 @@
+{
+  "abertura": "21/11/2003",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "THIAGO BERNARDINO DA SILVA",
+  "fantasia": "S O S REFRIGERACAO E AR CONDICIONADO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "95.21-5-00",
+      "text": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+    },
+    {
+      "code": "43.22-3-02",
+      "text": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+    },
+    {
+      "code": "95.29-1-99",
+      "text": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA SETE DE SETEMBRO",
+  "numero": "48",
+  "complemento": "SALA 04",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-001",
+  "email": "00",
+  "telefone": "(48) 3242-337 / (48) 0- / (48) 0-",
+  "data_situacao": "06/11/2004",
+  "cnpj": "06.033.025/0001-78",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "29000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

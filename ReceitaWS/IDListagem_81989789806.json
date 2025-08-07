@@ -1,0 +1,62 @@
+{
+  "abertura": "12/05/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CPKIDS CONFECCOES CALCADOS E ACESSORIOS LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CLAUDIO MURILO XAVIER PESSOA DE MELO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV BARRETO DE MENEZES",
+  "numero": "800",
+  "complemento": "LJ 076 LOJA 077",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.410-100",
+  "email": "lhps280477@gmail.com",
+  "telefone": "(81) 9569-7000",
+  "data_situacao": "12/05/2023",
+  "cnpj": "50.657.067/0001-71",
+  "ultima_atualizacao": "2025-07-07T09:08:49.746Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "07/01/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "L L G BOTECO DO MARACUJA LTDA",
+  "fantasia": "BOTECO DO MARACUJA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-05",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LEILILANGELA GUIMARAES EMMERICK",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA SAO JANUARIO",
+  "numero": "152",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-386",
+  "email": "leilaemmerick1@gmail.com",
+  "telefone": "(21) 3617-1621",
+  "data_situacao": "07/01/2025",
+  "cnpj": "58.672.082/0001-09",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

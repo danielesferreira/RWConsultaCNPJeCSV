@@ -1,0 +1,65 @@
+{
+  "abertura": "01/12/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PAULO RICARDO SANTOS PEREIRA 08729022690",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "logradouro": "AVENIDA CLEMENTE MARTINS RIBEIRO",
+  "numero": "459",
+  "municipio": "PORTEIRINHA",
+  "bairro": "VILA SERRANOPOLIS",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "paulorport@hotmail.com",
+  "telefone": "(38) 9149-1247",
+  "data_situacao": "01/12/2022",
+  "cnpj": "48.777.146/0001-74",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/12/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "01/12/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

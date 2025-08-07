@@ -1,0 +1,57 @@
+{
+  "abertura": "14/03/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "49.926.162 PEDRO PAULO DE SOUZA CANDIDO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "logradouro": "RUA TOMAZ AMANCIO DA SILVA",
+  "numero": "89",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "FLORAMAR",
+  "uf": "MG",
+  "cep": "31.742-030",
+  "email": "pedropscandido@hotmail.com",
+  "telefone": "(31) 9281-0297",
+  "data_situacao": "14/03/2023",
+  "cnpj": "49.926.162/0001-44",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "14/03/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "14/03/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "30/09/1966",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PADARIA GUARANY LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LEONARDO BOULOS BREDER",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "GHISLAINE BOULOS BRITO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R SAO JANUARIO",
+  "numero": "129",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-386",
+  "data_situacao": "24/07/2004",
+  "cnpj": "30.089.999/0001-58",
+  "ultima_atualizacao": "2025-07-14T14:47:55.644Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

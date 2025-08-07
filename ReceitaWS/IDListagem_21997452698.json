@@ -1,0 +1,65 @@
+{
+  "abertura": "29/08/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "WAGNER BARROS DE MENDONCA",
+  "fantasia": "MEGA TUDO BAZAR",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "logradouro": "RUA CAMINHO DO JOB",
+  "numero": "02",
+  "complemento": "A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "PAVUNA",
+  "uf": "RJ",
+  "cep": "21.655-450",
+  "telefone": "(21) 2756-8115",
+  "data_situacao": "29/08/2007",
+  "cnpj": "09.020.217/0001-38",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/10/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

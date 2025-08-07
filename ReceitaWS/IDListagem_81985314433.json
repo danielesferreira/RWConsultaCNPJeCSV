@@ -1,0 +1,65 @@
+{
+  "abertura": "26/03/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "FIGUEIRAS CALCADOS LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    }
+  ],
+  "logradouro": "AVENIDA BARRETO DE MENEZES",
+  "numero": "800",
+  "complemento": "LJ 138 LOJA 139 LOJA 140",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.410-100",
+  "email": "figueiras@figueirascalcados.com.br",
+  "telefone": "(81) 3301-7060",
+  "data_situacao": "26/03/2024",
+  "cnpj": "11.965.233/0020-08",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "2000000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "17/02/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FLAVIA FERREIRA DE SOUZA RESTAURANTE",
+  "fantasia": "NEWS DEGUST",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "logradouro": "RUA GENERAL POLIDORO",
+  "numero": "945",
+  "municipio": "RECIFE",
+  "bairro": "VARZEA",
+  "uf": "PE",
+  "cep": "50.740-050",
+  "telefone": "(81) 3040-5625 / (81) 8415-1898",
+  "data_situacao": "17/02/2021",
+  "cnpj": "40.880.366/0001-17",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "200000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

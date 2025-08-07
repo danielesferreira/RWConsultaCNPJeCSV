@@ -1,0 +1,70 @@
+{
+  "abertura": "10/10/1990",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MINI MERCADO MOTTA ZUIN LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ERIKA MOTTA ZUIN",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "PEDRO HENRIQUE GONCALVES FERREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA PIRPIRITUBA",
+  "numero": "74",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "REALENGO",
+  "uf": "RJ",
+  "cep": "21.760-240",
+  "data_situacao": "03/11/2005",
+  "cnpj": "39.122.502/0001-20",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "160000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

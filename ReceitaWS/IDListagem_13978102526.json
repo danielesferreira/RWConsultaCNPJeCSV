@@ -1,0 +1,70 @@
+{
+  "abertura": "18/11/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BUBY JOY LTDA",
+  "fantasia": "BUBY JOY",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.11-2-05",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ROBERTO GARCIA FARIA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "JOSIVAN FEITOSA DE OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA JORGE HAGGE",
+  "numero": "725",
+  "complemento": "CASA CASA",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "AVIACAO",
+  "uf": "SP",
+  "cep": "11.702-390",
+  "email": "chefinternacionalfeitosajoy@gmail.com",
+  "telefone": "(13) 7411-0704",
+  "data_situacao": "18/11/2022",
+  "cnpj": "48.659.520/0001-37",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "18/11/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "18/11/2022",
+    "data_exclusao": "30/11/2022",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

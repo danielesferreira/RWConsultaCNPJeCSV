@@ -1,0 +1,94 @@
+{
+  "abertura": "13/03/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "OURO PET SERVICOS PARA ANIMAIS LTDA",
+  "fantasia": "OURO PET",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "96.09-2-08",
+      "text": "Higiene e embelezamento de animais domésticos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    },
+    {
+      "code": "75.00-1-00",
+      "text": "Atividades veterinárias"
+    },
+    {
+      "code": "96.09-2-07",
+      "text": "Alojamento de animais domésticos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RENATA ESTEVES DE FREITAS ALVES",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JESSICA MARINHO DOS SANTOS",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "GABRIEL LINS VIEIRA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "LUISA CARDOSO SOUZA COUTO",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "EDIGAR DOS SANTOS DE OLIVEIRA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "GEOVANE DE ARAUJO SILVA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AV FLEMING",
+  "numero": "650",
+  "complemento": "LOJA 6",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "OURO PRETO",
+  "uf": "MG",
+  "cep": "31.310-490",
+  "email": "contato@ouropet.com.br",
+  "telefone": "(31) 8510-9221",
+  "data_situacao": "13/03/2017",
+  "cnpj": "27.291.311/0001-03",
+  "ultima_atualizacao": "2025-08-06T23:23:15.102Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

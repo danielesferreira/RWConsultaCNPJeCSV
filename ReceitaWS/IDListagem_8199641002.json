@@ -1,0 +1,66 @@
+{
+  "abertura": "29/12/1994",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PANIFICADORA GLORIA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ALBANY LEONARDO DE ALMEIDA OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANAISA TARCIANA BEZERRA CABRAL DE SOUZA ALMEIDA OLIVEIRA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "2A RUA DO COLEGIO",
+  "numero": "80",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-213",
+  "email": "servicon10@hotmail.com",
+  "telefone": "(81) 3093-7224",
+  "data_situacao": "22/10/2005",
+  "cnpj": "00.370.655/0001-51",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

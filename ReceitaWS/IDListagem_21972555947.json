@@ -1,0 +1,89 @@
+{
+  "abertura": "03/05/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "AMERICANAS S.A - EM RECUPERACAO JUDICIAL",
+  "fantasia": "FILIAL 938",
+  "porte": "DEMAIS",
+  "natureza_juridica": "204-6 - Sociedade Anônima Aberta",
+  "atividade_principal": [
+    {
+      "code": "47.13-0-04",
+      "text": "Lojas de departamentos ou magazines, exceto lojas francas (Duty free)"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "61.90-6-99",
+      "text": "Outras atividades de telecomunicações não especificadas anteriormente"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    }
+  ],
+  "logradouro": "RUA MARECHAL FLORIANO PEIXOTO",
+  "numero": "63",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "sede@lasa.com.br",
+  "telefone": "(11) 4033-4848",
+  "data_situacao": "03/05/2021",
+  "cnpj": "00.776.574/0784-22",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "39918282250.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

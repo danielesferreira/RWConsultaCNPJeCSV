@@ -1,0 +1,69 @@
+{
+  "abertura": "07/07/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FABIANA RODRIGUES BRANES 82013977468",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.19-9-01",
+      "text": "Fotocópias"
+    },
+    {
+      "code": "47.62-8-00",
+      "text": "Comércio varejista de discos, CDs, DVDs e fitas"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "18.22-9-01",
+      "text": "Serviços de encadernação e plastificação"
+    }
+  ],
+  "logradouro": "R CASTRO ALVES (CJ. RES. CURADO II)",
+  "numero": "95",
+  "complemento": "LOJA F",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CURADO",
+  "uf": "PE",
+  "cep": "54.220-070",
+  "email": "fabianabranes@hotmail.com",
+  "telefone": "(81) 8821-1552",
+  "data_situacao": "07/07/2011",
+  "cnpj": "13.940.296/0001-72",
+  "ultima_atualizacao": "2025-08-04T18:01:37.251Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/07/2011",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "07/07/2011",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "abertura": "17/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SALES FERRAGENS LTDA",
+  "fantasia": "SALES FERRAGENS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "14.12-6-01",
+      "text": "Confecção de peças de vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+    },
+    {
+      "code": "18.21-1-00",
+      "text": "Serviços de pré-impressão"
+    },
+    {
+      "code": "18.22-9-01",
+      "text": "Serviços de encadernação e plastificação"
+    },
+    {
+      "code": "18.22-9-99",
+      "text": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+    },
+    {
+      "code": "18.30-0-01",
+      "text": "Reprodução de som em qualquer suporte"
+    },
+    {
+      "code": "18.30-0-02",
+      "text": "Reprodução de vídeo em qualquer suporte"
+    },
+    {
+      "code": "33.14-7-02",
+      "text": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+    },
+    {
+      "code": "33.14-7-07",
+      "text": "Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial"
+    },
+    {
+      "code": "33.14-7-99",
+      "text": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+    },
+    {
+      "code": "33.29-5-01",
+      "text": "Serviços de montagem de móveis de qualquer material"
+    },
+    {
+      "code": "37.02-9-00",
+      "text": "Atividades relacionadas a esgoto, exceto a gestão de redes"
+    },
+    {
+      "code": "38.11-4-00",
+      "text": "Coleta de resíduos não-perigosos"
+    },
+    {
+      "code": "41.20-4-00",
+      "text": "Construção de edifícios"
+    },
+    {
+      "code": "43.11-8-02",
+      "text": "Preparação de canteiro e limpeza de terreno"
+    },
+    {
+      "code": "43.13-4-00",
+      "text": "Obras de terraplenagem"
+    },
+    {
+      "code": "43.21-5-00",
+      "text": "Instalação e manutenção elétrica"
+    },
+    {
+      "code": "43.22-3-02",
+      "text": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+    },
+    {
+      "code": "43.30-4-03",
+      "text": "Obras de acabamento em gesso e estuque"
+    },
+    {
+      "code": "43.30-4-04",
+      "text": "Serviços de pintura de edifícios em geral"
+    },
+    {
+      "code": "43.30-4-05",
+      "text": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+    },
+    {
+      "code": "43.99-1-05",
+      "text": "Perfuração e construção de poços de água"
+    },
+    {
+      "code": "45.20-0-01",
+      "text": "Serviços de manutenção e reparação mecânica de veículos automotores"
+    },
+    {
+      "code": "45.20-0-05",
+      "text": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+    },
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "45.30-7-05",
+      "text": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+    },
+    {
+      "code": "45.41-2-06",
+      "text": "Comércio a varejo de peças e acessórios novos para  motocicletas e motonetas"
+    },
+    {
+      "code": "45.43-9-00",
+      "text": "Manutenção e reparação de motocicletas e motonetas"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.32-6-00",
+      "text": "Comércio varejista de lubrificantes"
+    },
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.43-1-00",
+      "text": "Comércio varejista de vidros"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-02",
+      "text": "Comércio varejista de madeira e artefatos"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.55-5-01",
+      "text": "Comércio varejista de tecidos"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.56-3-00",
+      "text": "Comércio varejista especializado de instrumentos musicais e acessórios"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    },
+    {
+      "code": "47.59-8-01",
+      "text": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-01",
+      "text": "Comércio varejista de livros"
+    },
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.63-6-04",
+      "text": "Comércio varejista de artigos de caça, pesca e camping"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-07",
+      "text": "Comércio varejista de equipamentos para escritório"
+    },
+    {
+      "code": "49.23-0-02",
+      "text": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+    },
+    {
+      "code": "55.10-8-01",
+      "text": "Hotéis"
+    },
+    {
+      "code": "58.19-1-00",
+      "text": "Edição de cadastros, listas e de outros produtos gráficos"
+    },
+    {
+      "code": "61.90-6-01",
+      "text": "Provedores de acesso às redes de comunicações"
+    },
+    {
+      "code": "73.19-0-99",
+      "text": "Outras atividades de publicidade não especificadas anteriormente"
+    },
+    {
+      "code": "74.20-0-01",
+      "text": "Atividades de produção de fotografias, exceto aérea e submarina"
+    },
+    {
+      "code": "74.20-0-03",
+      "text": "Laboratórios fotográficos"
+    },
+    {
+      "code": "74.20-0-04",
+      "text": "Filmagem de festas e eventos"
+    },
+    {
+      "code": "77.11-0-00",
+      "text": "Locação de automóveis sem condutor"
+    },
+    {
+      "code": "77.33-1-00",
+      "text": "Aluguel de máquinas e equipamentos para escritórios"
+    },
+    {
+      "code": "79.11-2-00",
+      "text": "Agências de viagens"
+    },
+    {
+      "code": "80.20-0-01",
+      "text": "Atividades de monitoramento de sistemas de segurança eletrônico"
+    },
+    {
+      "code": "81.21-4-00",
+      "text": "Limpeza em prédios e em domicílios"
+    },
+    {
+      "code": "81.22-2-00",
+      "text": "Imunização e controle de pragas urbanas"
+    },
+    {
+      "code": "82.19-9-01",
+      "text": "Fotocópias"
+    },
+    {
+      "code": "82.30-0-01",
+      "text": "Serviços de organização de feiras, congressos, exposições e festas"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "95.29-1-02",
+      "text": "Chaveiros"
+    },
+    {
+      "code": "95.29-1-05",
+      "text": "Reparação de artigos do mobiliário"
+    },
+    {
+      "code": "95.29-1-99",
+      "text": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "IGOR COSTA NUNES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV GODOFREDO MACIEL",
+  "numero": "2331",
+  "municipio": "FORTALEZA",
+  "bairro": "MARAPONGA",
+  "uf": "CE",
+  "cep": "60.710-683",
+  "email": "salesferragens707@gmail.com",
+  "telefone": "(85) 8899-9794/ (0000) 0000-0000",
+  "data_situacao": "17/07/2023",
+  "cnpj": "51.442.656/0001-03",
+  "ultima_atualizacao": "2025-08-05T14:33:26.045Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "17/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "19/08/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "EITA FOOD RESTAURANTE LTDA",
+  "fantasia": "EITA FOOD RESTAURANTE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "56.20-1-01",
+      "text": "Fornecimento de alimentos preparados preponderantemente para empresas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EDUARDO AGUIAR MOURAO RIBEIRO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "1184",
+  "complemento": "CASA A",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.620-340",
+  "email": "edaguiarmourao@gmail.com",
+  "telefone": "(85) 8190-3753",
+  "data_situacao": "19/08/2019",
+  "cnpj": "34.579.259/0001-50",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "06/10/2000",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DIAMANTE EMBALAGENS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LIZIA JOCELINE DAS NEVES PRADO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "HENRIQUE DE ALMEIDA PRADO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA DOUTOR CRISTIANO GUIMARAES",
+  "numero": "2005",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "PLANALTO",
+  "uf": "MG",
+  "cep": "31.720-300",
+  "email": "diamanteemb@terra.com.br",
+  "telefone": "(31) 3495-6225",
+  "data_situacao": "06/10/2000",
+  "cnpj": "04.088.127/0001-65",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

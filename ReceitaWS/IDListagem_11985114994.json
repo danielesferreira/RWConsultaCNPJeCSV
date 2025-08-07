@@ -1,0 +1,62 @@
+{
+  "abertura": "28/09/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PAROPEZIN COMERCIO LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARCOS ADRIANO FERREIRA ZONI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA TREZE DE MAIO",
+  "numero": "1933",
+  "complemento": "LOJA 108",
+  "municipio": "SAO PAULO",
+  "bairro": "BELA VISTA",
+  "uf": "SP",
+  "cep": "01.327-001",
+  "email": "marcos.zoni@txaigrupo.com.br",
+  "telefone": "(11) 9917-5397",
+  "data_situacao": "28/09/2021",
+  "cnpj": "43.688.807/0001-71",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

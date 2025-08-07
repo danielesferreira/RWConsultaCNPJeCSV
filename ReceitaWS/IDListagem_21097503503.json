@@ -1,0 +1,98 @@
+{
+  "abertura": "12/09/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RESTAURANTE NABRASA GRILL LTDA",
+  "fantasia": "CALS GREEN LOJA DE CONVENIENCIAS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.29-6-02",
+      "text": "Comércio varejista de mercadorias em lojas de conveniência"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.11-2-05",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GUATAMA JUPITER ROZENDO MOREIRA DOS SANTOS",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "JOSE EDUARDO DE SOUZA CAFFARATE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R MANOEL DELPHIM SARMENTO",
+  "numero": "S/N",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE SANTA LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "grupocalsgreen@gmail.com",
+  "telefone": "(51) 9688-1351",
+  "data_situacao": "12/09/2018",
+  "cnpj": "31.483.314/0001-16",
+  "ultima_atualizacao": "2025-07-22T17:58:45.270Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

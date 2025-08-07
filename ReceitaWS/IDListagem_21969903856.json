@@ -1,0 +1,74 @@
+{
+  "abertura": "16/11/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BAZAR CASTELO BRANCO MATERIAL DE CONSTRUCAO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-04",
+      "text": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "THIAGO LOURENCO DE OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R IGUAPERIBA",
+  "numero": "155",
+  "complemento": "LOJA A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "BRAS DE PINA",
+  "uf": "RJ",
+  "cep": "21.012-020",
+  "email": "bazarcastelobranco182@gmail.com",
+  "telefone": "(21) 6990-3856",
+  "data_situacao": "16/11/2021",
+  "cnpj": "44.251.359/0001-07",
+  "ultima_atualizacao": "2025-07-24T20:33:15.350Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "16/11/2021",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "16/11/2021",
+    "data_exclusao": "31/08/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

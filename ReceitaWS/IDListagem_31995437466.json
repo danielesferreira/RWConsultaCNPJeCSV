@@ -1,0 +1,137 @@
+{
+  "abertura": "09/08/2017",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "SENETO COMERCIO ATACADISTA E VAREJISTA DE UTILIDADES DOMESTICAS LTDA",
+  "fantasia": "LOJAO DO REAL",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.49-4-99",
+      "text": "Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    },
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "AV ABILIO MACHADO",
+  "numero": "1709",
+  "complemento": "LOJA B",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.830-373",
+  "email": "contabilidade@seneto.com.br",
+  "telefone": "(31) 3451-3613",
+  "data_situacao": "09/08/2017",
+  "cnpj": "03.400.960/0010-28",
+  "ultima_atualizacao": "2025-07-28T16:31:59.415Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": "31/12/2011",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

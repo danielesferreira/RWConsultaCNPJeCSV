@@ -1,0 +1,66 @@
+{
+  "abertura": "07/01/1969",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PADARIA E CONFEITARIA SANTA DE BALAZAR LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FERNANDO FERNANDES PEREIRA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANTONIO OLIVEIRA GONCALVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA DO CATETE",
+  "numero": "234",
+  "complemento": "LOJA C",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CATETE",
+  "uf": "RJ",
+  "cep": "22.220-001",
+  "data_situacao": "24/04/2004",
+  "cnpj": "33.886.268/0001-21",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

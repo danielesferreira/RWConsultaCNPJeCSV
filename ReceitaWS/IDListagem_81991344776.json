@@ -1,0 +1,57 @@
+{
+  "abertura": "19/04/2010",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "JOSE ROSEMIRO SERPA DO NASCIMENTO 17944317487",
+  "fantasia": "ZECA DOS PARAFUSOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "AVENIDA BARRETO DE MENEZES",
+  "numero": "SN",
+  "complemento": "BANCA 192",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-000",
+  "email": "jrferragens@hotmail.com",
+  "telefone": "(81) 8664-2886",
+  "data_situacao": "31/12/2021",
+  "motivo_situacao": "OBITO DO MEI - TITULAR FALECIDO",
+  "cnpj": "11.832.638/0001-05",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "19/04/2010",
+    "data_exclusao": "31/12/2021",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "01/01/2015",
+    "data_exclusao": "31/12/2021",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

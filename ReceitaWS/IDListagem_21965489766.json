@@ -1,0 +1,62 @@
+{
+  "abertura": "16/08/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "NARDOOGGI SORVETES LTDA",
+  "fantasia": "OGGI SORVETES",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "46.37-1-06",
+      "text": "Comércio atacadista de sorvetes"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DIEGO SILVA DO NASCIMENTO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AL SAO BOAVENTURA",
+  "numero": "S957",
+  "complemento": "QUADRA0061 LOTE 1885",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-223",
+  "email": "aleidecontabilidade@gmail.com",
+  "telefone": "(21) 2637-2680",
+  "data_situacao": "16/08/2022",
+  "cnpj": "47.594.303/0001-43",
+  "ultima_atualizacao": "2025-06-17T20:18:22.666Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "16/08/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

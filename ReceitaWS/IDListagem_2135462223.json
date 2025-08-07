@@ -1,0 +1,70 @@
+{
+  "abertura": "28/10/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SUPER COR TINTAS E ACESSORIOS DE PINTURAS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ONALDO SERAFIM DO NASCIMENTO",
+      "qual": "05-Administrador"
+    },
+    {
+      "nome": "ANA PAULA SILVESTRE DOS SANTOS DO NASCIMENTO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE MANSO",
+  "numero": "00101",
+  "complemento": "LOJ LOJ A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MADUREIRA",
+  "uf": "RJ",
+  "cep": "21.310-260",
+  "email": "anasilvestren@gmail.com",
+  "telefone": "(21) 3550-6090",
+  "data_situacao": "28/10/2021",
+  "cnpj": "44.059.644/0001-20",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "20/08/2021",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "JUARLEN FONTELES MONTEIRO 64089339391",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "1062",
+  "complemento": "LOJA 6",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-446",
+  "email": "jussilen@grupobrasitec.com.br",
+  "telefone": "(85) 8183-4185",
+  "data_situacao": "19/08/2024",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "43.214.224/0001-09",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "28/02/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "49.740.686 LESLLYEN LAYEN RIBEIRO DE OLIVEIRA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "logradouro": "RUA AVESTRUZ",
+  "numero": "813",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-230",
+  "email": "galaxycell9558@gmail.com",
+  "telefone": "(41) 9689-0985",
+  "data_situacao": "28/02/2023",
+  "cnpj": "49.740.686/0001-46",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "8000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "28/02/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "28/02/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

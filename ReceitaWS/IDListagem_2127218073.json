@@ -1,0 +1,94 @@
+{
+  "abertura": "21/05/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RMF COMERCIO E DISTRIBUIDORA DE PRODUTOS OTICOS LTDA",
+  "fantasia": "FABRICA DE OCULOS FONSECA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FATIMA DE CASSIA CORDEIRO DA SILVEIRA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARCUS AURELIO DA SILVA ALMEIDA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ALAMEDA SAO BOA AVENTURA",
+  "numero": "553",
+  "complemento": "LOJA 04",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-001",
+  "email": "marcus-asa@hotmail.com",
+  "telefone": "(21) 2607-0553 / (21) 8880-7783 / (21) 8806-9340",
+  "data_situacao": "21/05/2008",
+  "cnpj": "10.626.298/0001-01",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

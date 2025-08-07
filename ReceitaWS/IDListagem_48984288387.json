@@ -1,0 +1,73 @@
+{
+  "abertura": "03/11/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ILMA DE FATIMA PAIVA DE SOUZA 77163222300",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.55-5-01",
+      "text": "Comércio varejista de tecidos"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "14.12-6-01",
+      "text": "Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+    },
+    {
+      "code": "47.85-7-99",
+      "text": "Comércio varejista de outros artigos usados"
+    },
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    }
+  ],
+  "logradouro": "RODOVIA JOAO GUALBERTO SOARES",
+  "numero": "274",
+  "complemento": "LOJA 03",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-300",
+  "email": "ilmaffp@gmail.com",
+  "telefone": "(48) 8428-8387",
+  "data_situacao": "03/11/2022",
+  "cnpj": "48.502.498/0001-17",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1400.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "03/11/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "03/11/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

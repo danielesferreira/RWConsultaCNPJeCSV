@@ -1,0 +1,57 @@
+{
+  "abertura": "21/09/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FLAVIA DRYELLE G. JUSTINO MODAS E ACESSORIOS",
+  "fantasia": "DRY MODAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "logradouro": "RUA PROFESSOR FERNANDO NUNES",
+  "numero": "153",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "dry_modas@yahoo.com.br",
+  "telefone": "(21) 6443-7086 / (21) 2649-2178",
+  "data_situacao": "21/09/2011",
+  "cnpj": "14.326.274/0001-80",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2015",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "21/09/2011",
+    "data_exclusao": "31/12/2013",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

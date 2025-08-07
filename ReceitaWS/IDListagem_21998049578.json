@@ -1,0 +1,74 @@
+{
+  "abertura": "25/09/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JD VENDAS E NEGOCIOS DIGITAIS LTDA",
+  "fantasia": "AS MARANI",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "73.19-0-03",
+      "text": "Marketing direto"
+    },
+    {
+      "code": "82.19-9-99",
+      "text": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JULIANA APARECIDA MARANI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "DANILO BANHARA NOGUEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R WENCESLAU CORDOVIL JUNIOR",
+  "numero": "15",
+  "municipio": "DUARTINA",
+  "bairro": "VILA SALOMAO SABBAG",
+  "uf": "SP",
+  "cep": "17.471-302",
+  "email": "julianamarani@yahoo.com.br",
+  "telefone": "(14) 3282-1961",
+  "data_situacao": "25/09/2017",
+  "cnpj": "28.718.051/0001-72",
+  "ultima_atualizacao": "2025-08-02T15:21:12.147Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

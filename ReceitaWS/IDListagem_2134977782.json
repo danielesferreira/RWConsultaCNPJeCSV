@@ -1,0 +1,86 @@
+{
+  "abertura": "26/06/2015",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "VINOART COMERCIO DE BEBIDAS E ALIMENTOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.29-6-01",
+      "text": "Tabacaria"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "74.90-1-99",
+      "text": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "BRUNNO PEREIRA THIRY",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOSE AUGUSTO DA SILVA SANTOS",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R ARTUR BERNARDES",
+  "numero": "00014",
+  "complemento": "LOJ C",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CATETE",
+  "uf": "RJ",
+  "cep": "22.220-070",
+  "telefone": "(21) 3497-7782",
+  "data_situacao": "26/06/2015",
+  "cnpj": "22.734.601/0001-60",
+  "ultima_atualizacao": "2025-06-30T19:32:11.678Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "26/06/2015",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

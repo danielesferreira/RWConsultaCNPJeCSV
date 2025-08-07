@@ -1,0 +1,65 @@
+{
+  "abertura": "05/11/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "44.144.183 SILVANA CRISTINA MARQUES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    },
+    {
+      "code": "85.99-6-05",
+      "text": "Cursos preparatórios para concursos"
+    },
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    }
+  ],
+  "logradouro": "TRAVESSA RENATO PACHECO MARQUES",
+  "numero": "58",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.120-200",
+  "email": "momentoperfeio@gmail.com",
+  "telefone": "(24) 2020-1854",
+  "data_situacao": "05/11/2021",
+  "cnpj": "44.144.183/0001-94",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

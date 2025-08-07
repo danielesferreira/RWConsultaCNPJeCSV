@@ -1,0 +1,57 @@
+{
+  "abertura": "03/05/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "30.350.048 LUCIMARA STUTZ TEIXEIRA MENDONCA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "logradouro": "RUA JOAQUIM A R SOBRINHO",
+  "numero": "60",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CAMPO DO PRADO",
+  "uf": "RJ",
+  "cep": "28.681-365",
+  "email": "lucistutz@gmail.com",
+  "telefone": "(21) 9691-3897",
+  "data_situacao": "03/05/2018",
+  "cnpj": "30.350.048/0001-90",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "3000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

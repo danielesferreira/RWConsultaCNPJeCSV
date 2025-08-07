@@ -1,0 +1,93 @@
+{
+  "abertura": "01/10/2015",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "F.I.M. DE ANDRADE MAIA",
+  "fantasia": "MILTON MOTOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "45.41-2-06",
+      "text": "Comércio a varejo de peças e acessórios novos para motocicletas e motonetas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.12-9-01",
+      "text": "Representantes comerciais e agentes do comércio de veículos automotores"
+    },
+    {
+      "code": "45.20-0-07",
+      "text": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+    },
+    {
+      "code": "45.41-2-03",
+      "text": "Comércio a varejo de motocicletas e motonetas novas"
+    },
+    {
+      "code": "45.41-2-04",
+      "text": "Comércio a varejo de motocicletas e motonetas usadas"
+    },
+    {
+      "code": "45.43-9-00",
+      "text": "Manutenção e reparação de motocicletas"
+    },
+    {
+      "code": "46.18-4-99",
+      "text": "Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "77.11-0-00",
+      "text": "Locação de automóveis sem condutor"
+    }
+  ],
+  "logradouro": "AVENIDA PRESIDENTE CASTELO BRANCO",
+  "numero": "4714",
+  "municipio": "FORTALEZA",
+  "bairro": "BARRA DO CEARA",
+  "uf": "CE",
+  "cep": "60.334-100",
+  "email": "jmmotos.miltonmaia@gmail.com",
+  "telefone": "(85) 8762-9999",
+  "data_situacao": "01/10/2015",
+  "cnpj": "23.395.302/0001-01",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

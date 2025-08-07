@@ -1,0 +1,74 @@
+{
+  "abertura": "22/02/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CONSTRUMIL MATERIAIS PARA CONSTRUCAO LTDA",
+  "fantasia": "CONSTRUMIL MATERIAIS PARA CONSTRUCAO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "32.99-0-03",
+      "text": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+    },
+    {
+      "code": "18.22-9-99",
+      "text": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MILTON JOSE DE SOUZA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA CLEMENTE MARTINS RIBEIRO",
+  "numero": "160",
+  "municipio": "PORTEIRINHA",
+  "bairro": "VILA SERRANOPOLIS",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "arservicos@live.com",
+  "telefone": "(38) 3831-8105",
+  "data_situacao": "22/02/2014",
+  "cnpj": "19.771.277/0001-46",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "18000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

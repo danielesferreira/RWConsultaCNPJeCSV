@@ -1,0 +1,82 @@
+{
+  "abertura": "27/07/2016",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MAE E FILHO RESTAURANTE E CAFETERIA LTDA",
+  "fantasia": "RESTAURANTE VO FRIDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.11-2-04",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+    },
+    {
+      "code": "77.29-2-02",
+      "text": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+    },
+    {
+      "code": "82.30-0-01",
+      "text": "Serviços de organização de feiras, congressos, exposições e festas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EGYDIO RAULINO CONRAT NETO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "TENISE MARIA KIRCHNER CONRAT",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R JOAO HENRIQUE PAULI",
+  "numero": "109",
+  "municipio": "ANTONIO CARLOS",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.180-071",
+  "email": "restaurantevofrida@gmail.com",
+  "telefone": "(48) 9619-7632",
+  "data_situacao": "27/07/2016",
+  "cnpj": "25.301.175/0001-60",
+  "ultima_atualizacao": "2025-07-25T17:45:57.991Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

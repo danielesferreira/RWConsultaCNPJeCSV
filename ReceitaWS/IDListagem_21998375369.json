@@ -1,0 +1,62 @@
+{
+  "abertura": "14/09/2005",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RECYCLE E CAFE CACHOEIRAS LTDA",
+  "fantasia": "RECYCLE @ CAFE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ROSANE PEREIRA BATISTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA LORD BADEN POWEL",
+  "numero": "62",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CAMPO DO PRADO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "ofraga@brasilvision.com.br",
+  "telefone": "(21) 9837-9566",
+  "data_situacao": "14/09/2005",
+  "cnpj": "07.598.530/0001-22",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2019",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "14/03/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "54.332.877 ELIEL OLIVEIRA DA SILVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA VILELA TAVARES",
+  "numero": "332",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MEIER",
+  "uf": "RJ",
+  "cep": "20.725-220",
+  "email": "eo5120147@gmail.com",
+  "telefone": "(21) 9765-9294",
+  "data_situacao": "14/03/2024",
+  "cnpj": "54.332.877/0001-09",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "14/03/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "14/03/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

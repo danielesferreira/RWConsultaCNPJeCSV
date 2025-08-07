@@ -1,0 +1,57 @@
+{
+  "abertura": "20/01/1998",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+  "fantasia": "MCDONALDS",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "RUA TREZE DE MAIO",
+  "numero": "1947",
+  "complemento": "ARCO 101 I/J",
+  "municipio": "SAO PAULO",
+  "bairro": "PARAISO",
+  "uf": "SP",
+  "cep": "01.327-000",
+  "email": "paralegal@br.mcd.com",
+  "telefone": "(011) 7296-9800",
+  "data_situacao": "03/11/2005",
+  "cnpj": "42.591.651/0254-80",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "442788933.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

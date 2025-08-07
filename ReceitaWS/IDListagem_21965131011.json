@@ -1,0 +1,66 @@
+{
+  "abertura": "21/02/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ATOMIC GAMES LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "95.21-5-00",
+      "text": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "NEILSON MENDES DO NASCIMENTO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R DAGMAR FONSECA",
+  "numero": "26",
+  "complemento": "LOJA B STAND 106",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MADUREIRA",
+  "uf": "RJ",
+  "cep": "21.351-040",
+  "telefone": "(21) 3369-3100",
+  "data_situacao": "23/03/2022",
+  "cnpj": "13.357.172/0001-69",
+  "ultima_atualizacao": "2025-07-15T19:23:49.619Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

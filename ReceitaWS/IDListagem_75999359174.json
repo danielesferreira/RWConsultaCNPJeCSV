@@ -1,0 +1,66 @@
+{
+  "abertura": "05/12/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FUTURA EMPREENDIMENTOS TURISTICOS LTDA",
+  "fantasia": "HOTEL XAMEGO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "55.10-8-01",
+      "text": "Hotéis"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-04",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARCELO GOMES DA SILVA JUNIOR",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R JUSCELINO KUBISTCHEK",
+  "numero": "265",
+  "municipio": "SALVADOR",
+  "bairro": "CAJAZEIRAS XI",
+  "uf": "BA",
+  "cep": "41.330-500",
+  "email": "marcelofutura@gmail.com",
+  "telefone": "(71) 3302-3313/ (71) 8814-9876",
+  "data_situacao": "05/12/2007",
+  "cnpj": "09.239.298/0001-61",
+  "ultima_atualizacao": "2025-07-21T14:14:48.742Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/03/2008",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

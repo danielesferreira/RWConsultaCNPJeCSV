@@ -1,0 +1,65 @@
+{
+  "abertura": "06/03/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ELISSANDRO NUNES DE BRITO 05270165600",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "79.12-1-00",
+      "text": "Operadores turísticos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "79.11-2-00",
+      "text": "Agências de viagens"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA SAO TOME",
+  "numero": "121",
+  "municipio": "PORTEIRINHA",
+  "bairro": "CENTRO",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "brancobiologo@gmail.com",
+  "telefone": "(38) 9115-3469",
+  "data_situacao": "06/03/2020",
+  "cnpj": "36.586.112/0001-13",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "7000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "08/01/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "53.415.917 ADRIANE CRISTINA LIMA DA SILVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "logradouro": "RODOVIA ARMANDO CALIL BULOS",
+  "numero": "5785",
+  "complemento": "SALA 02",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "adrianelima891@gmail.com",
+  "telefone": "(48) 8850-9377",
+  "data_situacao": "08/01/2024",
+  "cnpj": "53.415.917/0001-13",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "08/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "08/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

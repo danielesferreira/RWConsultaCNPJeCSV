@@ -1,0 +1,73 @@
+{
+  "abertura": "04/07/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ANTONIO GABRIEL GOMES DE ANDRADE",
+  "fantasia": "GALPAO DAS LAMINAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "33.14-7-99",
+      "text": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+    },
+    {
+      "code": "46.14-1-00",
+      "text": "Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves"
+    },
+    {
+      "code": "47.44-0-02",
+      "text": "Comércio varejista de madeira e artefatos"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    }
+  ],
+  "logradouro": "AVENIDA BRIGADEIRO EDUARDO GOMES",
+  "numero": "1951",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.870-100",
+  "email": "legalizacao1@mendeselimacontabilidade.com.br",
+  "telefone": "(31) 2526-7300",
+  "data_situacao": "04/07/2018",
+  "cnpj": "30.849.621/0001-05",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

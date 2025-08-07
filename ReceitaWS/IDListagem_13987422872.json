@@ -1,0 +1,57 @@
+{
+  "abertura": "07/02/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "IVANEIDE DIAS 25419908808",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA PEDRO BATISTA MENEZES",
+  "numero": "97",
+  "complemento": "GARAGE",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "VILA SONIA",
+  "uf": "SP",
+  "cep": "11.723-180",
+  "email": "legalizacao@grupoconexaoideal.com.br",
+  "telefone": "(13) 3222-9443",
+  "data_situacao": "07/02/2019",
+  "cnpj": "32.694.962/0001-84",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

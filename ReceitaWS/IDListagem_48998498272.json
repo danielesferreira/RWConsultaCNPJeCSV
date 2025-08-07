@@ -1,0 +1,66 @@
+{
+  "abertura": "17/03/2016",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MINIMERCADO CASA DAS BEBIDAS LTDA",
+  "fantasia": "CIA DAS BEBIDAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANA MARIA ZILLI MUNARI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "LIDERSON FERNANDO FRANCISQUINI FERNANDES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA INTENDENTE JOAO NUNES VIEIRA",
+  "numero": "1220",
+  "complemento": "LOJA 08",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-100",
+  "email": "cia_bebidas@hotmail.com",
+  "telefone": "(48) 9103-2213",
+  "data_situacao": "17/03/2016",
+  "cnpj": "24.405.526/0001-10",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "90000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

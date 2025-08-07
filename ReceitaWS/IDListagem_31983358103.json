@@ -1,0 +1,62 @@
+{
+  "abertura": "30/07/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GALPAO FERRAGENS LTDA",
+  "fantasia": "RMA HOME CENTER",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ROSARIA MANOELA ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA BRIGADEIRO EDUARDO GOMES",
+  "numero": "1949",
+  "complemento": "LOJA A",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.870-100",
+  "email": "galpaoferragens@gmail.com",
+  "telefone": "(31) 3474-3386",
+  "data_situacao": "30/07/2012",
+  "cnpj": "16.594.326/0001-24",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

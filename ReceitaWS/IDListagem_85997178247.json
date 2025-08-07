@@ -1,0 +1,74 @@
+{
+  "abertura": "23/02/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RCM ELETRONICA E ELETRICA ILUMINACAO EM GERAL LTDA.",
+  "fantasia": "ELETRONICA REAL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    },
+    {
+      "code": "47.56-3-00",
+      "text": "Comércio varejista especializado de instrumentos musicais e acessórios"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CRISTIANO BARAO DIAS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA CORONEL CORREIA",
+  "numero": "1607",
+  "complemento": "LOJA A - TERREO",
+  "municipio": "CAUCAIA",
+  "bairro": "CENTRO",
+  "uf": "CE",
+  "cep": "61.600-004",
+  "email": "eletronicarealcaucaia@gmail.com",
+  "telefone": "(85) 9717-8247 / (0000) 0000-0000",
+  "data_situacao": "23/02/2023",
+  "cnpj": "49.683.625/0001-94",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "200000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "26/10/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JUSSARA MARIA DA SILVA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-04",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JUSSARA MARIA DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA TAMANDARE",
+  "numero": "401",
+  "municipio": "PORTO ALEGRE",
+  "bairro": "CAMAQUA",
+  "uf": "RS",
+  "cep": "91.900-790",
+  "email": "carlos_caneda@yahoo.com",
+  "telefone": "(51) 8491-3025",
+  "data_situacao": "26/10/2022",
+  "cnpj": "48.423.402/0001-25",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "26/10/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "26/10/2022",
+    "data_exclusao": "31/01/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

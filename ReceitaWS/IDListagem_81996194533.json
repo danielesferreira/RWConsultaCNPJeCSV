@@ -1,0 +1,57 @@
+{
+  "abertura": "02/12/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MARIA EDUARDA SANTANA CARNEIRO 70872288463",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "logradouro": "RUA DEPUTADO AFRANIO GODOY",
+  "numero": "69",
+  "municipio": "RECIFE",
+  "bairro": "IBURA",
+  "uf": "PE",
+  "cep": "51.220-260",
+  "email": "eduardasantana1230@gmail.com",
+  "telefone": "(81) 7906-9253",
+  "data_situacao": "02/12/2021",
+  "cnpj": "44.457.253/0001-64",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

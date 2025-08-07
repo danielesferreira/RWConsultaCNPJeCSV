@@ -1,0 +1,78 @@
+{
+  "abertura": "26/07/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BY MAIRA COSMETICOS E PERFURMARIA LTDA",
+  "fantasia": "BY MAIRA COSMETICOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.49-4-04",
+      "text": "Comércio atacadista de móveis e artigos de colchoaria"
+    },
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "BENEDITA MARIA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA JOAO CLAUDINO DA SILVA",
+  "numero": "395-D",
+  "complemento": "AP 202",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CURADO",
+  "uf": "PE",
+  "cep": "54.240-130",
+  "email": "sheymaira@gmail.com",
+  "telefone": "(81) 9950-7067 / (0000) 0000-0000",
+  "data_situacao": "26/07/2024",
+  "cnpj": "56.098.640/0001-30",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "26/07/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

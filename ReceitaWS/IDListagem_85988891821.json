@@ -1,0 +1,57 @@
+{
+  "abertura": "11/07/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "37.690.599 FABIANA CATIA DE PAULA SILVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "5452",
+  "complemento": "LOJA 01;LOJA 02",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-443",
+  "email": "katiapaulasilva@hotmail.com",
+  "telefone": "(85) 8889-1821",
+  "data_situacao": "11/07/2020",
+  "cnpj": "37.690.599/0001-42",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "11/07/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "11/07/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "14/04/2015",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GISELY AVILA DA SILVA OLEO CENTER",
+  "fantasia": "CENTER OLEO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.32-6-00",
+      "text": "Comércio varejista de lubrificantes"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    }
+  ],
+  "logradouro": "RUA LUIZ ARMANDO OHPIS",
+  "numero": "49",
+  "complemento": "BRCAO: 02;",
+  "municipio": "ARAUCARIA",
+  "bairro": "ESTACAO",
+  "uf": "PR",
+  "cep": "83.705-072",
+  "telefone": "(41) 3643-5557",
+  "data_situacao": "14/04/2015",
+  "cnpj": "22.251.244/0001-80",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

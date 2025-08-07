@@ -1,0 +1,61 @@
+{
+  "abertura": "28/09/1996",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "ASSOCIACAO REMAR DO BRASIL",
+  "porte": "DEMAIS",
+  "natureza_juridica": "399-9 - Associação Privada",
+  "atividade_principal": [
+    {
+      "code": "94.30-8-00",
+      "text": "Atividades de associações de defesa de direitos sociais"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "94.93-6-00",
+      "text": "Atividades de organizações associativas ligadas à cultura e à arte"
+    },
+    {
+      "code": "94.99-5-00",
+      "text": "Atividades associativas não especificadas anteriormente"
+    }
+  ],
+  "logradouro": "RUA JOANA NASCIMENTO",
+  "numero": "157",
+  "complemento": "A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "BONSUCESSO",
+  "uf": "RJ",
+  "cep": "21.042-180",
+  "data_situacao": "24/09/2005",
+  "cnpj": "39.509.245/0004-27",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "abertura": "05/06/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "50.943.831 JOSE LUIS DOS SANTOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "logradouro": "RUA OITO (VL SOCIAL)",
+  "numero": "12",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-090",
+  "email": "joseluisdossantossantos8661@gmail.com",
+  "telefone": "(81) 8677-0505",
+  "data_situacao": "05/06/2023",
+  "cnpj": "50.943.831/0001-75",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "4000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "05/06/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "05/06/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

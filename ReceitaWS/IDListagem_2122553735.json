@@ -1,0 +1,70 @@
+{
+  "abertura": "10/07/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BAZAR PROMOCOES DO CATETE LTDA",
+  "fantasia": "PROMOCOES TEM TUDO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "NELSON SANTAREM NEVES",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "LUIZ CLAUDIO SANTAREM NEVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R DO CATETE",
+  "numero": "178",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CATETE",
+  "uf": "RJ",
+  "cep": "22.220-000",
+  "telefone": "(21) 3392-0150",
+  "data_situacao": "10/07/2007",
+  "cnpj": "08.949.100/0001-70",
+  "ultima_atualizacao": "2025-07-23T18:28:35.355Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "06/08/2007",
+    "data_exclusao": "31/12/2015",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

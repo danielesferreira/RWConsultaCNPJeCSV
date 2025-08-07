@@ -1,0 +1,62 @@
+{
+  "abertura": "19/12/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PANIFICADORA TALITA LTDA",
+  "fantasia": "PANIFICADORA TALITA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "PEDRO VIEIRA DOS SANTOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ANDARAI",
+  "numero": "305",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.420-100",
+  "telefone": "(81) 9945-5095 / (81) 3222-3016",
+  "data_situacao": "11/11/2020",
+  "cnpj": "10.550.004/0001-05",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "150000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": "31/12/2022",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

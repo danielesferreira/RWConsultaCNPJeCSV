@@ -1,0 +1,57 @@
+{
+  "abertura": "03/07/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ADRIANA JULCINEIA GONCALVES",
+  "fantasia": "ADRI FLORES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    }
+  ],
+  "logradouro": "RUA JOAO PESSOA",
+  "numero": "110",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-110",
+  "email": "adri_flores_age@hotmail.com",
+  "telefone": "(48) 3243-3821",
+  "data_situacao": "03/07/2012",
+  "cnpj": "15.868.055/0001-95",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "03/07/2012",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

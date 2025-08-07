@@ -1,0 +1,57 @@
+{
+  "abertura": "17/06/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "51.086.766 MARCIO ZEMIANI",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RODOVIA JOAO GUALBERTO SOARES",
+  "numero": "274",
+  "complemento": "SALA 4",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "SAO JOAO DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.060-000",
+  "email": "rosanezemiani@gmail.com",
+  "telefone": "(48) 9160-3816",
+  "data_situacao": "17/06/2023",
+  "cnpj": "51.086.766/0001-71",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "17/06/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "17/06/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

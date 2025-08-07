@@ -1,0 +1,110 @@
+{
+  "abertura": "07/11/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PAULA CRISTINA TEIXEIRA SANTOS - PRESENTES E ACESSORIOS LTDA",
+  "fantasia": "BECO PRESENTES & ACESSORIOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    },
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "PAULA CRISTINA TEIXEIRA SANTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "BRENO NARDY BARONI DE LANA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "1712",
+  "complemento": "LOJA 01",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.820-622",
+  "email": "renata.as7l@gmail.com",
+  "telefone": "(31) 3773-5461 / (31) 3771-0996",
+  "data_situacao": "13/02/2023",
+  "cnpj": "10.459.364/0001-98",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/11/2008",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

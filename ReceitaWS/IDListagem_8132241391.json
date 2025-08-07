@@ -1,0 +1,57 @@
+{
+  "abertura": "21/08/1995",
+  "situacao": "BAIXADA",
+  "tipo": "FILIAL",
+  "nome": "HERBUS CONFECCOES LTDA",
+  "fantasia": "UNILOJAS CONFECCOES",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "logradouro": "RUA DIREITA",
+  "numero": "112",
+  "municipio": "RECIFE",
+  "bairro": "SAO JOSE",
+  "uf": "PE",
+  "cep": "50.020-260",
+  "data_situacao": "17/08/2021",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "08.391.260/0011-19",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

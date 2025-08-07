@@ -1,0 +1,73 @@
+{
+  "abertura": "01/10/1990",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ANTONIO MARTINS DE MELO",
+  "fantasia": "AMANTO RACOES",
+  "porte": "DEMAIS",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "logradouro": "AVENIDA ARTUR BERNARDES",
+  "numero": "690",
+  "complemento": "LETRA B",
+  "municipio": "PORTEIRINHA",
+  "bairro": "CENTRO",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "marialiasilveira@hotmail.com",
+  "telefone": "(38) 3831-2534",
+  "data_situacao": "03/11/2005",
+  "cnpj": "64.329.063/0001-79",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "60000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2019",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

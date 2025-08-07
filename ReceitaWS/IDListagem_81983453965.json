@@ -1,0 +1,62 @@
+{
+  "abertura": "22/10/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GLACIAL CONCORDIA REFRIGERACAO LTDA",
+  "fantasia": "GLACIAL REFRIGERACAO",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "IGOR GOMES SANTOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA DA CONCORDIA",
+  "numero": "575",
+  "municipio": "RECIFE",
+  "bairro": "SAO JOSE",
+  "uf": "PE",
+  "cep": "50.020-055",
+  "email": "adm.glacialrefri@gmail.com",
+  "telefone": "(81) 3140-7300",
+  "data_situacao": "22/10/2021",
+  "cnpj": "43.981.086/0001-93",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": "31/12/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

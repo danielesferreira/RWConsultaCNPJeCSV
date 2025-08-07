@@ -1,0 +1,72 @@
+{
+  "abertura": "07/04/1988",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SILVEIRA SORVETES LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSE ANTONIO LOIO DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "BRASILUSA PARTICIPACOES LTDA",
+      "qual": "22-Sócio",
+      "nome_rep_legal": "PALMIRA DE FIGUEIREDO LOIO DA SILVEIRA",
+      "qual_rep_legal": "05-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA JOAQUIM NABUCO",
+  "numero": "2074",
+  "complemento": "TERREO",
+  "municipio": "MANAUS",
+  "bairro": "CENTRO",
+  "uf": "AM",
+  "cep": "69.020-030",
+  "data_situacao": "03/11/2005",
+  "cnpj": "22.809.826/0001-39",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "3000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

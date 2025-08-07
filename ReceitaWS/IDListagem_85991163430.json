@@ -1,0 +1,57 @@
+{
+  "abertura": "20/06/2019",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "J S AVILA CAVACO",
+  "fantasia": "BOTECO DO CAVACO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "1181",
+  "complemento": "LOJA 07",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-450",
+  "email": "steffano617@gmail.com",
+  "telefone": "(85) 9630-8974",
+  "data_situacao": "17/04/2024",
+  "motivo_situacao": "Extinção Por Encerramento Liquidação Voluntária",
+  "cnpj": "33.984.423/0001-42",
+  "ultima_atualizacao": "2025-07-17T03:47:34.823Z",
+  "status": "OK",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "20/06/2019",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "20/06/2019",
+    "data_exclusao": "30/09/2020",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

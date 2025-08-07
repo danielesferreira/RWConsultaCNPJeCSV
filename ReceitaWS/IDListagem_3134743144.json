@@ -1,0 +1,66 @@
+{
+  "abertura": "15/06/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "EMBALAGENS BRIGADEIRO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSE GERALDO AMARANTE RODRIGUES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA BRIGADEIRO EDUARDO GOMES",
+  "numero": "1881",
+  "complemento": "LOJA 01 02 03",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.870-100",
+  "email": "milembalagem@hotmail.com",
+  "telefone": "(31) 3474-3144",
+  "data_situacao": "15/06/2011",
+  "cnpj": "13.824.790/0001-71",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "104500.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

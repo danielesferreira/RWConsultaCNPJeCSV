@@ -1,0 +1,66 @@
+{
+  "abertura": "28/05/2010",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RM - INTERMEDIACAO DE NEGOCIOS LTDA",
+  "fantasia": "REDE MAIS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "224-0 - Sociedade Simples Limitada",
+  "atividade_principal": [
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DANIELLE KARINE OLIVEIRA PIRES COSTA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "MARIA ROSA DE OLIVEIRA PIRES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA ARTUR BERNARDES",
+  "numero": "137",
+  "complemento": "LETRA: A;",
+  "municipio": "PORTEIRINHA",
+  "bairro": "CENTRO",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "demetriocontabilidade@hotmail.com",
+  "telefone": "(38) 3831-1539 / (38) 3831-1539",
+  "data_situacao": "07/05/2019",
+  "cnpj": "12.197.550/0001-21",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2012",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

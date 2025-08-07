@@ -1,0 +1,106 @@
+{
+  "abertura": "09/10/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "WS MOREIRA FARMACIA E DROGARIA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.71-7-03",
+      "text": "Comércio varejista de produtos farmacêuticos homeopáticos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.89-0-08",
+      "text": "Comércio varejista de artigos fotográficos e para filmagem"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "WESLEY ALVES DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "WILDSON DOS SANTOS PINTO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARIA BERNARDETE MATTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "WILISMARA SABRINA ALVES DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R JORNALISTA RUBENS AVILA",
+  "numero": "180",
+  "municipio": "CURITIBA",
+  "bairro": "CIDADE INDUSTRIAL",
+  "uf": "PR",
+  "cep": "81.460-219",
+  "email": "drogariasfarmara@gmail.com",
+  "telefone": "(41) 9500-7552",
+  "data_situacao": "09/10/2023",
+  "cnpj": "52.468.088/0001-74",
+  "ultima_atualizacao": "2025-08-07T15:30:44.898Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/10/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

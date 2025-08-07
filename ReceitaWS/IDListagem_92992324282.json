@@ -1,0 +1,57 @@
+{
+  "abertura": "30/12/2013",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "R. S. GOMES",
+  "fantasia": "RESTAURANTE SHEKINAH",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA 24 DE MAIO",
+  "numero": "30",
+  "municipio": "MANAUS",
+  "bairro": "CENTRO",
+  "uf": "AM",
+  "cep": "69.010-080",
+  "email": "carlos.olivia@bol.com.br",
+  "telefone": "(92) 9195-8058",
+  "data_situacao": "14/02/2014",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "19.454.791/0001-58",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

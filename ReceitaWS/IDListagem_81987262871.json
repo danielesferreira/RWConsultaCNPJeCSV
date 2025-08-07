@@ -1,0 +1,57 @@
+{
+  "abertura": "19/11/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ROSEMARY MARIA DE SOUZA 49230808415",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "AVENIDA PROFESSOR ARTUR DE SA",
+  "numero": "1154",
+  "municipio": "RECIFE",
+  "bairro": "CIDADE UNIVERSITARIA",
+  "uf": "PE",
+  "cep": "50.740-525",
+  "email": "meirysouzaaaa@gmail.com",
+  "telefone": "(81) 8623-6700",
+  "data_situacao": "19/11/2020",
+  "cnpj": "39.842.250/0001-04",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "3000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

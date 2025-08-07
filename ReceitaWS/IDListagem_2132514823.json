@@ -1,0 +1,66 @@
+{
+  "abertura": "24/02/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SALADA VERDE RESTAURANTE LANCHONETE E MERCEARIA LTDA",
+  "fantasia": "SALADA VERDE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA DAS VIRGENS CARVALHO DOS SANTOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA NOSSA SENHORA DE COPACABANA",
+  "numero": "00643",
+  "complemento": "FDS",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "COPACABANA",
+  "uf": "RJ",
+  "cep": "22.050-002",
+  "email": "saladaverde05@gmail.com",
+  "telefone": "(21) 8732-9064",
+  "data_situacao": "24/02/2022",
+  "cnpj": "45.435.822/0001-33",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "24/02/2022",
+    "data_exclusao": "31/12/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

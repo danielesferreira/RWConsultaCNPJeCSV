@@ -1,0 +1,57 @@
+{
+  "abertura": "29/02/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "AMALFI COMERCIO DE ALIMENTOS LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AVENIDA DOUTOR VICTOR DO AMARAL",
+  "numero": "1769",
+  "complemento": "QUIOSQ01",
+  "municipio": "ARAUCARIA",
+  "bairro": "CENTRO",
+  "uf": "PR",
+  "cep": "83.702-040",
+  "email": "vanessa@capitola.com.br",
+  "telefone": "(41) 3023-1760",
+  "data_situacao": "29/02/2024",
+  "cnpj": "29.363.570/0012-80",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

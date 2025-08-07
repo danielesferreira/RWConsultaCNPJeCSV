@@ -1,0 +1,66 @@
+{
+  "abertura": "06/04/2001",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PRAPINTAR TINTAS LTDA",
+  "fantasia": "PRAPINTAR",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA DA PENHA PEDRONI DA MOTA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "VERONICA PEDRONI DA MOTA LEITE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA BENTO CARDOSO",
+  "numero": "721",
+  "complemento": "LOJA D",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "BRAS DE PINA",
+  "uf": "RJ",
+  "cep": "21.011-320",
+  "data_situacao": "03/11/2005",
+  "cnpj": "04.381.068/0001-19",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

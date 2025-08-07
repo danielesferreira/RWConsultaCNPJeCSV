@@ -1,0 +1,65 @@
+{
+  "abertura": "04/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "49.060.207 MARCONE ALVES SILVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "logradouro": "RUA ERIDANO",
+  "numero": "115",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "MIRAMAR (BARREIRO)",
+  "uf": "MG",
+  "cep": "30.644-100",
+  "email": "alciraguilar@gmail.com",
+  "telefone": "(31) 3011-2600",
+  "data_situacao": "04/01/2023",
+  "cnpj": "49.060.207/0001-40",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "04/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "04/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

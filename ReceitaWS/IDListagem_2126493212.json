@@ -1,0 +1,66 @@
+{
+  "abertura": "24/07/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MINIMERCADO E LANCHONETE RAIZ DA SERRA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CARLA FREITAS PALA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANDERSON CARVALHO FREIRE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R ESCRITORA MARIA COTTAS",
+  "numero": "592",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE STª LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "telefone": "(21) 7120-3744",
+  "data_situacao": "24/07/2018",
+  "cnpj": "31.013.037/0001-88",
+  "ultima_atualizacao": "2025-07-17T19:22:15.622Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "abertura": "21/03/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DAVIDSON OLIVEIRA DOS REIS",
+  "fantasia": "PARADA ELETRONICOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.62-8-00",
+      "text": "Comércio varejista de discos, CDs, DVDs e fitas"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "1664",
+  "complemento": "LOJA 100 101 102 SETOR C",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.820-622",
+  "email": "contabilidadezamboni@gmail.com",
+  "telefone": "(31) 3474-2584",
+  "data_situacao": "21/03/2012",
+  "cnpj": "15.235.216/0001-03",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "250000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "21/03/2012",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "21/03/2012",
+    "data_exclusao": "31/10/2012",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

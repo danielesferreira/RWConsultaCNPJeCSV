@@ -1,0 +1,66 @@
+{
+  "abertura": "15/03/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DGG COMERCIO DE PRODUTOS OPTICOS LTDA",
+  "fantasia": "OPTIPRIME",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DIRCEU DA SILVA FRANCO NETO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA SENADOR MANOEL BARATA",
+  "numero": "781",
+  "complemento": "LOJA 01",
+  "municipio": "BELEM",
+  "bairro": "CAMPINA",
+  "uf": "PA",
+  "cep": "66.010-146",
+  "email": "optiprimebelem@gmail.com",
+  "telefone": "(81) 9235-6914",
+  "data_situacao": "15/03/2018",
+  "cnpj": "29.944.341/0001-05",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "150000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

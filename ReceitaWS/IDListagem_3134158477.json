@@ -1,0 +1,70 @@
+{
+  "abertura": "12/06/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RIBEIRO E FERREIRA COMERCIO ELETRONICO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CRISTIANE CAMPOS RIBEIRO FERREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "1904",
+  "complemento": "LETRA B",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.820-622",
+  "email": "contabilidadeamorim@uol.com.br",
+  "telefone": "(31) 3471-2000",
+  "data_situacao": "12/06/2013",
+  "cnpj": "18.286.144/0001-11",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "10/03/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FRUTARIA ACRE NO ICARAI LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FELIPE SOUZA ALVAO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "92",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-443",
+  "email": "felipesouzabenjamim24@gmail.com",
+  "telefone": "(68) 9206-9505",
+  "data_situacao": "10/03/2025",
+  "cnpj": "59.819.944/0001-38",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "10/03/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "10/03/2025",
+    "data_exclusao": "30/04/2025",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

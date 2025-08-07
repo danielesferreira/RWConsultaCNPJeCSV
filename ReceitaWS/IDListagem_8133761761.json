@@ -1,0 +1,66 @@
+{
+  "abertura": "22/05/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "E.M.K OTICA LTDA",
+  "fantasia": "LANE'S OTICA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    },
+    {
+      "code": "53.20-2-02",
+      "text": "Serviços de entrega rápida"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EDILANE MIRANDA DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ARAO LINS DE ANDRADE",
+  "numero": "25",
+  "complemento": "LOJA A",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PRAZERES",
+  "uf": "PE",
+  "cep": "54.310-335",
+  "email": "lanesotica@hotmail.com",
+  "telefone": "(81) 8738-2203 / (81) 3376-1761 / (81) 3376-1761",
+  "data_situacao": "22/05/2017",
+  "cnpj": "27.784.769/0001-02",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

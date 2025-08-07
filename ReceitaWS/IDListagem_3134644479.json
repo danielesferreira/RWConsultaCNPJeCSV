@@ -1,0 +1,70 @@
+{
+  "abertura": "27/03/1987",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MALIBU ESPORTES LTDA",
+  "fantasia": "MALIBU ESPORTES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "WALTER COBRA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "TELMA ANTONIA DE BRITO COBRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PARA DE MINAS",
+  "numero": "1073",
+  "complemento": "B",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "PADRE EUSTAQUIO",
+  "uf": "MG",
+  "cep": "30.730-440",
+  "telefone": "(031) 4648-250",
+  "data_situacao": "03/11/2005",
+  "cnpj": "22.744.700/0001-23",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

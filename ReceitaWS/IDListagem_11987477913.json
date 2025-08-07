@@ -1,0 +1,83 @@
+{
+  "abertura": "20/01/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AVENUE HOCHE COMERCIO VAREJISTA DE PRODUTOS LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "96.02-5-02",
+      "text": "Atividades de estética e outros serviços de cuidados com a beleza"
+    },
+    {
+      "code": "46.46-0-01",
+      "text": "Comércio atacadista de cosméticos e produtos de perfumaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DOTCOM GROUP COMERCIO DE PRESENTES S.A.",
+      "qual": "22-Sócio",
+      "nome_rep_legal": "JOAO PAULO FEIJO BITTENCOURT",
+      "qual_rep_legal": "05-Administrador"
+    },
+    {
+      "nome": "JOAO PAULO FEIJO BITTENCOURT",
+      "qual": "05-Administrador"
+    },
+    {
+      "nome": "ANDREA ANASTASI MARTINS ORCIOLI",
+      "qual": "05-Administrador"
+    },
+    {
+      "nome": "SEPHORA USA, INC.",
+      "qual": "37-Sócio Pessoa Jurídica Domiciliado no Exterior",
+      "pais_origem": "ESTADOS UNIDOS",
+      "nome_rep_legal": "JOAO PAULO FEIJO BITTENCOURT",
+      "qual_rep_legal": "17-Procurador"
+    }
+  ],
+  "logradouro": "AVENIDA DAS NACOES UNIDAS",
+  "numero": "12901",
+  "complemento": "ANDAR 34 CONJ N 3402 TORRE NORTE",
+  "municipio": "SAO PAULO",
+  "bairro": "BROOKLIN PAULISTA",
+  "uf": "SP",
+  "cep": "04.578-910",
+  "email": "fiscal.brazil@sephora.com",
+  "telefone": "(11) 4369-0388 / (11) 4369-0388",
+  "data_situacao": "20/01/2012",
+  "cnpj": "15.048.124/0001-14",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "308010000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "27/01/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "59.127.457 JAMILLE PINHEIRO DOS SANTOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "logradouro": "AV PIRPIRITUBA",
+  "numero": "231",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "REALENGO",
+  "uf": "RJ",
+  "cep": "21.760-240",
+  "email": "jamille.santos21@gmail.com",
+  "telefone": "(21) 3332-1956",
+  "data_situacao": "27/01/2025",
+  "cnpj": "59.127.457/0001-04",
+  "ultima_atualizacao": "2025-06-16T11:13:50.882Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "27/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-05-11T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "27/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-05-11T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

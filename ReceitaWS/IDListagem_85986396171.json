@@ -1,0 +1,57 @@
+{
+  "abertura": "23/01/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "53.609.839 FRANCISCO VALMIRANDO CARNEIRO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "logradouro": "RUA AMERICO ROCHA LIMA",
+  "numero": "557",
+  "municipio": "FORTALEZA",
+  "bairro": "MANOEL SATIRO",
+  "uf": "CE",
+  "cep": "60.713-240",
+  "email": "fcovalmirando@gmail.com",
+  "telefone": "(85) 8639-6171",
+  "data_situacao": "23/01/2024",
+  "cnpj": "53.609.839/0001-98",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "23/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "23/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

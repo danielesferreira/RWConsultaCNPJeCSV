@@ -1,0 +1,57 @@
+{
+  "abertura": "21/07/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GLENNIA NAYARA DIAS CARMO",
+  "fantasia": "MACHADAO POINT BURGUER",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AVENIDA DOS ENGENHEIROS",
+  "numero": "936",
+  "complemento": "LOJA 7",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "CASTELO",
+  "uf": "MG",
+  "cep": "30.840-372",
+  "email": "glenianayara30@gamil.com",
+  "telefone": "(31) 9505-9590",
+  "data_situacao": "21/07/2022",
+  "cnpj": "47.245.175/0001-22",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "15000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "21/07/2022",
+    "data_exclusao": "21/07/2022",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

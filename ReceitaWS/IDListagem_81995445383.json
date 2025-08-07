@@ -1,0 +1,57 @@
+{
+  "abertura": "27/08/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "VIA DA CONSTRUCAO LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-05",
+      "text": "Comércio varejista de materiais de construção não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA SAO SEBASTIAO",
+  "numero": "585",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.410-500",
+  "email": "henrique@viaconstrucao.com.br",
+  "telefone": "(81) 3361-3785",
+  "data_situacao": "27/08/2024",
+  "cnpj": "04.940.640/0005-66",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "80000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

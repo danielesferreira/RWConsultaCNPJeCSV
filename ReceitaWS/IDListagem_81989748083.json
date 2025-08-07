@@ -1,0 +1,57 @@
+{
+  "abertura": "13/05/2009",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "MERCANTIL REAL LTDA",
+  "fantasia": "LEAO ATACAREJO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "52.23-1-00",
+      "text": "Estacionamento de veículos"
+    }
+  ],
+  "logradouro": "AV AYRTON SENNA DA SILVA",
+  "numero": "3402",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.410-240",
+  "email": "leao@mercantilreal.com.br",
+  "telefone": "(81) 3302-4660",
+  "data_situacao": "13/05/2009",
+  "cnpj": "08.131.831/0007-08",
+  "ultima_atualizacao": "2025-07-19T14:27:52.578Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "15/03/2016",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "24.388.023 LEIDIANE LOPES CANDIDO DA SILVA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "logradouro": "R COELHO NETO",
+  "numero": "454",
+  "municipio": "FORTALEZA",
+  "bairro": "ALVARO WEYNE",
+  "uf": "CE",
+  "cep": "60.336-210",
+  "email": "leidylopes04@hotmail.com",
+  "telefone": "(85) 9639-2712",
+  "data_situacao": "15/03/2016",
+  "cnpj": "24.388.023/0001-83",
+  "ultima_atualizacao": "2025-07-17T03:42:12.601Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "3000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

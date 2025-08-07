@@ -1,0 +1,105 @@
+{
+  "abertura": "23/07/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "SENDAS DISTRIBUIDORA S/A",
+  "porte": "DEMAIS",
+  "natureza_juridica": "204-6 - Sociedade Anônima Aberta",
+  "atividade_principal": [
+    {
+      "code": "47.11-3-01",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.91-5-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    },
+    {
+      "code": "52.12-5-00",
+      "text": "Carga e descarga"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.20-1-03",
+      "text": "Cantinas - serviços de alimentação privativos"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "66.19-3-99",
+      "text": "Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente"
+    },
+    {
+      "code": "73.12-2-00",
+      "text": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "82.99-7-02",
+      "text": "Emissão de vales-alimentação, vales-transporte e similares"
+    }
+  ],
+  "logradouro": "R DO SALETE",
+  "numero": "000167",
+  "complemento": "EDIF ASSAI ATACADISTA LOJA BARRIS",
+  "municipio": "SALVADOR",
+  "bairro": "BARRIS",
+  "uf": "BA",
+  "cep": "40.070-200",
+  "email": "paralegal@assai.com.br",
+  "telefone": "(11) 3411-5000",
+  "data_situacao": "23/07/2021",
+  "cnpj": "06.057.223/0470-54",
+  "ultima_atualizacao": "2025-07-25T20:12:30.925Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

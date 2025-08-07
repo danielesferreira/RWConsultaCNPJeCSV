@@ -1,0 +1,74 @@
+{
+  "abertura": "29/08/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "EMPORIO SANTO INACIO COMERCIO DE ALIMENTOS LTDA",
+  "fantasia": "EMPORIO SANTO INACIO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal (Dispensada *)"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSE INACIO PINTO",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "DAYARA KELLEN SOARES PINTO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV DOUTOR CRISTIANO GUIMARAES",
+  "numero": "1898",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ITAPOA",
+  "uf": "MG",
+  "cep": "31.720-300",
+  "email": "dayarakellen@hotmail.com",
+  "telefone": "(31) 9972-9229",
+  "data_situacao": "29/08/2018",
+  "cnpj": "31.372.224/0001-58",
+  "ultima_atualizacao": "2025-08-04T18:39:26.313Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

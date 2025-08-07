@@ -1,0 +1,74 @@
+{
+  "abertura": "13/04/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JOTA STORE LTDA",
+  "fantasia": "JOTA STORE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "73.19-0-03",
+      "text": "Marketing direto"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RICARDO HOFFMANN WESTPHAL",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANA PAULA MORAES WESTPHAL",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA JOAO PESSOA",
+  "numero": "125",
+  "complemento": "SALA 01",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-110",
+  "email": "kiko.westphal@hotmail.com",
+  "telefone": "(48) 8422-5394",
+  "data_situacao": "13/04/2023",
+  "cnpj": "50.300.065/0001-20",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/04/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "13/04/2023",
+    "data_exclusao": "30/06/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

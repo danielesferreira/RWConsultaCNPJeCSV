@@ -1,0 +1,57 @@
+{
+  "abertura": "07/11/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "58.014.285 JHONATAS SOUZA DE MELO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RUA PROFESSORA ZULEICA BRASIL SILVA",
+  "numero": "23",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-140",
+  "email": "jhonatassouza@hotmail.com",
+  "telefone": "(21) 7411-1632",
+  "data_situacao": "07/11/2024",
+  "cnpj": "58.014.285/0001-08",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/11/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "07/11/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

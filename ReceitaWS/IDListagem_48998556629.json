@@ -1,0 +1,66 @@
+{
+  "abertura": "12/11/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BELISSIMA MODA E ACESSORIOS LTDA",
+  "fantasia": "BELISSIMA MODA INTIMA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "IVANETE SANTANA LISBOA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA JOAO GUALBERTO SOARES",
+  "numero": "83",
+  "complemento": "SALA 03",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-300",
+  "email": "lisboa.taynara82@gmail.com",
+  "telefone": "(48) 3369-5825",
+  "data_situacao": "12/11/2013",
+  "cnpj": "19.240.620/0001-26",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "12/11/2013",
+    "data_exclusao": "30/09/2019",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

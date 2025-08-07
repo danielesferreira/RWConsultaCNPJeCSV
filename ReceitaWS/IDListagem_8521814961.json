@@ -1,0 +1,61 @@
+{
+  "abertura": "16/03/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MAYNARA KAREN SANTIAGO ALVES",
+  "fantasia": "OTICA LISAN",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "73.11-4-00",
+      "text": "Agências de publicidade"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    }
+  ],
+  "logradouro": "RUA FRANCISCO GLICERIO",
+  "numero": "1000",
+  "complemento": "LOJA 14",
+  "municipio": "FORTALEZA",
+  "bairro": "MARAPONGA",
+  "uf": "CE",
+  "cep": "60.711-055",
+  "email": "mbmarlene15@hotmail.com",
+  "telefone": "(85) 9791-4419",
+  "data_situacao": "16/03/2018",
+  "cnpj": "29.959.071/0001-06",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "16/03/2018",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "16/03/2018",
+    "data_exclusao": "31/12/2020",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

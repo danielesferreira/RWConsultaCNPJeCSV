@@ -1,0 +1,62 @@
+{
+  "abertura": "27/08/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "A F DE LIRA JUNIOR LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "14.14-2-00",
+      "text": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ADENILSON FRANCISCO DE LIRA JUNIOR",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA VINTE E QUATRO DE MAIO",
+  "numero": "169",
+  "municipio": "RECIFE",
+  "bairro": "SAO JOSE",
+  "uf": "PE",
+  "cep": "50.020-235",
+  "email": "junior_lira@hotmail.com",
+  "telefone": "(81) 4141-2368",
+  "data_situacao": "27/08/2018",
+  "cnpj": "31.340.018/0001-66",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "95400.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

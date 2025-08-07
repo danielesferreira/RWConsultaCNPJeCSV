@@ -1,0 +1,57 @@
+{
+  "abertura": "07/02/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ADRIANE SUZARTE DA SILVA",
+  "fantasia": "ESSENCIA DO ACAI E SORVETES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AVENIDA BRASIL",
+  "numero": "1760",
+  "complemento": "SALA 01",
+  "municipio": "SANTA HELENA",
+  "bairro": "CENTRO",
+  "uf": "PR",
+  "cep": "85.892-000",
+  "telefone": "(45) 8817-5186",
+  "data_situacao": "07/02/2019",
+  "cnpj": "32.696.450/0001-57",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

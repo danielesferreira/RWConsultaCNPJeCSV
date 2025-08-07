@@ -1,0 +1,97 @@
+{
+  "abertura": "18/09/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MARCELO GARCIA DA ROSA JUNIOR 11361119721",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "77.39-0-99",
+      "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-04",
+      "text": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "77.32-2-01",
+      "text": "Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+    },
+    {
+      "code": "47.63-6-04",
+      "text": "Comércio varejista de artigos de caça, pesca e camping"
+    },
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    },
+    {
+      "code": "47.44-0-02",
+      "text": "Comércio varejista de madeira e artefatos"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    },
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "logradouro": "RUA R MAURICIO DE ABREU",
+  "numero": "675",
+  "complemento": "LOJA 01",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE VENEZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "marcelogarciadarosa@yahoo.com.br",
+  "telefone": "(21) 2649-2118",
+  "data_situacao": "18/09/2019",
+  "cnpj": "34.906.159/0001-91",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

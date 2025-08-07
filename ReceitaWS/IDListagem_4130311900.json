@@ -1,0 +1,102 @@
+{
+  "abertura": "15/04/2010",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TEXLUSK & FIXA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.19-2-00",
+      "text": "Representantes comerciais e agentes do comércio de mercadorias em geral não especializado"
+    },
+    {
+      "code": "46.44-3-01",
+      "text": "Comércio atacadista de medicamentos e drogas de uso humano"
+    },
+    {
+      "code": "46.46-0-01",
+      "text": "Comércio atacadista de cosméticos e produtos de perfumaria"
+    },
+    {
+      "code": "46.46-0-02",
+      "text": "Comércio atacadista de produtos de higiene pessoal"
+    },
+    {
+      "code": "46.49-4-08",
+      "text": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+    },
+    {
+      "code": "46.91-5-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "49.30-2-01",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal."
+    },
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    },
+    {
+      "code": "86.50-0-99",
+      "text": "Atividades de profissionais da área de saúde não especificadas anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VALDECIR CARLOS FIXA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ROZANDRA TEXLUSK FIXA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R GRALHA-AZUL",
+  "numero": "375",
+  "complemento": "SALA 01",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-250",
+  "email": "xml@drogaprimer.com.br",
+  "telefone": "(41) 3642-3667",
+  "data_situacao": "15/04/2010",
+  "cnpj": "11.838.187/0001-13",
+  "ultima_atualizacao": "2025-07-21T19:40:34.491Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "15/04/2010",
+    "data_exclusao": "30/04/2014",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

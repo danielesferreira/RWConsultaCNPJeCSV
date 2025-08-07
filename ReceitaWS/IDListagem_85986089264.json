@@ -1,0 +1,62 @@
+{
+  "abertura": "08/02/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FRIGORIFICO MOSSORO LTDA",
+  "fantasia": "FRIGORIFICO MOSSORO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.12-1-00",
+      "text": "Serviços ambulantes de alimentação"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FRANCISCO DE PAULA TERTULINO DA CUNHA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "S/N",
+  "complemento": "LOJA 08",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.620-340",
+  "email": "marcela18carneiro@gmail.com",
+  "telefone": "(85) 8983-6467",
+  "data_situacao": "08/02/2019",
+  "cnpj": "32.712.999/0001-98",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "18000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

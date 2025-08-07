@@ -1,0 +1,57 @@
+{
+  "abertura": "19/06/2019",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "MARCOS FELIPE CONCEICAO DA SILVA 17171240703",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA MARIA FREITAS",
+  "numero": "49",
+  "complemento": "CASA 5",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MADUREIRA",
+  "uf": "RJ",
+  "cep": "21.351-010",
+  "email": "mfsolucoesgraficas1@gmail.com",
+  "telefone": "(21) 6520-5520",
+  "data_situacao": "08/08/2024",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "33.977.988/0001-00",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

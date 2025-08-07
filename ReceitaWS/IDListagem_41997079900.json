@@ -1,0 +1,66 @@
+{
+  "abertura": "19/09/2006",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AGROPECUARIA KATRIZ LTDA",
+  "fantasia": "AGROPECUARIA PUMA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DIRCEU ALOIZIO FILIPAK",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R TUCANO",
+  "numero": "1309",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-190",
+  "telefone": "(41) 3642-1180",
+  "data_situacao": "19/09/2006",
+  "cnpj": "08.319.728/0001-92",
+  "ultima_atualizacao": "2025-07-29T06:06:48.797Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

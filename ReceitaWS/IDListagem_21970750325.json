@@ -1,0 +1,57 @@
+{
+  "abertura": "09/08/2010",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "12.348.936 VALERIA FADUL FALCAO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "logradouro": "RUA MAURICIO DE ABREU",
+  "numero": "921",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE VENEZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "ffalcao10@yahoo.com",
+  "telefone": "(21) 9601-6350",
+  "data_situacao": "09/08/2010",
+  "cnpj": "12.348.936/0001-97",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

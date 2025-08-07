@@ -1,0 +1,66 @@
+{
+  "abertura": "26/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SOUSA'S COMERCIO DE COLCHOES LTDA",
+  "fantasia": "SONO BOM COLCHOES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-02",
+      "text": "Comércio varejista de artigos de colchoaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSEVALDO DE SOUSA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARIA APARECIDA DE SOUSA LEUTHIER",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA SANTO ELIAS",
+  "numero": "144",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-230",
+  "email": "sousasortobomprazeres@gmail.com",
+  "telefone": "(81) 7304-1884",
+  "data_situacao": "26/01/2023",
+  "cnpj": "49.354.562/0001-22",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "66000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "26/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

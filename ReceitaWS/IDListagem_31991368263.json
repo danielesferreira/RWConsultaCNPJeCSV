@@ -1,0 +1,61 @@
+{
+  "abertura": "28/01/1984",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "RODOVIARIO CAMILO DOS SANTOS FILHO LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "49.30-2-01",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal."
+    },
+    {
+      "code": "49.30-2-03",
+      "text": "Transporte rodoviário de produtos perigosos"
+    }
+  ],
+  "logradouro": "ROD PRESIDENTE DUTRA",
+  "numero": "02700",
+  "complemento": "EX / LOT E PA 25169",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "PAVUNA",
+  "uf": "RJ",
+  "cep": "21.535-502",
+  "email": "jane.ferreira@camilodossantos.com.br",
+  "telefone": "(32) 2102-8011",
+  "data_situacao": "03/11/2005",
+  "cnpj": "19.451.038/0003-70",
+  "ultima_atualizacao": "2025-08-04T15:01:51.758Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

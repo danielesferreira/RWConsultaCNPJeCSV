@@ -1,0 +1,61 @@
+{
+  "abertura": "07/01/1986",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "IRMAOS CRUZ LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "45.41-2-06",
+      "text": "Comércio a varejo de peças e acessórios novos para  motocicletas e motonetas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.43-9-00",
+      "text": "Manutenção e reparação de motocicletas e motonetas"
+    },
+    {
+      "code": "45.41-2-03",
+      "text": "Comércio a varejo de motocicletas e motonetas novas"
+    }
+  ],
+  "logradouro": "R PASSO DA PATRIA",
+  "numero": "383",
+  "municipio": "RECIFE",
+  "bairro": "S JOSE",
+  "uf": "PE",
+  "cep": "50.020-130",
+  "data_situacao": "18/05/2002",
+  "cnpj": "10.792.851/0002-59",
+  "ultima_atualizacao": "2025-07-23T16:14:55.255Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

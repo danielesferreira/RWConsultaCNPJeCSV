@@ -1,0 +1,62 @@
+{
+  "abertura": "24/10/2006",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "SABURA BAR E LANCHONETE LTDA",
+  "fantasia": "LEVIANO BAR",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "qsa": [
+    {
+      "nome": "MARCELO DE OLIVEIRA SANTOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA MEM DE SA",
+  "numero": "47/49",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "20.230-150",
+  "email": "peterwil@globo.com",
+  "telefone": "(21) 2482-3630 / (21) 2481-3025 / (21) 2482-4417",
+  "data_situacao": "15/08/2024",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "08.402.019/0001-76",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "104500.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2016",
+    "data_exclusao": "31/12/2016",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

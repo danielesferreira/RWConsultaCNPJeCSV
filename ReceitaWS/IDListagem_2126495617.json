@@ -1,0 +1,57 @@
+{
+  "abertura": "13/04/2018",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "RAPHAEL REZUSKI GUIDA 09174608711",
+  "fantasia": "MUNDO ANIMAL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA ACURCIO F. TORRES",
+  "numero": "209",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE SANTA LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "telefone": "(21) 7316-6533",
+  "data_situacao": "30/01/2024",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "30.195.827/0001-69",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

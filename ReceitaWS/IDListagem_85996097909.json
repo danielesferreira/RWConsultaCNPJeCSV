@@ -1,0 +1,57 @@
+{
+  "abertura": "14/02/1995",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ELISDEYRE PAULINO CAVALCANTE",
+  "fantasia": "D & IA COMERCIO DE ALIMENTOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.11-3-00",
+      "text": "Serviços combinados de escritório e apoio administrativo"
+    }
+  ],
+  "logradouro": "AVENIDA GODOFREDO MACIEL",
+  "numero": "2640",
+  "complemento": "LOJA-08",
+  "municipio": "FORTALEZA",
+  "bairro": "MARAPONGA",
+  "uf": "CE",
+  "cep": "60.710-684",
+  "telefone": "(85) 8870-9419",
+  "data_situacao": "03/11/2005",
+  "cnpj": "00.430.569/0001-97",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "25000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

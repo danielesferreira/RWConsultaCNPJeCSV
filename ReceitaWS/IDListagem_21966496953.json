@@ -1,0 +1,57 @@
+{
+  "abertura": "11/08/2015",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RAFAEL FERREIRA SILVA 86938185700",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "25.42-0-00",
+      "text": "Fabricação de artigos de serralheria, exceto esquadrias"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.43-1-00",
+      "text": "Comércio varejista de vidros"
+    }
+  ],
+  "logradouro": "RUA ANTONIO VALADARES LT 10 QD 04",
+  "numero": "00",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "BOA VISTA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "telefone": "(21) 6882-9517",
+  "data_situacao": "11/08/2015",
+  "cnpj": "23.040.608/0001-45",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "abertura": "14/09/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "KAKA COMEDORIA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.20-1-01",
+      "text": "Fornecimento de alimentos preparados preponderantemente para empresas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.35-4-99",
+      "text": "Comércio atacadista de bebidas não especificadas anteriormente"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.20-1-02",
+      "text": "Serviços de alimentação para eventos e recepções - bufê"
+    },
+    {
+      "code": "56.20-1-03",
+      "text": "Cantinas - serviços de alimentação privativos"
+    },
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "KAINARA SIMONE DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA OLIVEIRA FONSECA",
+  "numero": "210",
+  "municipio": "RECIFE",
+  "bairro": "CAMPO GRANDE",
+  "uf": "PE",
+  "cep": "52.040-250",
+  "email": "kainara2007@hotmail.com",
+  "telefone": "(81) 8360-0427",
+  "data_situacao": "14/09/2022",
+  "cnpj": "47.954.749/0001-31",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "14/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

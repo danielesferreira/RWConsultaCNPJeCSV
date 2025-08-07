@@ -1,0 +1,62 @@
+{
+  "abertura": "08/04/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "K.R. COMERCIO DE RACOES E PRODUTOS VETERINARIOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "96.09-2-08",
+      "text": "Higiene e embelezamento de animais domésticos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA DOS PRASERES DE SOUSA ALVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R DA LAPA",
+  "numero": "248",
+  "complemento": "LOJA A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "20.021-180",
+  "email": "claudiohenrique64@hotmail.com",
+  "telefone": "(21) 3274-1675/ (21) 3274-1675",
+  "data_situacao": "08/04/2014",
+  "cnpj": "20.044.207/0001-75",
+  "ultima_atualizacao": "2025-07-16T00:22:09.648Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "08/04/2014",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

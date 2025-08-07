@@ -1,0 +1,66 @@
+{
+  "abertura": "13/06/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "D&S COMERCIO VAREJISTA DE GLP LTDA",
+  "fantasia": "ORIGINAL GAS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.84-9-00",
+      "text": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSE VALDEMIR DAMASCENO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOSE AECIO DIAS DE OLIVEIRA FILHO",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA JULIO MACIEL",
+  "numero": "78",
+  "municipio": "FORTALEZA",
+  "bairro": "MANOEL SATIRO",
+  "uf": "CE",
+  "cep": "60.713-180",
+  "email": "dscomerciodegas@outlook.com",
+  "telefone": "(85) 3484-5959 / (0000) 0000-0000",
+  "data_situacao": "13/06/2024",
+  "cnpj": "55.513.502/0001-08",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

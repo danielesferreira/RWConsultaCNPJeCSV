@@ -1,0 +1,57 @@
+{
+  "abertura": "08/02/2001",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "NEUZA RIBEIRO DE LIMA ARAUJO",
+  "fantasia": "GYM COMPANY",
+  "porte": "DEMAIS",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA BRUNO PILATO DOS SANTOS",
+  "numero": "29",
+  "municipio": "ARAUCARIA",
+  "bairro": "FAZENDA VELHA",
+  "uf": "PR",
+  "cep": "83.704-510",
+  "email": "contabilesplanada@uol.com.br",
+  "telefone": "(41) 3048-0001 / (41) 9743-0089",
+  "data_situacao": "27/10/2023",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "04.289.681/0001-00",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2017",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

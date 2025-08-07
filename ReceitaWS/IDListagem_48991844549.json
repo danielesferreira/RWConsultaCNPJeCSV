@@ -1,0 +1,62 @@
+{
+  "abertura": "17/06/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JC COMERCIO DE PRODUTOS CONGELADOS LTDA",
+  "fantasia": "INGLESES INDUSTRIA E COMERCIO DE CONGELADOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MATHEUS ELLER CABRAL",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA ARMANDO CALIL BULOS",
+  "numero": "4934",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "financeiro@inglesescongelados.com.br",
+  "telefone": "(48) 3234-9388",
+  "data_situacao": "17/06/2021",
+  "cnpj": "42.366.705/0001-77",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

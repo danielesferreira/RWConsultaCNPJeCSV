@@ -1,0 +1,65 @@
+{
+  "abertura": "16/04/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "54.749.358 CLEONICE DA SILVA SANTOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "31.01-2-00",
+      "text": "Fabricação de móveis com predominância de madeira"
+    },
+    {
+      "code": "95.29-1-05",
+      "text": "Reparação de artigos do mobiliário"
+    },
+    {
+      "code": "33.29-5-01",
+      "text": "Serviços de montagem de móveis de qualquer material"
+    }
+  ],
+  "logradouro": "RUA ALEXANDRINA",
+  "numero": "40",
+  "municipio": "COTIA",
+  "bairro": "VILA SAO ROQUE (CAUCAIA DO ALTO)",
+  "uf": "SP",
+  "cep": "06.725-005",
+  "email": "cleonicela@outlook.com",
+  "telefone": "(11) 7699-2392",
+  "data_situacao": "16/04/2024",
+  "cnpj": "54.749.358/0001-40",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "16/04/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "16/04/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

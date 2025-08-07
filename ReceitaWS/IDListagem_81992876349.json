@@ -1,0 +1,74 @@
+{
+  "abertura": "15/07/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PET HOME CLINICA VETERINARIA LTDA",
+  "fantasia": "PET HOME",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "75.00-1-00",
+      "text": "Atividades veterinárias"
+    },
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "96.09-2-08",
+      "text": "Higiene e embelezamento de animais domésticos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "PAULO GUERRA MASCHKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "BETANIA CARLA SERODIO NEVES",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA SAO SEBASTIAO",
+  "numero": "295",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.410-500",
+  "telefone": "(81) 3012-4455",
+  "data_situacao": "15/07/2013",
+  "cnpj": "18.484.047/0001-33",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

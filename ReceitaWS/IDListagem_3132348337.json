@@ -1,0 +1,70 @@
+{
+  "abertura": "16/02/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "COLCHOART COMERCIO DE COLCHOES LTDA",
+  "fantasia": "DEMAIS PRESENTES COMERCIAL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-02",
+      "text": "Comércio varejista de artigos de colchoaria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RAMON DE CASTRO FONSECA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "RONAN DE CASTRO FONSECA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "2017",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.830-373",
+  "email": "contabjf@contabjf.com.br",
+  "telefone": "(31) 3029-1400",
+  "data_situacao": "16/02/2007",
+  "cnpj": "08.659.557/0001-40",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

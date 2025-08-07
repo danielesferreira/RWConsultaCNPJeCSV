@@ -1,0 +1,69 @@
+{
+  "abertura": "05/06/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DENNIS PEREIRA DA SILVA 02251489606",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "logradouro": "AVENIDA MANOEL SALLES BARBOSA",
+  "numero": "127C",
+  "complemento": "LOJA",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "CARDOSO (BARREIRO)",
+  "uf": "MG",
+  "cep": "30.626-400",
+  "email": "wolftechassistencia@gmail.com",
+  "telefone": "(31) 8229-4070",
+  "data_situacao": "05/06/2020",
+  "cnpj": "37.336.719/0001-08",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "2500.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

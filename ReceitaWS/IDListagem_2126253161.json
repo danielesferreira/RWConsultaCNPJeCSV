@@ -1,0 +1,86 @@
+{
+  "abertura": "10/08/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BAZAR WERMELINGER LTDA.",
+  "fantasia": "BAZAR DE +",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    },
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANDRE LUIZ WERMELINGER",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ALEX WERMELINGER",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "TRAVESSA PAULO MEDEIROS",
+  "numero": "63",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-210",
+  "telefone": "(21) 2627-4399",
+  "data_situacao": "10/08/2007",
+  "cnpj": "09.061.640/0001-86",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "28/09/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "abertura": "09/05/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "THAIS DA SILVA OLIVEIRA MEGA 20",
+  "fantasia": "MEGA 20",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.59-8-01",
+      "text": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    }
+  ],
+  "logradouro": "ESTRADA DO MATADOURO",
+  "numero": "205",
+  "complemento": "LOJA PONTO TERREO",
+  "municipio": "SALVADOR",
+  "bairro": "AGUAS CLARAS",
+  "uf": "BA",
+  "cep": "41.311-262",
+  "email": "c.italocontabilidade@gmail.com",
+  "telefone": "(71) 9340-1074",
+  "data_situacao": "09/05/2024",
+  "cnpj": "55.068.227/0001-60",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/05/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

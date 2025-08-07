@@ -1,0 +1,57 @@
+{
+  "abertura": "06/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "51.324.625 GABRIEL DA SILVA LOPES SILVERIO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "logradouro": "ESTV DE MARICA",
+  "numero": "5560",
+  "complemento": "QUADRA 06;LOTE 03",
+  "municipio": "MARICA",
+  "bairro": "PONTA GROSSA",
+  "uf": "RJ",
+  "cep": "24.914-305",
+  "email": "gbsilverio887@gmail.com",
+  "telefone": "(21) 6832-5686",
+  "data_situacao": "06/07/2023",
+  "cnpj": "51.324.625/0001-40",
+  "ultima_atualizacao": "2025-08-01T18:48:39.037Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "06/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "06/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

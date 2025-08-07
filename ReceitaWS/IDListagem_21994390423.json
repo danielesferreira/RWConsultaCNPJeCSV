@@ -1,0 +1,73 @@
+{
+  "abertura": "13/07/2020",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "BANDEIRANTES COMERCIO DE RACOES LTDA",
+  "fantasia": "AMERICAN PET",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "96.09-2-08",
+      "text": "Higiene e embelezamento de animais domésticos"
+    }
+  ],
+  "logradouro": "RUA DO CATETE",
+  "numero": "00227",
+  "complemento": "LOJ A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CATETE",
+  "uf": "RJ",
+  "cep": "22.220-001",
+  "telefone": "(21) 2427-9909 / (21) 2427-9820",
+  "data_situacao": "13/07/2020",
+  "cnpj": "19.676.776/0034-12",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

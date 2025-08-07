@@ -1,0 +1,86 @@
+{
+  "abertura": "20/09/2005",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MERCEARIA ECONOMAIS LTDA",
+  "fantasia": "SUPERMERCADO VENEZA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ROGERIO OLIVEIRA NEVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ROD RJ 116 KM 39",
+  "numero": "S/N",
+  "complemento": "LOTE 1,2,3",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE SANTA LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "telefone": "(21) 2649-2136/ (21) 2649-2602",
+  "data_situacao": "20/09/2005",
+  "cnpj": "07.676.699/0001-53",
+  "ultima_atualizacao": "2025-07-18T17:03:48.538Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "150000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2009",
+    "data_exclusao": "31/12/2009",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

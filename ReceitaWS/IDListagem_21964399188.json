@@ -1,0 +1,57 @@
+{
+  "abertura": "17/05/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "VENTAMEYER COMERCIO DE VENTILADORES E MOVEIS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    }
+  ],
+  "logradouro": "ALAMEDA SAO BOAVENTURA",
+  "numero": "531",
+  "complemento": "COMP 002 PARTE",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.130-001",
+  "email": "ventarmoveis@gmail.com",
+  "telefone": "(21) 2605-6038",
+  "data_situacao": "17/05/2024",
+  "cnpj": "36.363.280/0003-01",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

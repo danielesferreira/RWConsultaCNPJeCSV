@@ -1,0 +1,329 @@
+{
+  "abertura": "14/06/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ARIOSTO JOSE JAEGER",
+  "fantasia": "GUERRA AUDIO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "33.29-5-01",
+      "text": "Serviços de montagem de móveis de qualquer material"
+    },
+    {
+      "code": "33.29-5-99",
+      "text": "Instalação de outros equipamentos não especificados anteriormente"
+    },
+    {
+      "code": "43.21-5-00",
+      "text": "Instalações elétricas"
+    },
+    {
+      "code": "43.22-3-01",
+      "text": "Instalações hidráulicas, sanitárias e de gás"
+    },
+    {
+      "code": "43.22-3-02",
+      "text": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+    },
+    {
+      "code": "43.22-3-03",
+      "text": "Instalações de sistema de prevenção contra incêndio"
+    },
+    {
+      "code": "43.29-1-03",
+      "text": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+    },
+    {
+      "code": "43.29-1-05",
+      "text": "Tratamentos térmicos, acústicos ou de vibração"
+    },
+    {
+      "code": "43.30-4-01",
+      "text": "Impermeabilização em obras de engenharia civil"
+    },
+    {
+      "code": "43.30-4-02",
+      "text": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+    },
+    {
+      "code": "43.30-4-03",
+      "text": "Obras de acabamento em gesso e estuque"
+    },
+    {
+      "code": "43.30-4-04",
+      "text": "Serviços de pintura de edifícios em geral"
+    },
+    {
+      "code": "43.30-4-05",
+      "text": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+    },
+    {
+      "code": "43.30-4-99",
+      "text": "Outras obras de acabamento da construção"
+    },
+    {
+      "code": "43.99-1-03",
+      "text": "Obras de alvenaria"
+    },
+    {
+      "code": "43.99-1-99",
+      "text": "Serviços especializados para construção não especificados anteriormente"
+    },
+    {
+      "code": "45.20-0-03",
+      "text": "Serviços de manutenção e reparação elétrica de veículos automotores"
+    },
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.43-1-00",
+      "text": "Comércio varejista de vidros"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-02",
+      "text": "Comércio varejista de madeira e artefatos"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    },
+    {
+      "code": "47.55-5-01",
+      "text": "Comércio varejista de tecidos"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.56-3-00",
+      "text": "Comércio varejista especializado de instrumentos musicais e acessórios"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    },
+    {
+      "code": "47.59-8-01",
+      "text": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-01",
+      "text": "Comércio varejista de livros"
+    },
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.63-6-03",
+      "text": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+    },
+    {
+      "code": "47.63-6-04",
+      "text": "Comércio varejista de artigos de caça, pesca e camping"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-08",
+      "text": "Comércio varejista de artigos fotográficos e para filmagem"
+    },
+    {
+      "code": "53.20-2-01",
+      "text": "Serviços de malote não realizados pelo Correio Nacional"
+    },
+    {
+      "code": "53.20-2-02",
+      "text": "Serviços de entrega rápida"
+    },
+    {
+      "code": "56.20-1-02",
+      "text": "Serviços de alimentação para eventos e recepções - bufê"
+    },
+    {
+      "code": "62.02-3-00",
+      "text": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+    },
+    {
+      "code": "62.09-1-00",
+      "text": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+    },
+    {
+      "code": "63.11-9-00",
+      "text": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "74.10-2-02",
+      "text": "Design de interiores"
+    },
+    {
+      "code": "77.33-1-00",
+      "text": "Aluguel de máquinas e equipamentos para escritório"
+    },
+    {
+      "code": "77.39-0-99",
+      "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+    },
+    {
+      "code": "80.20-0-01",
+      "text": "Atividades de monitoramento de sistemas de segurança eletrônico"
+    },
+    {
+      "code": "81.22-2-00",
+      "text": "Imunização e controle de pragas urbanas"
+    },
+    {
+      "code": "82.19-9-01",
+      "text": "Fotocópias"
+    },
+    {
+      "code": "85.99-6-04",
+      "text": "Treinamento em desenvolvimento profissional e gerencial"
+    },
+    {
+      "code": "90.01-9-06",
+      "text": "Atividades de sonorização e de iluminação"
+    },
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    },
+    {
+      "code": "95.21-5-00",
+      "text": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+    },
+    {
+      "code": "95.29-1-99",
+      "text": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "SERVIDAO LINDOMAR ALVARO DA SILVEIRA",
+  "numero": "205",
+  "complemento": "CASA 27 COND RECANTO DAS AREIAS",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-649",
+  "email": "eletronicaguerralitoral@gmail.com",
+  "telefone": "(48) 8829-9330",
+  "data_situacao": "14/06/2019",
+  "cnpj": "33.930.598/0001-77",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

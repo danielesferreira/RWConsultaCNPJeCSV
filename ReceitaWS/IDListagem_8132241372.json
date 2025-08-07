@@ -1,0 +1,78 @@
+{
+  "abertura": "07/11/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "J M DE OLIVEIRA REPARO E MANUTENCAO DE EQUIPAMENTOS LTDA",
+  "fantasia": "OFICINA TRES IRMAOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "95.21-5-00",
+      "text": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MIROALDO GOMES DE OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOSE BENEDITO DE OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PASSO DA PATRIA",
+  "numero": "222",
+  "municipio": "RECIFE",
+  "bairro": "SAO JOSE",
+  "uf": "PE",
+  "cep": "50.020-130",
+  "email": "oficinatresirmaos@yahoo.com.br",
+  "telefone": "(81) 3224-1372",
+  "data_situacao": "07/11/2023",
+  "cnpj": "52.809.681/0001-37",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "60000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/11/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "10/08/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "HELP PRODUTOS ORTOPEDICOS E HOSPITALARES LTDA",
+  "fantasia": "HELP PRODUTOS ORTOPEDICOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JEAN PABLO TRIERWEILER",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA JOAO PESSOA",
+  "numero": "42",
+  "complemento": "SALA 01",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-110",
+  "email": "sssjpablo27@hotmail.com",
+  "telefone": "(48) 3243-1228",
+  "data_situacao": "10/08/2018",
+  "cnpj": "31.172.619/0001-07",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "110000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

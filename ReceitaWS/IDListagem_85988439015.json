@@ -1,0 +1,182 @@
+{
+  "abertura": "20/02/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "COMERCIAL PRAIA E MAR LTDA",
+  "fantasia": "SUPERMERCADO PRAIA & MAR",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "32.99-0-03",
+      "text": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+    },
+    {
+      "code": "45.11-1-01",
+      "text": "Comércio a varejo de automóveis, camionetas e utilitários novos"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "49.23-0-02",
+      "text": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+    },
+    {
+      "code": "52.12-5-00",
+      "text": "Carga e descarga"
+    },
+    {
+      "code": "52.29-0-02",
+      "text": "Serviços de reboque de veículos"
+    },
+    {
+      "code": "55.90-6-03",
+      "text": "Pensões (alojamento)"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "68.21-8-02",
+      "text": "Corretagem no aluguel de imóveis"
+    },
+    {
+      "code": "77.11-0-00",
+      "text": "Locação de automóveis sem condutor"
+    },
+    {
+      "code": "77.19-5-99",
+      "text": "Locação de outros meios de transporte não especificados anteriormente, sem condutor"
+    },
+    {
+      "code": "77.33-1-00",
+      "text": "Aluguel de máquinas e equipamentos para escritórios"
+    },
+    {
+      "code": "77.39-0-99",
+      "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+    },
+    {
+      "code": "80.20-0-01",
+      "text": "Atividades de monitoramento de sistemas de segurança eletrônico"
+    },
+    {
+      "code": "81.21-4-00",
+      "text": "Limpeza em prédios e em domicílios"
+    },
+    {
+      "code": "81.22-2-00",
+      "text": "Imunização e controle de pragas urbanas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DENISE MARIA ALVES BARBOSA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV CENTRAL",
+  "numero": "5452",
+  "complemento": "SALA 03 SALA 04 SALA 05 LOJA 03 A 10",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-450",
+  "email": "grupodigitalcontabil@gmail.com",
+  "telefone": "(85) 3318-3897",
+  "data_situacao": "20/02/2013",
+  "cnpj": "17.608.115/0001-66",
+  "ultima_atualizacao": "2025-08-06T13:23:33.091Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "abertura": "18/06/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DUDA KIDS MODA INFANTIL LTDA",
+  "fantasia": "PINGO DE GENTE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EDUARDA DE CAMPOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R PEDRO JOSE DE AZEVEDO",
+  "numero": "40",
+  "complemento": "LOJA",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-118",
+  "email": "camposeduarda39@gmail.com",
+  "telefone": "(48) 9199-1866",
+  "data_situacao": "18/06/2021",
+  "cnpj": "42.383.308/0001-03",
+  "ultima_atualizacao": "2025-07-29T05:12:41.105Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "60000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

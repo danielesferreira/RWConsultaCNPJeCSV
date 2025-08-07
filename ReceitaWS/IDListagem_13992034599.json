@@ -1,0 +1,57 @@
+{
+  "abertura": "21/01/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GUSTAVO JORDAN GONCALVES DA SILVA 42616385848",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.12-1-00",
+      "text": "Serviços ambulantes de alimentação"
+    }
+  ],
+  "logradouro": "RUA GUIMARAES ROSA",
+  "numero": "911",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "OCIAN",
+  "uf": "SP",
+  "cep": "11.704-160",
+  "email": "ana.luiza.4haddad@gmail.com",
+  "telefone": "(13) 9740-4061",
+  "data_situacao": "21/01/2021",
+  "cnpj": "40.494.954/0001-12",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "30/09/1998",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "OTICA PONTUAL LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOAO EVERTON BEZERRA DE ARAUJO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ROBERLIA AMARO BAIA DE ARAUJO",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AVENIDA GODOFREDO MACIEL",
+  "numero": "2533",
+  "complemento": "LOJA 03 - C",
+  "municipio": "FORTALEZA",
+  "bairro": "MARAPONGA",
+  "uf": "CE",
+  "cep": "60.710-001",
+  "data_situacao": "03/11/2005",
+  "cnpj": "02.764.459/0001-97",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

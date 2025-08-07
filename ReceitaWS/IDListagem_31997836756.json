@@ -1,0 +1,70 @@
+{
+  "abertura": "07/02/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PAI DAS CAPAS ACESSORIOS LTDA",
+  "fantasia": "PAI DAS CAPAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ALINE MENEZES BASTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "EVANDRO MENEZES ALVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "1664",
+  "complemento": "LOJA 145 SETOR D LOJA 146 LOJA 147 LOJA 148 LOJA 156 SETOR D",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.820-622",
+  "email": "legalizacao@jescontabilidade.com.br",
+  "telefone": "(31) 2515-6304",
+  "data_situacao": "07/02/2018",
+  "cnpj": "29.637.680/0001-30",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

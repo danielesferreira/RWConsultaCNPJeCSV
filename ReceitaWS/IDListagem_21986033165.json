@@ -1,0 +1,57 @@
+{
+  "abertura": "27/12/2012",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "M G S PAULO CONFECCOES LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "14.11-8-01",
+      "text": "Confecção de roupas íntimas"
+    }
+  ],
+  "logradouro": "AVENIDA LORD BADEN POWELL",
+  "numero": "62",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CAMPO DO PRADO",
+  "uf": "RJ",
+  "cep": "28.681-360",
+  "email": "urbanafit@hotmail.com",
+  "telefone": "(21) 9810-3316",
+  "data_situacao": "27/12/2012",
+  "cnpj": "07.087.673/0003-31",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

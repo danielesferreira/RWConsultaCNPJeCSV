@@ -1,0 +1,57 @@
+{
+  "abertura": "12/11/1980",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "ESTEVALDO FRANCISCO DE BARROS",
+  "fantasia": "CASA BARROS",
+  "porte": "DEMAIS",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "PRACA DR JOSE BEZERRA",
+  "numero": "10",
+  "municipio": "CABO DE SANTO AGOSTINHO",
+  "bairro": "CENTRO",
+  "uf": "PE",
+  "cep": "54.515-070",
+  "data_situacao": "31/12/2008",
+  "motivo_situacao": "INAPTIDÃO (LEI 11.941/2009 ART.54)",
+  "cnpj": "11.568.912/0001-80",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

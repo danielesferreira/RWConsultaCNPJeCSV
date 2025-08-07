@@ -1,0 +1,66 @@
+{
+  "abertura": "30/01/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "EMPORIO MINEIRO CHEIRIN BAO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ILMA XAVIER DOS SANTOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA DOS ENGENHEIROS",
+  "numero": "431",
+  "complemento": "LOJA 04",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "MANACAS",
+  "uf": "MG",
+  "cep": "30.840-563",
+  "email": "processos@imcont.com.br",
+  "telefone": "(31) 2520-3344 / (31) 2520-3344",
+  "data_situacao": "30/01/2024",
+  "cnpj": "53.715.062/0001-46",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "30/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

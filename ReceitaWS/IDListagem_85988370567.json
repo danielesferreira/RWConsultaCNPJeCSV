@@ -1,0 +1,66 @@
+{
+  "abertura": "03/11/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "OPTICA KAYNAN LTDA",
+  "fantasia": "OTICA KAYNAN",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SARA MONICA LIMA DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R JERONIMO AMARAL",
+  "numero": "517",
+  "complemento": "LOJA 06",
+  "municipio": "CAUCAIA",
+  "bairro": "CENTRO",
+  "uf": "CE",
+  "cep": "61.600-135",
+  "email": "freitasflavio2010@yahoo.com.br",
+  "telefone": "(85) 9671-7243",
+  "data_situacao": "03/11/2021",
+  "cnpj": "44.097.861/0001-05",
+  "ultima_atualizacao": "2025-08-01T15:49:52.421Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

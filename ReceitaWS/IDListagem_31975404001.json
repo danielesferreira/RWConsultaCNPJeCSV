@@ -1,0 +1,66 @@
+{
+  "abertura": "25/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TAP HOUSE ALIPIO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-04",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANDRE LUIZ DE ABREU",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "PEDRO HENRIQUE DE MOURA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA LEONIL PRATA",
+  "numero": "532",
+  "complemento": "LETRA B",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.840-780",
+  "email": "contato@contabilidaderm.com.br",
+  "telefone": "(31) 3271-5488",
+  "data_situacao": "25/07/2023",
+  "cnpj": "51.551.754/0001-70",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "60000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "abertura": "08/08/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SILVIO JOSE FERREIRA DA SILVA CENTRAL DISTRIBUICAO",
+  "fantasia": "CENTRAL DISTRIBUIDORA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "45.41-2-06",
+      "text": "Comércio a varejo de peças e acessórios novos para motocicletas e motonetas"
+    },
+    {
+      "code": "47.32-6-00",
+      "text": "Comércio varejista de lubrificantes"
+    },
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-02",
+      "text": "Comércio varejista de madeira e artefatos"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-07",
+      "text": "Comércio varejista de equipamentos para escritório"
+    }
+  ],
+  "logradouro": "TRAVESSA OSCAR FRANCISCO DE LIMA",
+  "numero": "12",
+  "municipio": "CABO DE SANTO AGOSTINHO",
+  "bairro": "PONTE DOS CARVALHOS",
+  "uf": "PE",
+  "cep": "54.580-646",
+  "email": "centraldistribuidora02@gmail.com",
+  "telefone": "(81) 9473-3980",
+  "data_situacao": "08/08/2024",
+  "cnpj": "56.391.538/0001-29",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

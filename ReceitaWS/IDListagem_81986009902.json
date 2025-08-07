@@ -1,0 +1,57 @@
+{
+  "abertura": "30/04/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "60.619.864 ROBERTO SOUTO CLIMACO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.43-1-00",
+      "text": "Comércio varejista de vidros"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "25.32-2-01",
+      "text": "Produção de artefatos estampados de metal"
+    }
+  ],
+  "logradouro": "RUA GENERAL POLIDORO",
+  "numero": "1004",
+  "complemento": "LETRA B",
+  "municipio": "RECIFE",
+  "bairro": "VARZEA",
+  "uf": "PE",
+  "cep": "50.740-050",
+  "email": "rc.glass@yahoo.com.br",
+  "telefone": "(81) 9662-9414",
+  "data_situacao": "30/04/2025",
+  "cnpj": "60.619.864/0001-18",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "30/04/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "30/04/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

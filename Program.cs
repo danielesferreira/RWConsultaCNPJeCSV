@@ -70,7 +70,7 @@ class Program
     {
         string inputPath = "input.csv";
         string outputJsonDir = "ReceitaWS";
-        string outputCsvPath = "ReceitaWS_Consolidado.csv";
+        string outputCsvPath = "IDListagem_Consolidado.csv";
 
         Directory.CreateDirectory(outputJsonDir);
 
@@ -131,7 +131,7 @@ class Program
         else if (opcao == "2")
         {
             var sb = new StringBuilder();
-            sb.AppendLine("IDListagem;CNPJ;SbjNum;Nome;Tipo;Situacao;Porte;Natureza Juridica;Abertura;Logradouro;Numero;Bairro;Municipio;UF;CEP;Simples Optante;Simei Optante;Telefone;Capital Social;Status;Atividade Principal;Atividades Secundarias");
+            sb.AppendLine("IDListagem;CNPJ;SbjNum;Nome;Tipo;Situacao;Porte;Natureza Juridica;Abertura;Logradouro;Numero;Bairro;Municipio;UF;CEP;Simples Optante;Simei Optante;Telefone;Capital Social;Status;Atividade Principal;Atividades Secundarias;Email");
 
             foreach (var reg in registros)
             {
@@ -153,7 +153,7 @@ class Program
                     string atividadesSecundarias = string.Join(" | ",
                         empresa.atividades_secundarias?.Select(a => RemoverAcentos(a.texto ?? "")) ?? new List<string>());
 
-                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};{Limpar(empresa.nome)};{Limpar(empresa.tipo)};{Limpar(empresa.situacao)};{Limpar(empresa.porte)};{Limpar(empresa.natureza_juridica)};{empresa.abertura};{Limpar(empresa.logradouro)};{empresa.numero};{Limpar(empresa.bairro)};{Limpar(empresa.municipio)};{empresa.uf};{empresa.cep};{empresa.simples?.optante};{empresa.simei?.optante};{empresa.telefone};{empresa.capital_social};{empresa.status};\"{atividadePrincipal}\";\"{atividadesSecundarias}\"");
+                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};{Limpar(empresa.nome)};{Limpar(empresa.tipo)};{Limpar(empresa.situacao)};{Limpar(empresa.porte)};{Limpar(empresa.natureza_juridica)};{empresa.abertura};{Limpar(empresa.logradouro)};{empresa.numero};{Limpar(empresa.bairro)};{Limpar(empresa.municipio)};{empresa.uf};{empresa.cep};{empresa.simples?.optante};{empresa.simei?.optante};{empresa.telefone};{empresa.capital_social};{empresa.status};\"{atividadePrincipal}\";\"{atividadesSecundarias}\";{Limpar(empresa.email)}\"");
                 }
                 else
                 {

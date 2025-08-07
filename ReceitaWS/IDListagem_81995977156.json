@@ -1,0 +1,57 @@
+{
+  "abertura": "02/02/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PEDRO ARTHUR DA COSTA FONSECA COMERCIO DE RACOES",
+  "fantasia": "JC RACOES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "logradouro": "R ANDRE DIAS DE FRANCA",
+  "numero": "55",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "MARCOS FREIRE",
+  "uf": "PE",
+  "cep": "54.360-090",
+  "email": "jufonseca007@gmail.com",
+  "telefone": "(81) 3088-0113",
+  "data_situacao": "02/02/2022",
+  "cnpj": "45.131.218/0001-13",
+  "ultima_atualizacao": "2025-07-30T17:48:55.485Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "02/02/2022",
+    "data_exclusao": "31/10/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "02/02/2022",
+    "data_exclusao": "31/12/2022",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

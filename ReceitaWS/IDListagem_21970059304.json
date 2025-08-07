@@ -1,0 +1,66 @@
+{
+  "abertura": "03/05/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PADARIA E CONFEITARIA E BAR ADRIANE LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANTONIO MANOEL ALVES VILELA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "EDSON ALVES VILELA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R PINDAI",
+  "numero": "159",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "BRAZ DE PINA",
+  "uf": "RJ",
+  "cep": "21.011-230",
+  "data_situacao": "06/05/2019",
+  "cnpj": "72.368.202/0001-00",
+  "ultima_atualizacao": "2025-08-06T13:56:48.759Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2021",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

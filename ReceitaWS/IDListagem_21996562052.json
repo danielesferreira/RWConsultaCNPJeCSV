@@ -1,0 +1,66 @@
+{
+  "abertura": "19/02/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AMOR DE MAE COMERCIO DE ROUPAS E CALCADOS LTDA",
+  "fantasia": "AMOR DE MAE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EDENISE LUZ DE MORAES COSTA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "JULIANA MORAES DA COSTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA DO CATETE",
+  "numero": "00228",
+  "complemento": "LOJ 118",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "CATETE",
+  "uf": "RJ",
+  "cep": "22.220-001",
+  "email": "hassantos@globo.com",
+  "telefone": "(21) 2455-7565",
+  "data_situacao": "19/02/2021",
+  "cnpj": "40.910.893/0001-27",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

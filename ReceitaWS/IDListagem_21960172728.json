@@ -1,0 +1,70 @@
+{
+  "abertura": "05/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SHOP CAR VEICULOS LTDA.",
+  "fantasia": "FENIX VEICULOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "45.11-1-02",
+      "text": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.11-1-01",
+      "text": "Comércio a varejo de automóveis, camionetas e utilitários novos"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "77.11-0-00",
+      "text": "Locação de automóveis sem condutor"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "THAMIRIS MARTINS GUERRA NEVES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA GETULIO DE MOURA",
+  "numero": "3578",
+  "complemento": "LJ",
+  "municipio": "MESQUITA",
+  "bairro": "JUSCELINO",
+  "uf": "RJ",
+  "cep": "26.551-000",
+  "email": "thamirismartins186@gmail.com",
+  "telefone": "(21) 7982-0708",
+  "data_situacao": "05/07/2023",
+  "cnpj": "51.310.401/0001-89",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "05/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

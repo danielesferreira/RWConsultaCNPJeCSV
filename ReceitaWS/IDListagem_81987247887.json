@@ -1,0 +1,57 @@
+{
+  "abertura": "14/05/2010",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "RUBENITA MARIA SOARES DA SILVA FERREIRA OPTICA",
+  "fantasia": "NOSSA OPTICA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "1A TRAVESSA ARAO LINS DE ANDRADE",
+  "numero": "54",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PRAZERES",
+  "uf": "PE",
+  "cep": "54.310-301",
+  "telefone": "(81) 3476-9888",
+  "data_situacao": "27/03/2025",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "11.964.621/0001-01",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2011",
+    "data_exclusao": "31/12/2018",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

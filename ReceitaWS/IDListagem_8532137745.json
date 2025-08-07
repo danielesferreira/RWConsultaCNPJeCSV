@@ -1,0 +1,65 @@
+{
+  "abertura": "08/04/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GLADENILSON ARAUJO DE ALMEIDA",
+  "fantasia": "SC MATERIAIS HIDRAULICOS ELETRICOS E UTENSILIOS DO LAR.",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    }
+  ],
+  "logradouro": "AV AUGUSTO DOS ANJOS",
+  "numero": "1478",
+  "municipio": "FORTALEZA",
+  "bairro": "BONSUCESSO",
+  "uf": "CE",
+  "cep": "60.542-164",
+  "email": "escritoriocontabilluz@gmail.com",
+  "telefone": "(85) 8702-4502/ (85) 3484-8800",
+  "data_situacao": "08/04/2014",
+  "cnpj": "20.044.697/0001-00",
+  "ultima_atualizacao": "2025-08-01T16:20:43.419Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "08/04/2014",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "08/04/2014",
+    "data_exclusao": "31/12/2018",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

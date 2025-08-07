@@ -1,0 +1,69 @@
+{
+  "abertura": "14/01/2022",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "FERREIRA AGUIAR COMERCIAL LTDA",
+  "fantasia": "ENXOVAIS SONHO PERFEITO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.59-8-01",
+      "text": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "2015",
+  "complemento": "LOJA",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "GLORIA",
+  "uf": "MG",
+  "cep": "30.830-373",
+  "email": "eldgestaocontabil@gmail.com",
+  "telefone": "(31) 9550-1599",
+  "data_situacao": "14/01/2022",
+  "cnpj": "00.708.742/0007-61",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2023",
+    "data_exclusao": "31/03/2023",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

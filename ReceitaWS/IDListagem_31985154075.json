@@ -1,0 +1,86 @@
+{
+  "abertura": "05/02/2004",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TERNEIRO CARNES LTDA",
+  "fantasia": "TERNEIRO CARNES",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "10.11-2-01",
+      "text": "Frigorífico - abate de bovinos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.13-9-01",
+      "text": "Fabricação de produtos de carne"
+    },
+    {
+      "code": "46.34-6-01",
+      "text": "Comércio atacadista de carnes bovinas e suínas e derivados"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.22-9-02",
+      "text": "Peixaria"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RODRIGO PEREIRA DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV OLINTO MEIRELES",
+  "numero": "2320",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SANTA HELENA",
+  "uf": "MG",
+  "cep": "30.620-330",
+  "email": "jaqueline@terneirocarnes.com.br",
+  "telefone": "(31) 8428-4252",
+  "data_situacao": "03/11/2005",
+  "cnpj": "06.124.262/0001-44",
+  "ultima_atualizacao": "2025-07-16T12:46:40.384Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "125400.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2008",
+    "data_exclusao": "31/12/2009",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

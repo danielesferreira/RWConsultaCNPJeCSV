@@ -1,0 +1,61 @@
+{
+  "abertura": "13/10/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ROBERTO LUCIO ANDRADE ROCHA",
+  "fantasia": "TITIXA KIDS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA GENERAL POLIDORO",
+  "numero": "646",
+  "complemento": "LOJA 02",
+  "municipio": "RECIFE",
+  "bairro": "VARZEA",
+  "uf": "PE",
+  "cep": "50.740-050",
+  "email": "rlarocha2@gmail.com",
+  "telefone": "(81) 9987-8213",
+  "data_situacao": "13/10/2011",
+  "cnpj": "14.453.330/0001-47",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "13/10/2011",
+    "data_exclusao": "31/12/2017",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

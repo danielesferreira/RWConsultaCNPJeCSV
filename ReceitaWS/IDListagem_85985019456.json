@@ -1,0 +1,66 @@
+{
+  "abertura": "03/08/2000",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "SCHMITT RESTAURANTE E HOTELARIA LTDA",
+  "fantasia": "CHURRASCARIA FOGO DE CHAO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "qsa": [
+    {
+      "nome": "ROGERIO RENATO SCHMITT",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "LUCAS EDIEL DE SOUSA SCHMITT",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AVENIDA CENTRAL",
+  "numero": "902",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.620-340",
+  "email": "acessocontabilidade824@yahoo.com.br",
+  "telefone": "(85) 3023-0565",
+  "data_situacao": "19/08/2024",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "03.982.740/0001-69",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "16000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2022",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

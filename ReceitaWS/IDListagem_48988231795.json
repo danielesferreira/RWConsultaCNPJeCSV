@@ -1,0 +1,66 @@
+{
+  "abertura": "23/04/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "VICTORIA - COMERCIO DE PRESENTES CRIATIVOS E DECORACAO LTDA.",
+  "fantasia": "ACHEI! PRESENTES CRIATIVOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CRISLEI PAULI ROTHSTEIN",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "RODYNEI ROTHSTEIN",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R 6 DE NOVEMBRO",
+  "numero": "11",
+  "complemento": "SALA 3",
+  "municipio": "ANTONIO CARLOS",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.180-000",
+  "telefone": "(48) 8823-1795",
+  "data_situacao": "23/04/2014",
+  "cnpj": "20.151.209/0001-63",
+  "ultima_atualizacao": "2025-07-18T21:30:21.341Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

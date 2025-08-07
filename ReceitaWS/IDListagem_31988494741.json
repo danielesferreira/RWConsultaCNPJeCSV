@@ -1,0 +1,57 @@
+{
+  "abertura": "25/09/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MARIA JOSE OLIVEIRA MELO",
+  "fantasia": "CHAMEL LINGERIE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "AVENIDA ABILIO MACHADO",
+  "numero": "1664",
+  "complemento": "LOJA 126",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.820-622",
+  "email": "vivicont@bol.com.br",
+  "telefone": "(31) 8849-4741",
+  "data_situacao": "25/09/2008",
+  "cnpj": "10.364.588/0001-16",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "25/09/2008",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

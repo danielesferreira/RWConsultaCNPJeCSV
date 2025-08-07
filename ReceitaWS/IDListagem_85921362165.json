@@ -1,0 +1,70 @@
+{
+  "abertura": "23/11/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "OTICA VISLUMBRE LTDA",
+  "fantasia": "OTICA VISLUMBRE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    },
+    {
+      "code": "95.29-1-99",
+      "text": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ELSON FERREIRA DO NASCIMENTO JUNIOR",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ENGENHEIRO JOAO ALFREDO",
+  "numero": "1554",
+  "municipio": "CAUCAIA",
+  "bairro": "CENTRO",
+  "uf": "CE",
+  "cep": "61.600-050",
+  "email": "elson.junior10@icloud.com",
+  "telefone": "(85) 8932-2226 / (0000) 0000-0000",
+  "data_situacao": "23/11/2023",
+  "cnpj": "52.978.326/0001-91",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "13/09/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "T & N COMERCIO DE COLCHOES LTDA",
+  "fantasia": "T & N COMERCIO DE COLCHOES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-02",
+      "text": "Comércio varejista de artigos de colchoaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RICARDO SILVEIRA DOS SANTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ROBERTO SILVEIRA DOS SANTOS",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RODOVIA ARMANDO CALIL BULOS",
+  "numero": "5570",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "rensantosortobom@gmail.com",
+  "telefone": "(48) 9108-5088 / (0000) 0000-0000",
+  "data_situacao": "13/09/2024",
+  "cnpj": "57.278.072/0001-12",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/09/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

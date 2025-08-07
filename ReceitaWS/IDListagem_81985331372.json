@@ -1,0 +1,57 @@
+{
+  "abertura": "06/12/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JANETE DO NASCIMENTO 55157491468",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    }
+  ],
+  "logradouro": "AVENIDA BARRETO DE MENEZES",
+  "numero": "602",
+  "complemento": "CONJ 1 A 99999 LADO IMPAR",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CAJUEIRO SECO",
+  "uf": "PE",
+  "cep": "54.330-000",
+  "email": "janetenascimento2014@hotmail.com",
+  "telefone": "(81) 8533-1372",
+  "data_situacao": "06/12/2021",
+  "cnpj": "44.495.179/0001-70",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

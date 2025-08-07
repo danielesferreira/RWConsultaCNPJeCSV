@@ -1,0 +1,57 @@
+{
+  "abertura": "29/08/1994",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ROSI MARIA ANSSAY - ARAUCARIA MATERIAIS PARA CONSTRUCAO",
+  "fantasia": "ARAUCARIA MATERIAIS PARA CONSTRUCAO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-05",
+      "text": "Comércio varejista de materiais de construção não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA GRALHA AZUL",
+  "numero": "211",
+  "municipio": "ARAUCARIA",
+  "bairro": "JARDIM INDUSTRIAL",
+  "uf": "PR",
+  "cep": "83.706-250",
+  "email": "araucariamateriais@yahoo.com",
+  "telefone": "(41) 3643-2927",
+  "data_situacao": "03/11/2005",
+  "cnpj": "00.174.472/0001-60",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2018",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

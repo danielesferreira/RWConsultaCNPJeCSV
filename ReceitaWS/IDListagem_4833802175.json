@@ -1,0 +1,162 @@
+{
+  "abertura": "10/01/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "VM COMERCIO VAREJISTA DE COLCHOES LTDA",
+  "fantasia": "EXCLUSIVA COLCHOES",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-02",
+      "text": "Comércio varejista de artigos de colchoaria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "31.01-2-00",
+      "text": "Fabricação de móveis com predominância de madeira"
+    },
+    {
+      "code": "33.29-5-01",
+      "text": "Serviços de montagem de móveis de qualquer material"
+    },
+    {
+      "code": "46.19-2-00",
+      "text": "Representantes comerciais e agentes do comércio de mercadorias em geral não especializado"
+    },
+    {
+      "code": "46.93-1-00",
+      "text": "Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "49.23-0-02",
+      "text": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+    },
+    {
+      "code": "49.29-9-01",
+      "text": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+    },
+    {
+      "code": "63.99-2-00",
+      "text": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "66.19-3-99",
+      "text": "Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente"
+    },
+    {
+      "code": "70.20-4-00",
+      "text": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+    },
+    {
+      "code": "73.19-0-02",
+      "text": "Promoção de vendas"
+    },
+    {
+      "code": "73.19-0-04",
+      "text": "Consultoria em publicidade"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "82.11-3-00",
+      "text": "Serviços combinados de escritório e apoio administrativo"
+    },
+    {
+      "code": "82.19-9-99",
+      "text": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+    },
+    {
+      "code": "82.20-2-00",
+      "text": "Atividades de teleatendimento"
+    },
+    {
+      "code": "82.91-1-00",
+      "text": "Atividades de cobranças e informações cadastrais"
+    },
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    },
+    {
+      "code": "95.29-1-05",
+      "text": "Reparação de artigos do mobiliário"
+    },
+    {
+      "code": "96.09-2-99",
+      "text": "Outras atividades de serviços pessoais não especificadas anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "TL SERVICOS LTDA",
+      "qual": "22-Sócio",
+      "nome_rep_legal": "THIAGO HENRIQUE SOARES DE LIMA",
+      "qual_rep_legal": "05-Administrador"
+    },
+    {
+      "nome": "ROSIANY ADRIANO CORREA LTDA",
+      "qual": "22-Sócio",
+      "nome_rep_legal": "ROSIANY ADRIANO CORREA",
+      "qual_rep_legal": "05-Administrador"
+    },
+    {
+      "nome": "MARCOS ROMAO PEREIRA",
+      "qual": "05-Administrador"
+    }
+  ],
+  "logradouro": "R PREFEITO LEOPOLDO FREIBERGER",
+  "numero": "578",
+  "complemento": "SALA: 01;",
+  "municipio": "BIGUACU",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "88.160-144",
+  "email": "exclusiva_colchoes@outlook.com",
+  "telefone": "(48) 3243-6591",
+  "data_situacao": "10/01/2014",
+  "cnpj": "19.515.143/0001-64",
+  "ultima_atualizacao": "2025-08-01T21:58:00.754Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "115000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "10/01/2014",
+    "data_exclusao": "31/12/2020",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "13/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CPM OTICAS E ACESSORIOS LTDA",
+  "fantasia": "OTICAS DINIZ",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CRISTIANE ALMEIDA PERES DE MIRANDA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AL SAO BOAVENTURA",
+  "numero": "540",
+  "complemento": "LOJA 109 BLOCO 01",
+  "municipio": "NITEROI",
+  "bairro": "FONSECA",
+  "uf": "RJ",
+  "cep": "24.120-191",
+  "email": "arinojunior1973@outlook.com",
+  "telefone": "(21) 7904-0046",
+  "data_situacao": "13/07/2023",
+  "cnpj": "51.413.848/0001-83",
+  "ultima_atualizacao": "2025-08-04T16:58:47.762Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "70000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

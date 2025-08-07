@@ -1,0 +1,66 @@
+{
+  "abertura": "18/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JN LOQUINGEN COMERCIO VEREJISTA DE PRODUTOS FARMACEUTICOS LTDA",
+  "fantasia": "DROGARIA CDU",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "NATHALIA RABELO LOQUINGEN",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOELMIR LUCENA VEIGA DA SILVA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "R GENERAL POLIDORO",
+  "numero": "759",
+  "complemento": "SALA 0000 LOJA A",
+  "municipio": "RECIFE",
+  "bairro": "VARZEA",
+  "uf": "PE",
+  "cep": "50.740-050",
+  "email": "drogariacdu@hotmail.com",
+  "telefone": "(81) 8557-9561/ (81) 8782-7184",
+  "data_situacao": "18/01/2023",
+  "cnpj": "49.244.159/0001-40",
+  "ultima_atualizacao": "2025-07-28T22:58:48.266Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

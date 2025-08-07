@@ -1,0 +1,62 @@
+{
+  "abertura": "15/08/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ECCO+ HIGIENE E LIMPEZA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "WILLIAM RODRIGUES DE CARVALHO BEZERRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA GRALHA-AZUL",
+  "numero": "468",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-250",
+  "email": "williamrcba@gmail.com",
+  "telefone": "(41) 9782-3448 / (41) 9742-6187",
+  "data_situacao": "15/08/2023",
+  "cnpj": "51.823.653/0001-01",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "2000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "15/08/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "15/08/2023",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

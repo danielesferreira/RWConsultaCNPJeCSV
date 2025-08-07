@@ -1,0 +1,70 @@
+{
+  "abertura": "20/12/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DMO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.29-6-02",
+      "text": "Comércio varejista de mercadorias em lojas de conveniência"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MATHEUS FELIPE MARINHO DE OLIVEIRA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "DIONISIO MARINHO DE OLIVEIRA NETO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA MARIO GASPARIN",
+  "numero": "159",
+  "municipio": "CURITIBA",
+  "bairro": "SITIO CERCADO",
+  "uf": "PR",
+  "cep": "81.925-490",
+  "email": "pixfarmasitiocercado@gmail.com",
+  "telefone": "(41) 3242-9129 / (41) 3242-9129 / (41) 3242-9129",
+  "data_situacao": "20/12/2013",
+  "cnpj": "19.807.636/0001-78",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

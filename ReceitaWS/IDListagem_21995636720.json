@@ -1,0 +1,57 @@
+{
+  "abertura": "23/08/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "47.686.073 MARISTELA DORNELES FERREIRA PIRES FERNANDES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "96.02-5-01",
+      "text": "Cabeleireiros, manicure e pedicure"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "96.02-5-02",
+      "text": "Atividades de estética e outros serviços de cuidados com a beleza"
+    }
+  ],
+  "logradouro": "ESTRADA MIRANDELA",
+  "numero": "1213",
+  "complemento": "BLOCO A;APT 302",
+  "municipio": "NILOPOLIS",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "26.520-331",
+  "email": "marisdorneles@gmail.com",
+  "telefone": "(21) 2692-8376",
+  "data_situacao": "23/08/2022",
+  "cnpj": "47.686.073/0001-42",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "23/08/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "23/08/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

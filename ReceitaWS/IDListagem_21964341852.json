@@ -1,0 +1,113 @@
+{
+  "abertura": "04/03/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "36.560.154 JESSICA MACHADO PINTO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "95.11-8-00",
+      "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "18.13-0-01",
+      "text": "Impressão de material para uso publicitário"
+    },
+    {
+      "code": "61.90-6-99",
+      "text": "Outras atividades de telecomunicações não especificadas anteriormente"
+    },
+    {
+      "code": "82.19-9-01",
+      "text": "Fotocópias"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "43.30-4-05",
+      "text": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+    },
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "43.21-5-00",
+      "text": "Instalação e manutenção elétrica"
+    },
+    {
+      "code": "47.51-2-02",
+      "text": "Recarga de cartuchos para equipamentos de informática"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    }
+  ],
+  "logradouro": "R PROFESSORA GEORGINA DE MIRANDA",
+  "numero": "108",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "GANGURI",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "jessicamachadop85@gmail.com",
+  "telefone": "(21) 2649-5418",
+  "data_situacao": "04/03/2020",
+  "cnpj": "36.560.154/0001-85",
+  "ultima_atualizacao": "2025-07-13T12:18:30.936Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "35000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "04/03/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "04/03/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

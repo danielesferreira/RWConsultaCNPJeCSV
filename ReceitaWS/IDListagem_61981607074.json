@@ -1,0 +1,57 @@
+{
+  "abertura": "26/08/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SIMONE DOS SANTOS FONSECA 62335308068",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-05",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+    }
+  ],
+  "logradouro": "RUA MARINHO JOAO DO REGO",
+  "numero": "555",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-260",
+  "email": "simonesantosfonseca123@gmail.com",
+  "telefone": "(48) 8160-7074",
+  "data_situacao": "25/10/2024",
+  "cnpj": "43.291.341/0001-76",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "5000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

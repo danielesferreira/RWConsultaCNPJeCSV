@@ -1,0 +1,66 @@
+{
+  "abertura": "18/09/2009",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MARIA PIMENTA RESTAURANTE E BOTECO LTDA",
+  "fantasia": "MARIA PIMENTA BUTECO RESTAURANTE",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-04",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSE ADILSON RAGASSI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA LYGIA LATUF SALOMAO",
+  "numero": "605",
+  "complemento": "BOX 122 BOX 123",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "JARDIM JOAO ROSSI",
+  "uf": "SP",
+  "cep": "14.026-520",
+  "email": "mariapimentabuteco@hotmail.com",
+  "telefone": "(19) 9146-4049",
+  "data_situacao": "18/09/2009",
+  "cnpj": "11.171.825/0001-95",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2011",
+    "data_exclusao": "31/12/2011",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

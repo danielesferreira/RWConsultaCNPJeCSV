@@ -1,0 +1,57 @@
+{
+  "abertura": "12/10/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "57.663.462 MATEUS FELIPE COIMBRA SALGUEIRO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "49.23-0-01",
+      "text": "Serviço de táxi"
+    }
+  ],
+  "logradouro": "RUA COSTA RICA",
+  "numero": "35",
+  "complemento": "CASA CASA ;CASA CASA",
+  "municipio": "BETIM",
+  "bairro": "PETROVALE",
+  "uf": "MG",
+  "cep": "32.668-034",
+  "email": "mateusfelipecoimbra8@gmail.com",
+  "telefone": "(31) 9736-3231",
+  "data_situacao": "12/10/2024",
+  "cnpj": "57.663.462/0001-06",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "12/10/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "12/10/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

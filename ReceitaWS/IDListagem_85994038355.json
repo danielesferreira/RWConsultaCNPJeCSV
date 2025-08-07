@@ -1,0 +1,57 @@
+{
+  "abertura": "18/06/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "A C S LOPES MARTINS OTICA",
+  "fantasia": "GRAU OCULOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "AVENIDA EDSON DA MOTA CORREIA",
+  "numero": "763",
+  "complemento": "LOJA 100 E 120",
+  "municipio": "CAUCAIA",
+  "bairro": "CENTRO",
+  "uf": "CE",
+  "cep": "61.600-040",
+  "email": "anakarinajujuba5@gmail.com",
+  "telefone": "(85) 9852-4482",
+  "data_situacao": "18/06/2019",
+  "cnpj": "33.959.499/0001-18",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "28000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

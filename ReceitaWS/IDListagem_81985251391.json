@@ -1,0 +1,102 @@
+{
+  "abertura": "14/12/2015",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "G1 DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "46.44-3-01",
+      "text": "Comércio atacadista de medicamentos e drogas de uso humano"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.39-7-01",
+      "text": "Comércio atacadista de produtos alimentícios em geral"
+    },
+    {
+      "code": "46.45-1-01",
+      "text": "Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios"
+    },
+    {
+      "code": "46.45-1-03",
+      "text": "Comércio atacadista de produtos odontológicos"
+    },
+    {
+      "code": "46.46-0-01",
+      "text": "Comércio atacadista de cosméticos e produtos de perfumaria"
+    },
+    {
+      "code": "46.46-0-02",
+      "text": "Comércio atacadista de produtos de higiene pessoal"
+    },
+    {
+      "code": "46.49-4-08",
+      "text": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+    },
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    },
+    {
+      "code": "52.11-7-99",
+      "text": "Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis"
+    },
+    {
+      "code": "52.50-8-04",
+      "text": "Organização logística do transporte de carga"
+    },
+    {
+      "code": "52.50-8-05",
+      "text": "Operador de transporte multimodal - OTM"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GISELE HOFFMANN JAMBERCI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "GIULIANO JAMBERCI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R RIACHO DAS ALMAS (LOT. ENGENHO GUARARAPES)",
+  "numero": "770",
+  "complemento": "GALPAOA",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "MARCOS FREIRE",
+  "uf": "PE",
+  "cep": "54.368-270",
+  "telefone": "(81) 9242-3642",
+  "data_situacao": "14/12/2015",
+  "cnpj": "23.837.936/0001-77",
+  "ultima_atualizacao": "2025-08-06T18:35:47.471Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

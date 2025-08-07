@@ -1,0 +1,70 @@
+{
+  "abertura": "21/04/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "NUTRIPAO PADARIA E CONFEITARIA LTDA",
+  "fantasia": "NUTRIPAO",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-01",
+      "text": "Fabricação de produtos de panificação industrial"
+    },
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOAO CARLOS SANT ANNA DES ESSARTS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R DOUTOR CAMPOS VELHO",
+  "numero": "1526",
+  "municipio": "PORTO ALEGRE",
+  "bairro": "CRISTAL",
+  "uf": "RS",
+  "cep": "90.820-000",
+  "telefone": "(51) 3249-6296",
+  "data_situacao": "21/04/2020",
+  "cnpj": "36.973.953/0001-83",
+  "ultima_atualizacao": "2025-07-21T19:22:01.139Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "104500.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

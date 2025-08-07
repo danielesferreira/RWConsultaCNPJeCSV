@@ -1,0 +1,61 @@
+{
+  "abertura": "13/05/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "55.099.320 GABRIEL PEREIRA ALVES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "95.12-6-00",
+      "text": "Reparação e manutenção de equipamentos de comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.99-7-07",
+      "text": "Salas de acesso à internet"
+    },
+    {
+      "code": "82.19-9-99",
+      "text": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+    }
+  ],
+  "logradouro": "R LEONARDO DA VINCI",
+  "numero": "80",
+  "complemento": "BOX",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "CURADO",
+  "uf": "PE",
+  "cep": "54.220-000",
+  "email": "gabrielpalves07@gmail.com",
+  "telefone": "(81) 9564-5769",
+  "data_situacao": "13/05/2024",
+  "cnpj": "55.099.320/0001-32",
+  "ultima_atualizacao": "2025-07-31T10:10:20.055Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/05/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "13/05/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

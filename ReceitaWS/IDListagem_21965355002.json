@@ -1,0 +1,82 @@
+{
+  "abertura": "19/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "POWERPLAST COMERCIO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-07",
+      "text": "Comércio varejista de equipamentos para escritório"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "77.29-2-99",
+      "text": "Aluguel de outros objetos pessoais e domésticos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "COSME DO NASCIMENTO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA GOVERNADOR LEONEL DE MOURA BRIZOLA",
+  "numero": "988",
+  "complemento": "QUADRA07 LOTE 19",
+  "municipio": "DUQUE DE CAXIAS",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "25.010-002",
+  "email": "powerplast59@yahoo.com",
+  "telefone": "(21) 7019-5216",
+  "data_situacao": "19/01/2023",
+  "cnpj": "49.255.261/0001-41",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "19/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "19/01/2023",
+    "data_exclusao": "30/06/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

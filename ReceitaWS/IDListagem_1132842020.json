@@ -1,0 +1,57 @@
+{
+  "abertura": "24/06/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "BLUE BEACH MODA PRAIA E FITNESS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RUA TREZE DE MAIO",
+  "numero": "1933",
+  "complemento": "LOJA 105",
+  "municipio": "SAO PAULO",
+  "bairro": "BELA VISTA",
+  "uf": "SP",
+  "cep": "01.327-001",
+  "email": "bluebeach@bluebeach.com.br",
+  "telefone": "(11) 2281-0011",
+  "data_situacao": "24/06/2024",
+  "cnpj": "09.529.951/0017-94",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "220000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "14/04/2008",
+    "data_exclusao": "31/12/2022",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "abertura": "14/08/2006",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PEDROSA RAMOS COMERCIO DE VESTUARIO E ACESSORIOS LTDA",
+  "fantasia": "LOJA GUAPA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "QUEZIA PEDROSA RAMOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "RAFAELA PEDROSA RAMOS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA FLEMING",
+  "numero": "510",
+  "complemento": "LOJA 4",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "OURO PRETO",
+  "uf": "MG",
+  "cep": "31.310-490",
+  "email": "lojaguapa@hotmail.com",
+  "telefone": "(31) 9328-0882",
+  "data_situacao": "14/08/2006",
+  "cnpj": "08.226.157/0002-22",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

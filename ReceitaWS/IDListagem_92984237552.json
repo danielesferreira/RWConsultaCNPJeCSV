@@ -1,0 +1,66 @@
+{
+  "abertura": "22/01/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MOSP COMERCIO DE OPTICA E SERVICOS COBRANCA LTDA",
+  "fantasia": "OTICAS AMERICANAS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.91-1-00",
+      "text": "Atividades de cobrança e informações cadastrais"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA OCILENE SILVA PANTOJA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "CRISTIANO CAETANO DA SILVA",
+      "qual": "05-Administrador"
+    }
+  ],
+  "logradouro": "RUA RUI BARBOSA",
+  "numero": "106",
+  "complemento": "ANDAR 1",
+  "municipio": "MANAUS",
+  "bairro": "CENTRO",
+  "uf": "AM",
+  "cep": "69.010-220",
+  "email": "contabilidade@oticasamericanas.com.br",
+  "telefone": "(92) 3629-1296",
+  "data_situacao": "22/01/2019",
+  "cnpj": "32.523.483/0001-03",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "110000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "22/01/2019",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

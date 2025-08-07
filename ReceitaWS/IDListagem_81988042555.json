@@ -1,0 +1,62 @@
+{
+  "abertura": "09/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "L P FARMACIA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal (Dispensada *)"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANA CRISTINA DA SILVA PEREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R HIDROLANDIA",
+  "numero": "222",
+  "complemento": "LJ 12",
+  "municipio": "JABOATAO DOS GUARARAPES",
+  "bairro": "PIEDADE",
+  "uf": "PE",
+  "cep": "54.420-160",
+  "email": "abel.organize@gmail.com",
+  "telefone": "(81) 3094-9900",
+  "data_situacao": "09/01/2023",
+  "cnpj": "49.106.002/0001-59",
+  "ultima_atualizacao": "2025-07-30T21:37:11.378Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "09/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

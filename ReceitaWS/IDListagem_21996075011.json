@@ -1,0 +1,62 @@
+{
+  "abertura": "29/04/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "POINT 191 LANCHONETE LTDA",
+  "fantasia": "ESTACAO DOS LANCHES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SIMONE TAVARES DE ALMEIDA PEREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE MANSO",
+  "numero": "00191",
+  "complemento": "LOJ B",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "MADUREIRA",
+  "uf": "RJ",
+  "cep": "21.310-260",
+  "telefone": "(21) 9960-7501",
+  "data_situacao": "29/04/2021",
+  "cnpj": "41.754.549/0001-59",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "7000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

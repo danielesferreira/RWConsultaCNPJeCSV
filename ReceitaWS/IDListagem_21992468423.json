@@ -1,0 +1,57 @@
+{
+  "abertura": "28/07/2011",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "C M P DOS SANTOS CONFECCOES",
+  "fantasia": "C & K CONFECCOES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA CAPITAO LOMBA",
+  "numero": "175",
+  "complemento": "CASA",
+  "municipio": "DUQUE DE CAXIAS",
+  "bairro": "LAGUNAS E DOURADOS",
+  "uf": "RJ",
+  "cep": "25.011-440",
+  "telefone": "(21) 2671-2296 / (21) 2671-2298 / (21) 2671-2298",
+  "data_situacao": "27/09/2019",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "14.053.712/0001-83",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "28/07/2011",
+    "data_exclusao": "27/09/2019",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

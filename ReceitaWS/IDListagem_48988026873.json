@@ -1,0 +1,62 @@
+{
+  "abertura": "03/01/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ESQUINA DA MODA MASCULINA E FEMININA LTDA",
+  "fantasia": "ESQUINA DA MODA MASCULINA E FEMININA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DAIANA MACHADO MEIRELLES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA ARMANDO CALIL BULOS",
+  "numero": "6145",
+  "complemento": "SALA 01",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "daianamachadomeirelles@gmail.com",
+  "telefone": "(48) 8802-6873",
+  "data_situacao": "03/01/2023",
+  "cnpj": "49.032.679/0001-90",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "25000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "03/01/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "03/01/2023",
+    "data_exclusao": "31/03/2025",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

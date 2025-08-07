@@ -1,0 +1,69 @@
+{
+  "abertura": "27/03/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "50.094.551 IGOR VINICIUS DOMINGOS DE MIRANDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.63-6-03",
+      "text": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "95.29-1-99",
+      "text": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+    },
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "25.39-0-01",
+      "text": "Serviços de usinagem, torneiria e solda"
+    },
+    {
+      "code": "95.29-1-04",
+      "text": "Reparação de bicicletas, triciclos e outros veículos não motorizados"
+    }
+  ],
+  "logradouro": "RUA SARACURA",
+  "numero": "1686",
+  "complemento": "LOJA 1",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-210",
+  "email": "bikesiw@gmail.com",
+  "telefone": "(41) 9699-6115",
+  "data_situacao": "27/03/2023",
+  "cnpj": "50.094.551/0001-30",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "27/03/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "27/03/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

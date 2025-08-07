@@ -1,0 +1,66 @@
+{
+  "abertura": "25/04/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "NOSSO RESTAURANTE. RIBEIRAO PRETO LTDA",
+  "fantasia": "NOSSO RESTAURANTE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GILSON MENEZES DA SILVA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ANTONIA DILMA DE LIMA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA AMADOR BUENO",
+  "numero": "362",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "CENTRO",
+  "uf": "SP",
+  "cep": "14.010-070",
+  "email": "wcmempresas@live.com",
+  "telefone": "(16) 3620-1033",
+  "data_situacao": "25/04/2018",
+  "cnpj": "30.302.543/0001-24",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "19/07/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FRANCELINI MARIANI PAIVA CALDEIRA BRANT",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    }
+  ],
+  "logradouro": "AVENIDA DOS ENGENHEIROS",
+  "numero": "560",
+  "complemento": "LOJA: 6;",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "ALIPIO DE MELO",
+  "uf": "MG",
+  "cep": "30.840-300",
+  "email": "silvaauditoria@ig.com.br",
+  "telefone": "(31) 3224-4139",
+  "data_situacao": "19/07/2011",
+  "cnpj": "13.979.574/0001-03",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "30000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

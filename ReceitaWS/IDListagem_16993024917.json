@@ -1,0 +1,66 @@
+{
+  "abertura": "26/12/1995",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "M&I ALIMENTACAO E COMERCIO LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.11-2-05",
+      "text": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "TADEU TAMOTSU INAGAKI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R ALVARES CABRAL",
+  "numero": "463",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "CENTRO",
+  "uf": "SP",
+  "cep": "14.010-080",
+  "data_situacao": "03/11/2005",
+  "cnpj": "00.987.126/0001-00",
+  "ultima_atualizacao": "2025-08-04T20:47:23.583Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2020",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

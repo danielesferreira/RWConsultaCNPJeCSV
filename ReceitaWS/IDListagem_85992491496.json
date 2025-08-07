@@ -1,0 +1,62 @@
+{
+  "abertura": "26/03/2010",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "LUCIELIO BIKES LTDA",
+  "fantasia": "LUCIELIO BIKES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.63-6-03",
+      "text": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "95.29-1-04",
+      "text": "Reparação de bicicletas, triciclos e outros veículos não-motorizados"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LUCIELIO RODRIGUES QUEIROZ MELO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV GISELDA MAGALHAES BEZERRA",
+  "numero": "881",
+  "municipio": "CAUCAIA",
+  "bairro": "PARQUE POTIRA (JUREMA)",
+  "uf": "CE",
+  "cep": "61.648-160",
+  "email": "lucielio_rodrigues@hotmail.com",
+  "telefone": "(85) 8633-9656",
+  "data_situacao": "26/03/2010",
+  "cnpj": "11.739.003/0001-68",
+  "ultima_atualizacao": "2025-08-06T18:34:38.472Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "26/03/2010",
+    "data_exclusao": "31/05/2016",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

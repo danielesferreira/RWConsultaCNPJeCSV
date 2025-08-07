@@ -1,0 +1,105 @@
+{
+  "abertura": "17/09/2019",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "ATAKAREJO DISTRIBUIDOR DE ALIMENTOS E BEBIDAS S.A",
+  "fantasia": "ATAKAREJO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "46.91-5-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "46.35-4-99",
+      "text": "Comércio atacadista de bebidas não especificadas anteriormente"
+    },
+    {
+      "code": "46.39-7-01",
+      "text": "Comércio atacadista de produtos alimentícios em geral"
+    },
+    {
+      "code": "47.11-3-01",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados"
+    },
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "52.12-5-00",
+      "text": "Carga e descarga"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    }
+  ],
+  "logradouro": "R VEREADOR ZEZEU RIBEIRO",
+  "numero": "000111",
+  "complemento": "LOJA LJ",
+  "municipio": "SALVADOR",
+  "bairro": "FAZENDA GRANDE II",
+  "uf": "BA",
+  "cep": "41.342-153",
+  "email": "andreia.divino@atakarejo.com.br",
+  "telefone": "(71) 3460-8791",
+  "data_situacao": "17/09/2019",
+  "cnpj": "73.849.952/0022-82",
+  "ultima_atualizacao": "2025-07-17T16:25:14.272Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

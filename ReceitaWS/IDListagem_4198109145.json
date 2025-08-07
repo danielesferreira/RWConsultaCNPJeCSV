@@ -1,0 +1,62 @@
+{
+  "abertura": "29/04/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "JOIAS E JOIAS SH LTDA",
+  "fantasia": "ALOISH JOIAS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "95.29-1-06",
+      "text": "Reparação de jóias"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SANDERSON HELIO OLIVEIRA LIMA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "PRACA GENERAL OSORIO",
+  "numero": "45",
+  "complemento": "CONJ 401 ANDAR 05 COND ANA CRISTINA ED",
+  "municipio": "CURITIBA",
+  "bairro": "CENTRO",
+  "uf": "PR",
+  "cep": "80.020-010",
+  "email": "sandersonhelio@hotmail.com",
+  "telefone": "(41) 9760-6116",
+  "data_situacao": "29/04/2021",
+  "cnpj": "41.753.672/0001-55",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "abertura": "20/08/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "E F A COMERCIO DE ALIMENTOS LTDA",
+  "fantasia": "SORVETES FROSTY",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AVENIDA GODOFREDO MACIEL",
+  "numero": "2540",
+  "complemento": "LOJA 06",
+  "municipio": "FORTALEZA",
+  "bairro": "MARAPONGA",
+  "uf": "CE",
+  "cep": "60.710-684",
+  "email": "marcia.lima@frosty.com.br",
+  "telefone": "(85) 3878-7200",
+  "data_situacao": "20/08/2021",
+  "cnpj": "31.218.185/0011-00",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "12000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

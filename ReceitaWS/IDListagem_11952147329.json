@@ -1,0 +1,66 @@
+{
+  "abertura": "08/10/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SURYA COMERCIO DE RELOGIOS, OCULOS E ACESSORIOS DE MODA LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "TIAGO PEREIRA LEVY",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA TREZE DE MAIO",
+  "numero": "1947",
+  "complemento": "LOJA 140 PISO MTRO CARDIM",
+  "municipio": "SAO PAULO",
+  "bairro": "BELA VISTA",
+  "uf": "SP",
+  "cep": "01.327-001",
+  "email": "dte@bwa.global",
+  "telefone": "(84) 3204-6500",
+  "data_situacao": "08/10/2024",
+  "cnpj": "57.608.180/0001-06",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "08/10/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

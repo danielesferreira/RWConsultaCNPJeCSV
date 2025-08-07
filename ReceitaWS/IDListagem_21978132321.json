@@ -1,0 +1,73 @@
+{
+  "abertura": "15/08/2016",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ANA PAULA MILIANTE DE SOUZA BAHRI 08447482774",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.20-1-01",
+      "text": "Fornecimento de alimentos preparados preponderantemente para empresas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.96-1-00",
+      "text": "Fabricação de alimentos e pratos prontos"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "10.94-5-00",
+      "text": "Fabricação de massas alimentícias"
+    }
+  ],
+  "logradouro": "RUA INDAIACU LEITE",
+  "numero": "42",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "INHAUMA",
+  "uf": "RJ",
+  "cep": "20.760-580",
+  "email": "anapaula.naty@hotmail.com",
+  "telefone": "(21) 3064-2157",
+  "data_situacao": "15/06/2023",
+  "cnpj": "25.734.646/0001-23",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

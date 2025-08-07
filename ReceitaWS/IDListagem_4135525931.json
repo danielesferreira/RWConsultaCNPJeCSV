@@ -1,0 +1,57 @@
+{
+  "abertura": "13/05/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "55.101.255 CINTIA CHAIJAH PEREIRA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "logradouro": "RUA AVESTRUZ",
+  "numero": "614",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-230",
+  "email": "chaijahcintia@yahoo.com",
+  "telefone": "(41) 8862-6993",
+  "data_situacao": "13/05/2024",
+  "cnpj": "55.101.255/0001-32",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "35000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/05/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "13/05/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

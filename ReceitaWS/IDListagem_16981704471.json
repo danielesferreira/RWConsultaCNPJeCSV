@@ -1,0 +1,57 @@
+{
+  "abertura": "14/03/1986",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "PAULO HAMILTON DA SILVA",
+  "fantasia": "A UNICA CONFEITARIA E CAFE",
+  "porte": "DEMAIS",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA SALDANHA MARINHO",
+  "numero": "555",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "CENTRO",
+  "uf": "SP",
+  "cep": "14.010-060",
+  "data_situacao": "30/03/1993",
+  "motivo_situacao": "EXTINÇÃO POR ENCERRAMENTO LIQUIDAÇÃO VOLUNTÁRIA",
+  "cnpj": "53.349.791/0001-26",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

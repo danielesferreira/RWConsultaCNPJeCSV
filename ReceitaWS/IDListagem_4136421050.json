@@ -1,0 +1,100 @@
+{
+  "abertura": "22/08/1966",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RAKSA & CIA LTDA",
+  "fantasia": "RAKSA MATERIAIS DE CONSTRUCAO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.54-7-03",
+      "text": "Comércio varejista de artigos de iluminação"
+    },
+    {
+      "code": "47.54-7-01",
+      "text": "Comércio varejista de móveis"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MICHELE RAKSA SBARDELINI",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "HELENA BORA RAKSA",
+      "qual": "05-Administrador"
+    },
+    {
+      "nome": "NEIDE TEREZINHA RAKSA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "RAKSA ADMINISTRACAO E PARTICIPACOES LTDA",
+      "qual": "22-Sócio",
+      "nome_rep_legal": "OSWALDO RAKSA",
+      "qual_rep_legal": "05-Administrador"
+    },
+    {
+      "nome": "NEUZA MARIA PANEK",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "OSVALDO LUIZ RAKSA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R ABILIO FRUET",
+  "numero": "56",
+  "municipio": "ARAUCARIA",
+  "bairro": "CENTRO",
+  "uf": "PR",
+  "cep": "83.702-010",
+  "email": "financeiro@raksa.com.br",
+  "telefone": "(41) 9874-2626",
+  "data_situacao": "15/04/2000",
+  "cnpj": "75.528.166/0001-84",
+  "ultima_atualizacao": "2025-07-29T13:09:53.999Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "132000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-05-11T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-05-11T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

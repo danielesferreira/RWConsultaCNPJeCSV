@@ -1,0 +1,57 @@
+{
+  "abertura": "22/04/2014",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "20.111.024 AMARILDO FELICIANO DE OLIVEIRA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.12-1-00",
+      "text": "Serviços ambulantes de alimentação"
+    }
+  ],
+  "logradouro": "RUA MILTON IOSSI",
+  "numero": "273",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "IPIRANGA",
+  "uf": "SP",
+  "cep": "14.060-359",
+  "email": "amarildofeliciano.4000@gmail.com",
+  "telefone": "(16) 3615-2663",
+  "data_situacao": "22/04/2014",
+  "cnpj": "20.111.024/0001-25",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "90000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

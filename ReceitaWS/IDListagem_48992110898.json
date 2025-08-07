@@ -1,0 +1,78 @@
+{
+  "abertura": "18/02/2025",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RODRIGO HENRIQUE SCHITTLER HENGEMUHLE LTDA",
+  "fantasia": "ALO MADRUGA MERCEARIA E DISK AGUA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.35-4-99",
+      "text": "Comércio atacadista de bebidas não especificadas anteriormente"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.29-6-01",
+      "text": "Tabacaria"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RODRIGO HENRIQUE SCHITTLER HENGEMUHLE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "TV ABILIO NUNES VIEIRA",
+  "numero": "71",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES",
+  "uf": "SC",
+  "cep": "88.058-130",
+  "email": "alomadrugaingleses@gmail.com",
+  "telefone": "(48) 9208-9139",
+  "data_situacao": "18/02/2025",
+  "cnpj": "59.527.782/0001-64",
+  "ultima_atualizacao": "2025-07-14T21:24:18.271Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "18/02/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

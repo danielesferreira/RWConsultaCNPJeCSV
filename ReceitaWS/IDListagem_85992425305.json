@@ -1,0 +1,74 @@
+{
+  "abertura": "26/04/2005",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "F. PIMENTA COMERCIO DE ALIMENTOS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-02",
+      "text": "Comércio varejista de mercadorias em lojas de conveniência"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.20-1-03",
+      "text": "Cantinas - serviços de alimentação privativos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FRANCINE PIMENTA DE MENEZES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AV CENTRAL",
+  "numero": "5450",
+  "complemento": "LOJA 11/12",
+  "municipio": "CAUCAIA",
+  "bairro": "ICARAI",
+  "uf": "CE",
+  "cep": "61.624-450",
+  "telefone": "(85) 3226-2158/ (85) 8678-2724",
+  "data_situacao": "26/04/2005",
+  "cnpj": "07.438.507/0001-70",
+  "ultima_atualizacao": "2025-07-17T15:11:49.071Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "88000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": "31/12/2020",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

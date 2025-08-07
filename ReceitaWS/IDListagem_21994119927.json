@@ -1,0 +1,66 @@
+{
+  "abertura": "15/04/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BAZAR E FERRAGENS FILHOS DE DAVI LTDA",
+  "fantasia": "BAZAR E FERRAGENS ALFA E OMEGA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LUIS CARLOS DOS SANTOS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "WANDERLUCI PAULA SANTOS",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "AVENIDA ANTENOR NAVARRO",
+  "numero": "100",
+  "complemento": "LOJA A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "BRAS DE PINA",
+  "uf": "RJ",
+  "cep": "21.012-250",
+  "telefone": "(21) 2560-4707",
+  "data_situacao": "15/04/2008",
+  "cnpj": "09.565.952/0001-27",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "15/04/2008",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

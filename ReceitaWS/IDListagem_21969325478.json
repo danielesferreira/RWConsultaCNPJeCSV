@@ -1,0 +1,66 @@
+{
+  "abertura": "09/07/2021",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TETE MATERIAIS DE CONSTRUCAO LTDA",
+  "fantasia": "TETE TINTAS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VANIA SANTOS ALVES",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARIA DAS DORES DOS SANTOS ALVES",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA BORJA REIS",
+  "numero": "00693",
+  "complemento": "LOJ A",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "ENGENHO DE DENTRO",
+  "uf": "RJ",
+  "cep": "20.745-100",
+  "email": "mwassessoriamw@gmail.com",
+  "telefone": "(21) 2697-3585",
+  "data_situacao": "09/07/2021",
+  "cnpj": "42.657.814/0001-43",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

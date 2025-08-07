@@ -1,0 +1,78 @@
+{
+  "abertura": "18/09/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "REI DOS PASSAROS COMERCIO DE RACOES LTDA",
+  "fantasia": "JK PET'S",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    },
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "96.09-2-08",
+      "text": "Higiene e embelezamento de animais domésticos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VANDERLEIA RODRIGUES TEIXEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA SANTO ANTONIO",
+  "numero": "99",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "SANTO ANTONIO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "juberlanrodrigues1@gmail.com",
+  "telefone": "(21) 7322-7469 / (00) 0000-0000",
+  "data_situacao": "18/09/2023",
+  "cnpj": "52.213.825/0001-98",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

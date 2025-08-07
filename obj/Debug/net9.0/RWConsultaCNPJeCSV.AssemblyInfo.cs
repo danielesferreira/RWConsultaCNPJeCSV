@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RWConsultaCNPJeCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab60bccd291b3858cecab50e87ac6de3fcb9706d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fbffb9bba4ea83c8c700e7f25b98df4bd2bb80")]
 [assembly: System.Reflection.AssemblyProductAttribute("RWConsultaCNPJeCSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RWConsultaCNPJeCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

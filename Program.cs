@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -58,6 +57,13 @@ class Empresa
     public Simples? simei { get; set; }
 }
 
+class Registro
+{
+    public string IDListagem { get; set; } = "";
+    public string CNPJ { get; set; } = "";
+    public string SbjNum { get; set; } = "";
+}
+
 class Program
 {
     static async Task Main()
@@ -73,28 +79,31 @@ class Program
         Console.WriteLine("2 - Exportar CSV");
         var opcao = Console.ReadLine();
 
+        var registros = File.ReadAllLines(inputPath)
+            .Skip(1)
+            .Select(l => l.Split(';'))
+            .Where(cols => cols.Length >= 3)
+            .Select(cols => new Registro
+            {
+                IDListagem = cols[0].Trim(),
+                CNPJ = NormalizeCNPJ(cols[1]),
+                SbjNum = cols[2].Trim()
+            })
+            .ToList();
+
         if (opcao == "1")
         {
-            var rawCnpjs = File.ReadAllLines(inputPath)
-                .Where(l => !string.IsNullOrWhiteSpace(l))
-                .Select(NormalizeCNPJ)
-                .Distinct()
-                .ToList();
-
-            var arquivosExistentes = Directory.GetFiles(outputJsonDir, "*.json")
-                .Select(f => Path.GetFileNameWithoutExtension(f)?.Replace("ReceitaWS_", ""))
-                .ToHashSet();
-
-            var novosCnpjs = rawCnpjs.Where(c => !arquivosExistentes.Contains(c)).ToList();
-
             var httpClient = new HttpClient();
             httpClient.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue("ConsultaCNPJApp", "1.0"));
 
-            foreach (var cnpj in novosCnpjs)
+            foreach (var reg in registros)
             {
+                var jsonPath = Path.Combine(outputJsonDir, $"IDListagem_{reg.IDListagem}.json");
+                if (File.Exists(jsonPath)) continue;
+
                 try
                 {
-                    var url = $"https://receitaws.com.br/v1/cnpj/{cnpj}";
+                    var url = $"https://receitaws.com.br/v1/cnpj/{reg.CNPJ}";
                     var response = await httpClient.GetAsync(url);
                     var json = await response.Content.ReadAsStringAsync();
 
@@ -102,41 +111,41 @@ class Program
 
                     if (empresa?.status?.ToUpper() == "OK")
                     {
-                        var jsonPath = Path.Combine(outputJsonDir, $"ReceitaWS_{cnpj}.json");
                         await File.WriteAllTextAsync(jsonPath, json);
-                        Console.WriteLine($"✅ CNPJ {cnpj} salvo.");
+                        Console.WriteLine($"✅ CNPJ {reg.CNPJ} válido.");
                     }
                     else
                     {
-                        Console.WriteLine($"⚠️ CNPJ {cnpj} inválido ou não encontrado.");
+                        await File.WriteAllTextAsync(jsonPath, "{}");
+                        Console.WriteLine($"⚠️ CNPJ {reg.CNPJ} inválido.");
                     }
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"❌ Erro ao processar CNPJ {cnpj}: {ex.Message}");
+                    Console.WriteLine($"❌ Erro ao processar CNPJ {reg.CNPJ}: {ex.Message}");
                 }
 
-                await Task.Delay(TimeSpan.FromSeconds(20)); // Limite de 3 consultas por minuto
+                await Task.Delay(TimeSpan.FromSeconds(20));
             }
         }
         else if (opcao == "2")
         {
             var sb = new StringBuilder();
-            if (!File.Exists(outputCsvPath))
-            {
-                sb.AppendLine("CNPJ,Nome,Tipo,Situacao,Porte,Natureza Juridica,Abertura,Logradouro,Numero,Bairro,Municipio,UF,CEP,Simples Optante,Simei Optante,Telefone,Capital Social,Status,Atividade Principal,Atividades Secundarias");
-            }
+            sb.AppendLine("IDListagem;CNPJ;SbjNum;Nome;Tipo;Situacao;Porte;Natureza Juridica;Abertura;Logradouro;Numero;Bairro;Municipio;UF;CEP;Simples Optante;Simei Optante;Telefone;Capital Social;Status;Atividade Principal;Atividades Secundarias");
 
-            var arquivosJson = Directory.GetFiles(outputJsonDir, "*.json");
-            var cnpjsExistentes = File.Exists(outputCsvPath)
-                ? File.ReadAllLines(outputCsvPath).Skip(1).Select(l => l.Split(',')[0]).ToHashSet()
-                : new HashSet<string>();
-
-            foreach (var arquivo in arquivosJson)
+            foreach (var reg in registros)
             {
-                string json = File.ReadAllText(arquivo);
+                var jsonPath = Path.Combine(outputJsonDir, $"ReceitaWS_{reg.CNPJ}.json");
+                if (!File.Exists(jsonPath))
+                {
+                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};;;;;;;;;;;;;;;;;;;;;");
+                    continue;
+                }
+
+                var json = File.ReadAllText(jsonPath);
                 var empresa = JsonConvert.DeserializeObject<Empresa>(json);
-                if (empresa != null && empresa.status?.ToUpper() == "OK" && !cnpjsExistentes.Contains(empresa.cnpj))
+
+                if (empresa?.status?.ToUpper() == "OK")
                 {
                     string atividadePrincipal = string.Join(" | ",
                         empresa.atividade_principal?.Select(a => RemoverAcentos(a.texto ?? "")) ?? new List<string>());
@@ -144,12 +153,16 @@ class Program
                     string atividadesSecundarias = string.Join(" | ",
                         empresa.atividades_secundarias?.Select(a => RemoverAcentos(a.texto ?? "")) ?? new List<string>());
 
-                    sb.AppendLine($"{NormalizeCNPJ(empresa.cnpj ?? "")},{Limpar(empresa.nome)},{Limpar(empresa.tipo)},{Limpar(empresa.situacao)},{Limpar(empresa.porte)},{Limpar(empresa.natureza_juridica)},{empresa.abertura},{Limpar(empresa.logradouro)},{empresa.numero},{Limpar(empresa.bairro)},{Limpar(empresa.municipio)},{empresa.uf},{empresa.cep},{empresa.simples?.optante},{empresa.simei?.optante},{empresa.telefone},{empresa.capital_social},{empresa.status},\"{atividadePrincipal}\",\"{atividadesSecundarias}\"");
+                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};{Limpar(empresa.nome)};{Limpar(empresa.tipo)};{Limpar(empresa.situacao)};{Limpar(empresa.porte)};{Limpar(empresa.natureza_juridica)};{empresa.abertura};{Limpar(empresa.logradouro)};{empresa.numero};{Limpar(empresa.bairro)};{Limpar(empresa.municipio)};{empresa.uf};{empresa.cep};{empresa.simples?.optante};{empresa.simei?.optante};{empresa.telefone};{empresa.capital_social};{empresa.status};\"{atividadePrincipal}\";\"{atividadesSecundarias}\"");
+                }
+                else
+                {
+                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};;;;;;;;;;;;;;;;;;;;;");
                 }
             }
 
-            File.AppendAllText(outputCsvPath, sb.ToString(), Encoding.UTF8);
-            Console.WriteLine("✅ CSV atualizado com sucesso!");
+            File.WriteAllText(outputCsvPath, sb.ToString(), Encoding.UTF8);
+            Console.WriteLine("✅ CSV gerado com sucesso!");
         }
         else
         {

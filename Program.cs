@@ -135,7 +135,7 @@ class Program
 
             foreach (var reg in registros)
             {
-                var jsonPath = Path.Combine(outputJsonDir, $"ReceitaWS_{reg.CNPJ}.json");
+                var jsonPath = Path.Combine(outputJsonDir, $"IDListagem_{reg.IDListagem}.json");
                 if (!File.Exists(jsonPath))
                 {
                     sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};;;;;;;;;;;;;;;;;;;;;");

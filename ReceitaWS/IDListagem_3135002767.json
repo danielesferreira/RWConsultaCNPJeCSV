@@ -1,0 +1,65 @@
+{
+  "abertura": "05/04/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "PNEUS NACIONAL LTDA",
+  "fantasia": "PNEUS NACIONAL LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "45.30-7-05",
+      "text": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "45.20-0-01",
+      "text": "Serviços de manutenção e reparação mecânica de veículos automotores"
+    },
+    {
+      "code": "45.20-0-04",
+      "text": "Serviços de alinhamento e balanceamento de veículos automotores"
+    },
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    }
+  ],
+  "logradouro": "AVENIDA OLINTO MEIRELES",
+  "numero": "658",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "BARREIRO",
+  "uf": "MG",
+  "cep": "30.640-010",
+  "email": "pneusnacional@pneusnacional.com.br",
+  "telefone": "(31) 3274-2725 / (31) 3274-4155",
+  "data_situacao": "05/04/2021",
+  "cnpj": "17.168.238/0008-08",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "400000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

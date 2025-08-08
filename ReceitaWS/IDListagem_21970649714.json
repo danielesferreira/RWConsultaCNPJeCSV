@@ -1,0 +1,66 @@
+{
+  "abertura": "26/03/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RESTAURANTE E LANC PONTO DE ENCONTRO LEOPOLDINA LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA LAURA ROSA DE OLIVEIRA COELHO BARBOSA",
+      "qual": "22-Sócio"
+    },
+    {
+      "nome": "ALAIDE COELHO GOMES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R PROJETADA",
+  "numero": "S/N",
+  "complemento": "LOJA 2",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "CENTRO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "data_situacao": "09/07/2005",
+  "cnpj": "72.068.489/0001-44",
+  "ultima_atualizacao": "2025-08-07T18:35:47.908Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "60000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

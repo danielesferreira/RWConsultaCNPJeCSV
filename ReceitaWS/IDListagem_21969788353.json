@@ -1,0 +1,78 @@
+{
+  "abertura": "15/12/2008",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "POSSEFERRO COMERCIO DE MATERIAIS PARA SERRALHEIRO E CONSTRUCAO LTDA",
+  "fantasia": "POSSEFERRO FERRAGENS",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "46.72-9-00",
+      "text": "Comércio atacadista de ferragens e ferramentas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "HERBERT LUIZ SEVERIANO BETTA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARIA DE LOURDES SEVERIANO BETTA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "WILCLER SEVERIANO BETTA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "FRANCISCO DE ASSIS BETTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R ANGELA MARIA",
+  "numero": "160",
+  "municipio": "NOVA IGUACU",
+  "bairro": "POSSE",
+  "uf": "RJ",
+  "cep": "26.023-020",
+  "email": "paralegal@aliat.com.br",
+  "telefone": "(11) 2610-9534",
+  "data_situacao": "15/12/2008",
+  "cnpj": "10.535.678/0001-22",
+  "ultima_atualizacao": "2025-08-08T14:20:55.259Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "500000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "15/12/2008",
+    "data_exclusao": "31/12/2010",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

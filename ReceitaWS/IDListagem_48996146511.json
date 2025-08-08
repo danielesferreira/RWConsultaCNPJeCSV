@@ -1,0 +1,61 @@
+{
+  "abertura": "29/10/2008",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "RICARDO LUIZ SEMPRE BOM",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "46.42-7-01",
+      "text": "Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "logradouro": "RUA DOM JOAO BECKER",
+  "numero": "304",
+  "complemento": "LOJA 3",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES",
+  "uf": "SC",
+  "cep": "88.058-600",
+  "email": "lps.contabil@terra.com.br",
+  "telefone": "(48) 3246-0545 / (48) 3246-0545",
+  "data_situacao": "29/10/2008",
+  "cnpj": "02.135.074/0002-41",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "473036.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

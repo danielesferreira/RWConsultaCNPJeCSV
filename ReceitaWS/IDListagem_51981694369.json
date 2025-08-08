@@ -1,0 +1,74 @@
+{
+  "abertura": "07/07/2016",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MINIMERCADO BOM FIM LTDA",
+  "fantasia": "MINIMERCADO BOM FIM",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VITORIA JULIANE NAVARRO CALLEGARI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R CORONEL MASSOT",
+  "numero": "692",
+  "municipio": "PORTO ALEGRE",
+  "bairro": "CRISTAL",
+  "uf": "RS",
+  "cep": "91.910-530",
+  "email": "contabilidade.cfr@gmail.com",
+  "telefone": "(51) 3072-3961/ (51) 3072-3244",
+  "data_situacao": "07/07/2016",
+  "cnpj": "25.163.451/0001-70",
+  "ultima_atualizacao": "2025-08-06T18:38:05.370Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

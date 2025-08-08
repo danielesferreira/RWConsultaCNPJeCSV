@@ -1,0 +1,102 @@
+{
+  "abertura": "14/08/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "KAIROS BIJUTERIAS E PRESENTES LTDA .",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.49-4-10",
+      "text": "Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas"
+    },
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.89-0-07",
+      "text": "Comércio varejista de equipamentos para escritório"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    },
+    {
+      "code": "77.29-2-01",
+      "text": "Aluguel de aparelhos de jogos eletrônicos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "PEDRO HENRIQUE SENA SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA DOS ENGENHEIROS",
+  "numero": "1442",
+  "complemento": "LOJA 03",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "CASTELO",
+  "uf": "MG",
+  "cep": "30.840-372",
+  "email": "majusebh@hotmail.com",
+  "telefone": "(31) 9903-0521",
+  "data_situacao": "14/08/2024",
+  "cnpj": "56.707.575/0001-01",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

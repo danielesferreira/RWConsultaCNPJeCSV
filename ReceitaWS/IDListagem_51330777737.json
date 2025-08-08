@@ -1,0 +1,74 @@
+{
+  "abertura": "29/10/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AGROPECUARIA DE MARI LTDA",
+  "fantasia": "AGROPECUARIA DE MARI",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação (Dispensada *)"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "33.14-7-02",
+      "text": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas (Dispensada *)"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas (Dispensada *)"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais (Dispensada *)"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JUDITA ANGELA PROVENZI DE MARI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R CAMAQUA",
+  "numero": "724",
+  "complemento": "LOJA",
+  "municipio": "PORTO ALEGRE",
+  "bairro": "CAMAQUA",
+  "uf": "RS",
+  "cep": "91.910-630",
+  "email": "contato@detalhescontabilidade.com.br",
+  "telefone": "(51) 3013-3337",
+  "data_situacao": "29/10/2019",
+  "cnpj": "35.344.400/0001-07",
+  "ultima_atualizacao": "2025-08-05T17:47:03.282Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "29/10/2019",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "29/10/2019",
+    "data_exclusao": "31/10/2020",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

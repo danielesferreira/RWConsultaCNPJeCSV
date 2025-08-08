@@ -1,0 +1,57 @@
+{
+  "abertura": "24/10/2012",
+  "situacao": "BAIXADA",
+  "tipo": "MATRIZ",
+  "nome": "PATRICIA DA SILVA CARDOZO DE JESUS 31961757826",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "RUA ANTONIO RODRIGUES DE ALMEIDA",
+  "numero": "305",
+  "complemento": "APT 23A;BLOCO A",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "JARDIM JOAO ROSSI",
+  "uf": "SP",
+  "cep": "14.026-514",
+  "telefone": "(16) 3623-0468",
+  "data_situacao": "01/02/2018",
+  "motivo_situacao": "REGISTRO CANCELADO",
+  "cnpj": "17.058.466/0001-40",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "email": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "1.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "24/10/2012",
+    "data_exclusao": "01/02/2018",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "24/10/2012",
+    "data_exclusao": "01/02/2018",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "abertura": "01/09/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SABOR BRASILEIRO RESTAURANTE LTDA",
+  "fantasia": "SABOR BRASILEIRO RESTAURANTE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    },
+    {
+      "code": "56.20-1-01",
+      "text": "Fornecimento de alimentos preparados preponderantemente para empresas"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SONIA MARA SOARES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RODOVIA SC 108",
+  "numero": "6767",
+  "complemento": "SALA 2;KM 50,2",
+  "municipio": "MASSARANDUBA",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "email": "sabordecasarestaurante68@gmail.com",
+  "telefone": "(47) 3307-4012",
+  "data_situacao": "01/09/2022",
+  "cnpj": "47.805.515/0001-22",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "01/09/2022",
+    "data_exclusao": "30/06/2024",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

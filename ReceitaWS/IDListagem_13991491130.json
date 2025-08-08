@@ -1,0 +1,65 @@
+{
+  "abertura": "28/02/2018",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "WALTER SIMOES FILHO 09007289810",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "logradouro": "AVENIDA DO CORRETOR DE IMOVEIS",
+  "numero": "sn",
+  "complemento": "BANCA",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "SAMAMBAIA",
+  "uf": "SP",
+  "cep": "11.712-400",
+  "email": "waltersimoesfilhosp@gmail.com",
+  "telefone": "(13) 8868-8180",
+  "data_situacao": "28/02/2018",
+  "cnpj": "29.808.260/0001-70",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

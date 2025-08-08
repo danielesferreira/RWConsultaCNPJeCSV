@@ -1,0 +1,66 @@
+{
+  "abertura": "31/07/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AMRG PRODUTOS NATURAIS LTDA",
+  "fantasia": "IMPERIO Q GRANEL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "AUREA MARILIA REIS GALARANE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOSE FABIO ARAUJO SIMAO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA SERRANA",
+  "numero": "326",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SERRANO",
+  "uf": "MG",
+  "cep": "30.882-370",
+  "email": "wilson.contabilidade@hotmail.com",
+  "telefone": "(31) 9737-4829",
+  "data_situacao": "31/07/2024",
+  "cnpj": "56.172.622/0001-51",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

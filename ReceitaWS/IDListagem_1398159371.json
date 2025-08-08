@@ -1,0 +1,57 @@
+{
+  "abertura": "06/10/2011",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RAFAEL BASSO LOPES 34439645836",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-99",
+      "text": "Comércio varejista de materiais de construção em geral"
+    }
+  ],
+  "logradouro": "AVENIDA MARIA CAVALCANTE DA SILVA",
+  "numero": "388",
+  "complemento": "LOJA",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "SAMAMBAIA",
+  "uf": "SP",
+  "cep": "11.712-560",
+  "email": "materiais.casa.nova@hotmail.com",
+  "telefone": "(13) 3594-1634",
+  "data_situacao": "06/10/2011",
+  "cnpj": "14.416.276/0001-60",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "20000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "06/10/2011",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "06/10/2011",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

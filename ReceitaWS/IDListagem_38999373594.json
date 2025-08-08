@@ -1,0 +1,77 @@
+{
+  "abertura": "07/04/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "45.947.127 GIUFARLOS DIAS SOARES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "43.21-5-00",
+      "text": "Instalações elétricas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "25.99-3-01",
+      "text": "Serviços de confecção de armações metálicas para a construção"
+    },
+    {
+      "code": "33.13-9-01",
+      "text": "Manutenção e reparação de geradores, transformadores e motores elétricos"
+    },
+    {
+      "code": "33.13-9-99",
+      "text": "Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente"
+    },
+    {
+      "code": "33.21-0-00",
+      "text": "Instalação de máquinas e equipamentos industriais"
+    },
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    },
+    {
+      "code": "45.20-0-02",
+      "text": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+    }
+  ],
+  "logradouro": "RUA SAO DOMINGOS",
+  "numero": "320",
+  "municipio": "PORTEIRINHA",
+  "bairro": "VILA KENNEDY",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "giufarlosdias@hotmail.com",
+  "telefone": "(38) 9937-3594",
+  "data_situacao": "07/04/2022",
+  "cnpj": "45.947.127/0001-50",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "15000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "07/04/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "07/04/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

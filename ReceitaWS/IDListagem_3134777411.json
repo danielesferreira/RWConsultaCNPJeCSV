@@ -1,0 +1,86 @@
+{
+  "abertura": "08/02/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BRASIL CHAVES E FERRAGENS LTDA",
+  "fantasia": "BRASIL CHAVES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "95.29-1-02",
+      "text": "Chaveiros"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "43.21-5-00",
+      "text": "Instalação e manutenção elétrica"
+    },
+    {
+      "code": "45.20-0-07",
+      "text": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+    },
+    {
+      "code": "45.30-7-01",
+      "text": "Comércio por atacado de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "46.72-9-00",
+      "text": "Comércio atacadista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JAURENIO MAGNO ALVES DE FREITAS",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R IMPERIAL",
+  "numero": "600",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SERRANO",
+  "uf": "MG",
+  "cep": "30.881-535",
+  "email": "contato@brasilchaves.com.br",
+  "telefone": "(31) 3477-7411",
+  "data_situacao": "03/11/2005",
+  "cnpj": "66.488.859/0001-08",
+  "ultima_atualizacao": "2025-07-15T15:00:57.271Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "200000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

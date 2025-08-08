@@ -1,0 +1,57 @@
+{
+  "abertura": "24/05/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "50.806.456 MARIZETE DE FATIMA FABIANE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RUA INTENDENTE JOAO NUNES VIEIRA",
+  "numero": "1171",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-100",
+  "email": "marizetefabiane@hotmail.com",
+  "telefone": "(48) 9978-7106",
+  "data_situacao": "24/05/2023",
+  "cnpj": "50.806.456/0001-11",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "15000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "24/05/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "24/05/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

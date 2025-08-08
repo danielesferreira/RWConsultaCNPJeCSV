@@ -1,0 +1,66 @@
+{
+  "abertura": "18/12/1985",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FARMACIA BIBI LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-02",
+      "text": "Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GUNTHER RODE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "MARLON DENIZ WUERGES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA SETE DE SETEMBRO",
+  "numero": "1093",
+  "municipio": "MASSARANDUBA",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "data_situacao": "24/09/2001",
+  "cnpj": "79.226.320/0001-14",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

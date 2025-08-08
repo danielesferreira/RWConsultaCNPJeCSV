@@ -1,0 +1,82 @@
+{
+  "abertura": "29/04/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SUPERMERCADO HORWAT LTDA",
+  "fantasia": "SUPERMERCADO HORWAT",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LUCIANA TEREZINHA HORWAT PEREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R GAVIAO",
+  "numero": "484",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-370",
+  "email": "elianabasso@yahoo.com.br",
+  "telefone": "(41) 9958-9200",
+  "data_situacao": "29/04/2022",
+  "cnpj": "46.198.908/0001-52",
+  "ultima_atualizacao": "2025-07-25T14:55:14.756Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "29/04/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "29/04/2022",
+    "data_exclusao": "31/03/2025",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

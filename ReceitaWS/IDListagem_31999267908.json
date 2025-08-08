@@ -1,0 +1,70 @@
+{
+  "abertura": "22/05/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TRANSNORAL LTDA",
+  "fantasia": "CELEIROTUR",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "49.29-9-02",
+      "text": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "49.23-0-02",
+      "text": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+    },
+    {
+      "code": "49.29-9-01",
+      "text": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+    },
+    {
+      "code": "79.11-2-00",
+      "text": "Agências de viagens"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DILVANETE MENDES DOS ANJOS BARBOSA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA DOUTOR CRISTIANO REZENDE",
+  "numero": "2211",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "FLAVIO MARQUES LISBOA",
+  "uf": "MG",
+  "cep": "30.622-020",
+  "email": "celeirotur@yahoo.com.br",
+  "telefone": "(31) 3321-4220",
+  "data_situacao": "22/05/2013",
+  "cnpj": "18.164.591/0001-06",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "120000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2015",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

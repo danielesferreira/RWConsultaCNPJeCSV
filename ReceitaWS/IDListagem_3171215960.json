@@ -1,0 +1,66 @@
+{
+  "abertura": "13/11/2002",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "P.C. SABOR LTDA",
+  "fantasia": "PONTO COM SABOR",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "qsa": [
+    {
+      "nome": "CENIRA CELESTE PINTO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "VALDEIR DA SILVA COSTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA JOSE FERREIRA SOARES",
+  "numero": "43",
+  "complemento": "ANDAR: 1º;SALA: 06, 07, 08, 09;",
+  "municipio": "CONTAGEM",
+  "bairro": "INDUSTRIAL",
+  "uf": "MG",
+  "cep": "32.220-380",
+  "email": "tecnocon@tecnoconcontabilidade.com.br",
+  "telefone": "(31) 3361-4556 / (31) 3361-4556 / (31) 3361-4556",
+  "data_situacao": "07/06/2022",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "05.387.578/0001-66",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/01/2011",
+    "data_exclusao": "31/12/2019",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

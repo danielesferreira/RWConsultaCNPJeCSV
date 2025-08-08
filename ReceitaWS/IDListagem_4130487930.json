@@ -1,0 +1,90 @@
+{
+  "abertura": "13/11/2009",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PANIFICADORA E CONFEITARIA KULKA LTDA",
+  "fantasia": "PANIFICADORA SAO FRANCISCO DOS POLACOS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARLENE IAREK KULKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "VINICIOS KULKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "CAROLINA SCHUERSOVSKI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "TEODOSIA IAREK KULKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "GABRIEL KULKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "TIAGO KULKA",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ROGERIO SCHUERSOVSKI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R AVESTRUZ",
+  "numero": "1251",
+  "municipio": "ARAUCARIA",
+  "bairro": "CAPELA VELHA",
+  "uf": "PR",
+  "cep": "83.706-230",
+  "telefone": "(41) 3048-7930",
+  "data_situacao": "13/11/2009",
+  "cnpj": "11.356.866/0001-56",
+  "ultima_atualizacao": "2025-07-22T14:29:56.452Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "13/11/2009",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

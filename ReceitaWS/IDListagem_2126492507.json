@@ -1,0 +1,129 @@
+{
+  "abertura": "06/11/2020",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "MERCEARIA THALES LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.56-3-00",
+      "text": "Comércio varejista especializado de instrumentos musicais e acessórios"
+    },
+    {
+      "code": "47.61-0-01",
+      "text": "Comércio varejista de livros"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.62-8-00",
+      "text": "Comércio varejista de discos, CDs, DVDs e fitas"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.63-6-03",
+      "text": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.73-3-00",
+      "text": "Comércio varejista de artigos médicos e ortopédicos"
+    },
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    },
+    {
+      "code": "47.89-0-07",
+      "text": "Comércio varejista de equipamentos para escritório"
+    }
+  ],
+  "logradouro": "ROD RJ 116",
+  "numero": "S/N",
+  "complemento": "LOTE 25",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "PARQUE SANTA LUIZA",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "merceariathalesfilial@gmail.com",
+  "telefone": "(21) 2649-2507/ (21) 2649-4000",
+  "data_situacao": "06/11/2020",
+  "cnpj": "01.652.081/0004-10",
+  "ultima_atualizacao": "2025-07-17T14:58:30.773Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": "31/12/2010",
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

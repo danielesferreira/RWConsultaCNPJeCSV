@@ -1,0 +1,78 @@
+{
+  "abertura": "07/03/2007",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "POSTO ROLF REINKE LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.31-8-00",
+      "text": "Comércio varejista de combustíveis para veículos automotores"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.84-9-00",
+      "text": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+    },
+    {
+      "code": "47.32-6-00",
+      "text": "Comércio varejista de lubrificantes"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "45.20-0-05",
+      "text": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+    },
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JOSUE FERNANDO REINKE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R 11 DE NOVEMBRO",
+  "numero": "2811",
+  "municipio": "MASSARANDUBA",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "telefone": "(47) 3379-1183",
+  "data_situacao": "07/03/2007",
+  "cnpj": "08.688.573/0001-61",
+  "ultima_atualizacao": "2025-07-24T11:01:02.809Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

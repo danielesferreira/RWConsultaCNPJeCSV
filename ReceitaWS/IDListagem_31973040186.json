@@ -1,0 +1,74 @@
+{
+  "abertura": "22/04/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "PADARIA SERRANO LTDA",
+  "fantasia": "PADARIA E PIZZARIA SERRANO",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "BRUNO LUIS SILVA BETTU",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA SERRANA",
+  "numero": "26",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SERRANO",
+  "uf": "MG",
+  "cep": "30.882-370",
+  "email": "xxxx@xxxx.xx",
+  "telefone": "(31) 0001-0001",
+  "data_situacao": "22/04/2024",
+  "cnpj": "54.827.322/0001-38",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "20000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

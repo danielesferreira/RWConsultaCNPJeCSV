@@ -1,0 +1,62 @@
+{
+  "abertura": "28/02/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "NOVO BIFAO RESTAURANTE LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VIVIANE BITTENCOURT PEREIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA OLIVEIROS RODRIGUES ALVES",
+  "numero": "918",
+  "complemento": "LOJA",
+  "municipio": "NOVA IGUACU",
+  "bairro": "JARDIM DA POSSE",
+  "uf": "RJ",
+  "cep": "26.030-010",
+  "email": "binabieber2000@hotmail.com",
+  "telefone": "(21) 9773-1655",
+  "data_situacao": "28/02/2024",
+  "cnpj": "54.108.283/0001-19",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

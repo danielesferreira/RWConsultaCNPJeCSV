@@ -1,0 +1,57 @@
+{
+  "abertura": "24/01/1996",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ROSINEI DA COSTA SORVETERIA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "logradouro": "AV DO CAFE",
+  "numero": "647",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "VL TIBERIO",
+  "uf": "SP",
+  "cep": "14.050-230",
+  "email": "pinheiro.contabil@terra.com.br",
+  "telefone": "(16) 3636-7398",
+  "data_situacao": "03/11/2005",
+  "cnpj": "01.028.553/0001-15",
+  "ultima_atualizacao": "2025-08-05T01:32:22.478Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2008",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "abertura": "11/12/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "ESPETO FORTES INDUSTRIA LTDA",
+  "fantasia": "ESPETO FORTES",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "10.99-6-99",
+      "text": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.39-7-01",
+      "text": "Comércio atacadista de produtos alimentícios em geral"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ISIS DE LIMA FORTES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA LENI AMARAL",
+  "numero": "452",
+  "municipio": "CONTAGEM",
+  "bairro": "NOVO PROGRESSO",
+  "uf": "MG",
+  "cep": "32.115-130",
+  "email": "contabilidadeamorim@uol.com.br",
+  "telefone": "(31) 3471-2000",
+  "data_situacao": "11/12/2013",
+  "cnpj": "19.397.065/0001-40",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "68000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "11/12/2013",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

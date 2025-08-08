@@ -1,0 +1,78 @@
+{
+  "abertura": "05/03/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FEITO A MAO CASA DE MASSAS LTDA",
+  "fantasia": "FEITO A MAO MASSAS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "10.94-5-00",
+      "text": "Fabricação de massas alimentícias"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.96-1-00",
+      "text": "Fabricação de alimentos e pratos prontos"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "PAULO ROBERTO CAVAGNOLI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "YEDA APARECIDA DE SOUZA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ROD ARMANDO CALIL BULOS",
+  "numero": "6744",
+  "complemento": "SALA 01",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-001",
+  "email": "feitoamaomassas@gmail.com",
+  "telefone": "(48) 3369-5342",
+  "data_situacao": "05/03/2020",
+  "cnpj": "36.571.647/0001-10",
+  "ultima_atualizacao": "2025-08-06T16:29:17.756Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "169270.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "05/03/2020",
+    "data_exclusao": "28/02/2022",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

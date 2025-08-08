@@ -1,0 +1,74 @@
+{
+  "abertura": "04/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DIVINO ARMAZEM COMERCIO DE PRODUTOS NATURAIS LTDA",
+  "fantasia": "DIVINO ARMAZEM - EMPORIO PRODUTOS NATURAIS",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "SILVIA LUCIA PEDERSEN ZEILMANN",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ROBERTO ZEILMANN",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA INTENDENTE JOAO NUNES VIEIRA",
+  "numero": "1446",
+  "complemento": "LOJA 3",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-100",
+  "email": "divinoarmazem1@gmail.com",
+  "telefone": "(48) 9135-0305",
+  "data_situacao": "04/07/2023",
+  "cnpj": "51.284.304/0001-69",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "04/07/2023",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

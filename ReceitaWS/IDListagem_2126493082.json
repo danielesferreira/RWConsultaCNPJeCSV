@@ -1,0 +1,77 @@
+{
+  "abertura": "04/03/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "A C DE SOUZA TORRES MINIMERCADO",
+  "fantasia": "MERCADO TORRES",
+  "porte": "DEMAIS",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "10.91-1-02",
+      "text": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+    },
+    {
+      "code": "47.21-1-02",
+      "text": "Padaria e confeitaria com predominância de revenda"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.84-9-00",
+      "text": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "logradouro": "RUA SANTO ANTONIO",
+  "numero": "52",
+  "complemento": "LOJA",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "SANTO ANTONIO",
+  "uf": "RJ",
+  "cep": "28.680-000",
+  "email": "souzatorres2013@bol.com.br",
+  "telefone": "(21) 2649-3082 / (21) 2649-3082",
+  "data_situacao": "03/11/2005",
+  "cnpj": "68.833.458/0001-65",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "250000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

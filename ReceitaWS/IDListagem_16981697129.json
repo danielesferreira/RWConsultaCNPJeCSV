@@ -1,0 +1,57 @@
+{
+  "abertura": "06/02/2020",
+  "situacao": "INAPTA",
+  "tipo": "MATRIZ",
+  "nome": "LUCAS DA SILVA SANTOS 13993688775",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "logradouro": "AVENIDA MONTE NEGRO",
+  "numero": "48",
+  "complemento": "LOJA",
+  "municipio": "FUNDAO",
+  "bairro": "PRAIA GRANDE",
+  "uf": "ES",
+  "cep": "29.187-000",
+  "email": "lucassantinho1990@gmail.com",
+  "telefone": "(27) 9958-5595",
+  "data_situacao": "22/11/2022",
+  "motivo_situacao": "OMISSÃO DE DECLARAÇÕES",
+  "cnpj": "36.271.581/0001-43",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividade_principal": [
+    {
+      "code": "00.00-0-00",
+      "text": "********"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "6000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

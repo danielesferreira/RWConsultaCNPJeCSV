@@ -1,0 +1,66 @@
+{
+  "abertura": "03/11/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "HIPER MERCADO DE PORTAS E JANELAS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ADRIANO SACRAMENTO DE MEIRELES GIRAO",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "ENIRA MARIA SACRAMENTO GIRAO",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA IMPERIAL",
+  "numero": "3797",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SAO SEBASTIAO",
+  "uf": "MG",
+  "cep": "30.881-570",
+  "telefone": "(31) 3477-0427 / (31) 3224-9587",
+  "data_situacao": "24/09/2005",
+  "cnpj": "71.361.216/0001-20",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

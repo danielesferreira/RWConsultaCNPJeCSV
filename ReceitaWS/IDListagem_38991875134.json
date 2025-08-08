@@ -1,0 +1,61 @@
+{
+  "abertura": "19/09/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "57.349.198 TEIT LIDIANE ARAUJO MIRANDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.20-1-01",
+      "text": "Fornecimento de alimentos preparados preponderantemente para empresas"
+    },
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "logradouro": "10A RUA ETELVINO JOSE DA SILVA",
+  "numero": "160",
+  "complemento": "ANDAR A",
+  "municipio": "PORTEIRINHA",
+  "bairro": "RENASCENCA",
+  "uf": "MG",
+  "cep": "39.520-000",
+  "email": "teitlidianea@gmail.com",
+  "telefone": "(38) 9187-5134",
+  "data_situacao": "19/09/2024",
+  "cnpj": "57.349.198/0001-30",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "500.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "26/11/2019",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RICARDO SORGEN LTDA",
+  "fantasia": "SORVETERIA NAPOLI",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "56.11-2-01",
+      "text": "Restaurantes e similares"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "RICARDO SORGEN",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ESTRADA DOM JOAO BECKER",
+  "numero": "304",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-600",
+  "email": "societario@amcsc.com.br",
+  "telefone": "(48) 3246-6165",
+  "data_situacao": "26/11/2019",
+  "cnpj": "35.623.003/0001-66",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

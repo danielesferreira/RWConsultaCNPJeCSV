@@ -1,0 +1,70 @@
+{
+  "abertura": "24/01/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "GALVANOMETAL GALVANOPLASTIA LTDA",
+  "fantasia": "GALVANOMETAL",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "25.39-0-02",
+      "text": "Serviços de tratamento e revestimento em metais"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "25.31-4-01",
+      "text": "Produção de forjados de aço"
+    },
+    {
+      "code": "25.31-4-02",
+      "text": "Produção de forjados de metais não ferrosos e suas ligas"
+    },
+    {
+      "code": "25.39-0-01",
+      "text": "Serviços de usinagem, torneiria e solda"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "BRENO LOPES DE OLIVEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE VIEGAS",
+  "numero": "185",
+  "complemento": "A",
+  "municipio": "CONTAGEM",
+  "bairro": "JARDIM INDUSTRIAL",
+  "uf": "MG",
+  "cep": "32.215-120",
+  "email": "cecilialopess24@gmail.com",
+  "telefone": "(31) 8321-5559",
+  "data_situacao": "24/01/2020",
+  "cnpj": "36.123.147/0001-16",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "25000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

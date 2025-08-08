@@ -1,0 +1,78 @@
+{
+  "abertura": "28/12/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TLE ALUMINIO E ACESSORIOS LTDA",
+  "fantasia": "TLE ESQUADRIAS DE ALUMINIO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "25.12-8-00",
+      "text": "Fabricação de esquadrias de metal"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "43.30-4-02",
+      "text": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+    },
+    {
+      "code": "46.79-6-04",
+      "text": "Comércio atacadista especializado de materiais de construção não especificados anteriormente"
+    },
+    {
+      "code": "47.43-1-00",
+      "text": "Comércio varejista de vidros"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.44-0-05",
+      "text": "Comércio varejista de materiais de construção não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LUIZ CARLOS BARBOSA VIEIRA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE VIEGAS",
+  "numero": "319",
+  "municipio": "CONTAGEM",
+  "bairro": "JARDIM INDUSTRIAL",
+  "uf": "MG",
+  "cep": "32.215-120",
+  "email": "deleg1@sevencontabilidade.com.br",
+  "telefone": "(31) 3390-7777",
+  "data_situacao": "28/12/2020",
+  "cnpj": "40.206.150/0001-70",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "abertura": "09/11/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AGRO HAUS PET LTDA",
+  "fantasia": "AGRO HAUS PET",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.89-0-04",
+      "text": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    },
+    {
+      "code": "47.71-7-04",
+      "text": "Comércio varejista de medicamentos veterinários"
+    },
+    {
+      "code": "47.89-0-02",
+      "text": "Comércio varejista de plantas e flores naturais"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "CASSIANO NEUMANN",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA 11 DE NOVEMBRO",
+  "numero": "2279",
+  "municipio": "MASSARANDUBA",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "email": "cassianoneumann@hotmail.com",
+  "telefone": "(47) 3407-1794",
+  "data_situacao": "09/11/2020",
+  "cnpj": "39.721.331/0001-56",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

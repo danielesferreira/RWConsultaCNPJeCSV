@@ -1,0 +1,142 @@
+{
+  "abertura": "12/08/1968",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "COOPERATIVA JURITI",
+  "fantasia": "COOPERJURITI",
+  "porte": "DEMAIS",
+  "natureza_juridica": "214-3 - Cooperativa",
+  "atividade_principal": [
+    {
+      "code": "10.61-9-01",
+      "text": "Beneficiamento de arroz"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "01.61-0-99",
+      "text": "Atividades de apoio à agricultura não especificadas anteriormente"
+    },
+    {
+      "code": "03.12-4-04",
+      "text": "Atividades de apoio à pesca em água doce"
+    },
+    {
+      "code": "03.22-1-01",
+      "text": "Criação de peixes em água doce"
+    },
+    {
+      "code": "03.22-1-07",
+      "text": "Atividades de apoio à aqüicultura em água doce"
+    },
+    {
+      "code": "10.61-9-02",
+      "text": "Fabricação de produtos do arroz"
+    },
+    {
+      "code": "10.66-0-00",
+      "text": "Fabricação de alimentos para animais"
+    },
+    {
+      "code": "46.23-1-06",
+      "text": "Comércio atacadista de sementes, flores, plantas e gramas"
+    },
+    {
+      "code": "46.23-1-08",
+      "text": "Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada"
+    },
+    {
+      "code": "46.23-1-09",
+      "text": "Comércio atacadista de alimentos para animais"
+    },
+    {
+      "code": "46.23-1-99",
+      "text": "Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente"
+    },
+    {
+      "code": "46.32-0-01",
+      "text": "Comércio atacadista de cereais e leguminosas beneficiados"
+    },
+    {
+      "code": "46.39-7-01",
+      "text": "Comércio atacadista de produtos alimentícios em geral"
+    },
+    {
+      "code": "46.83-4-00",
+      "text": "Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo"
+    },
+    {
+      "code": "49.30-2-02",
+      "text": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+    },
+    {
+      "code": "49.30-2-03",
+      "text": "Transporte rodoviário de produtos perigosos"
+    },
+    {
+      "code": "52.11-7-99",
+      "text": "Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EDELAR CARLOS CONZATI",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "LAURO GOLINSKI",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "ORLANDO GIOVANELLA",
+      "qual": "16-Presidente"
+    },
+    {
+      "nome": "FRANCISCO LUIS DEMARCHI",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "SANDRA ANDREIA SCHVEITZER BESEN",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "ACACIO CLAUCIR KASMIRSKI",
+      "qual": "10-Diretor"
+    }
+  ],
+  "logradouro": "R PATRIMONIO",
+  "numero": "1 E 2",
+  "complemento": "CONJ COOPERJURITI",
+  "municipio": "MASSARANDUBA",
+  "bairro": "PATRIMONIO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "email": "chico@juriti.com.br",
+  "telefone": "(47) 3379-4300/ (47) 9106-7928",
+  "data_situacao": "30/08/2003",
+  "cnpj": "84.093.137/0001-28",
+  "ultima_atualizacao": "2025-08-08T16:28:15.836Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

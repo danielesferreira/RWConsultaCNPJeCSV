@@ -1,0 +1,117 @@
+{
+  "abertura": "15/09/2021",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "ROLDAO AUTO SERVICO COMERCIO DE ALIMENTOS S/A.",
+  "fantasia": "GRUPO ROLDAO SA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "47.11-3-02",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "46.31-1-00",
+      "text": "Comércio atacadista de leite e laticínios"
+    },
+    {
+      "code": "46.39-7-02",
+      "text": "Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada"
+    },
+    {
+      "code": "46.49-4-01",
+      "text": "Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico"
+    },
+    {
+      "code": "46.91-5-00",
+      "text": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+    },
+    {
+      "code": "47.21-1-03",
+      "text": "Comércio varejista de laticínios e frios"
+    },
+    {
+      "code": "47.22-9-01",
+      "text": "Comércio varejista de carnes - açougues"
+    },
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    },
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "52.12-5-00",
+      "text": "Carga e descarga"
+    },
+    {
+      "code": "56.11-2-03",
+      "text": "Lanchonetes, casas de chá, de sucos e similares"
+    },
+    {
+      "code": "61.90-6-99",
+      "text": "Outras atividades de telecomunicações não especificadas anteriormente"
+    },
+    {
+      "code": "66.13-4-00",
+      "text": "Administração de cartões de crédito"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    }
+  ],
+  "logradouro": "AV MINISTRO MARCOS FREIRE",
+  "numero": "7.900",
+  "complemento": "GARAGEGARAGEM",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "ANHANGUERA",
+  "uf": "SP",
+  "cep": "11.724-000",
+  "email": "angela.cremaschi@roldao.com.br",
+  "telefone": "(11) 5095-4234",
+  "data_situacao": "15/09/2021",
+  "cnpj": "05.800.256/0053-28",
+  "ultima_atualizacao": "2025-07-19T09:47:34.710Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

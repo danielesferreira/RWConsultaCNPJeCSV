@@ -1,0 +1,70 @@
+{
+  "abertura": "26/04/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MADERS OTICA E JOALHERIA LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.74-1-00",
+      "text": "Comércio varejista de artigos de óptica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    },
+    {
+      "code": "95.29-1-03",
+      "text": "Reparação de relógios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "TIAGO MADERS DA SILVA COSTA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA INTENDENTE JOAO NUNES VIEIRA",
+  "numero": "1025",
+  "complemento": "LOJA 02",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES DO RIO VERMELHO",
+  "uf": "SC",
+  "cep": "88.058-100",
+  "email": "maders.ingleses@gmail.com",
+  "telefone": "(48) 3334-4408 / (0000) 0000-0000",
+  "data_situacao": "26/04/2023",
+  "cnpj": "50.454.900/0001-87",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "30000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

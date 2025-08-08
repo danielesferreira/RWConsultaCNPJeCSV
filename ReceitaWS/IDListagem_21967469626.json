@@ -1,0 +1,86 @@
+{
+  "abertura": "01/08/1966",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "AMPLA ENERGIA E SERVICOS S.A.",
+  "fantasia": "ENEL DISTRIBUICAO RIO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "204-6 - Sociedade Anônima Aberta",
+  "atividade_principal": [
+    {
+      "code": "35.14-0-00",
+      "text": "Distribuição de energia elétrica"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FRANCESCO MOLITERNI",
+      "qual": "16-Presidente"
+    },
+    {
+      "nome": "MICHELLE RODRIGUES NOGUEIRA",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "JOSE LUIS SALAS RINCON",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "LUIZ FLAVIO XAVIER DE SA",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "ALAIN ROSOLINO",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "ANA CLAUDIA GONCALVES REBELLO",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "ANNA PAULA HIOTTE PACHECO",
+      "qual": "10-Diretor"
+    }
+  ],
+  "logradouro": "AV OSCAR NIEMEYER",
+  "numero": "02000",
+  "complemento": "BLOCO 1 SALA 701 PARTE",
+  "municipio": "RIO DE JANEIRO",
+  "bairro": "SANTO CRISTO",
+  "uf": "RJ",
+  "cep": "20.220-297",
+  "email": "fiscpro@enel.com",
+  "telefone": "(21) 2716-1101",
+  "data_situacao": "03/11/2005",
+  "cnpj": "33.050.071/0001-58",
+  "ultima_atualizacao": "2025-08-06T05:53:21.891Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "6953230392.30",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

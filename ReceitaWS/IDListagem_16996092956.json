@@ -1,0 +1,62 @@
+{
+  "abertura": "11/05/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "OUTLET DA LINGERIE LTDA",
+  "fantasia": "LINGERIE OUTLET",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MACIELA DA SILVA SOUZA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA ALVARES CABRAL",
+  "numero": "479",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "CENTRO",
+  "uf": "SP",
+  "cep": "14.010-080",
+  "email": "jebraga92@yahoo.com",
+  "telefone": "(16) 8191-6183",
+  "data_situacao": "11/05/2020",
+  "cnpj": "37.105.639/0001-41",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": "11/05/2020",
+    "data_exclusao": "31/12/2023",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": "11/05/2020",
+    "data_exclusao": "31/08/2020",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

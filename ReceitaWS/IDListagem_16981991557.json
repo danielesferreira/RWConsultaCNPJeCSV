@@ -1,0 +1,57 @@
+{
+  "abertura": "14/09/2022",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "RAFAELA CARLA APARECIDA SESTARI CARVALHO 45332589808",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "47.24-5-00",
+      "text": "Comércio varejista de hortifrutigranjeiros"
+    }
+  ],
+  "logradouro": "R ANTONIO RODRIGUES DE ALMEIDA",
+  "numero": "305",
+  "municipio": "RIBEIRAO PRETO",
+  "bairro": "JARDIM JOAO ROSSI",
+  "uf": "SP",
+  "cep": "14.026-514",
+  "email": "mariaeduarda171809@gmail.com",
+  "telefone": "(16) 9740-2194",
+  "data_situacao": "14/09/2022",
+  "cnpj": "47.949.197/0001-73",
+  "ultima_atualizacao": "2025-07-16T17:07:12.020Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": true,
+    "data_opcao": "14/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": true,
+    "data_opcao": "14/09/2022",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

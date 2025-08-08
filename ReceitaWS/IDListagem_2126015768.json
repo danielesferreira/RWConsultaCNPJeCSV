@@ -1,0 +1,66 @@
+{
+  "abertura": "25/07/1997",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "CHAPISCO MALHAS LTDA",
+  "fantasia": "CHAPISCO",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.55-5-01",
+      "text": "Comércio varejista de tecidos"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "EVANDRO CAMPOS DUARTE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "SERGIO RICARDO DE CAMPOS DUARTE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA JOAO CAETANO",
+  "numero": "465",
+  "complemento": "LOJAS 01 E 06",
+  "municipio": "SAO GONCALO",
+  "bairro": "ALCANTARA",
+  "uf": "RJ",
+  "cep": "24.710-380",
+  "data_situacao": "23/12/2000",
+  "cnpj": "02.034.200/0001-90",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "0.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

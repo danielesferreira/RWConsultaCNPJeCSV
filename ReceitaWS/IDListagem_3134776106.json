@@ -1,0 +1,110 @@
+{
+  "abertura": "21/10/1993",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "TAKO ACESSORIOS E CAPOTARIA LTDA",
+  "fantasia": "TAKO CAPOTARIA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "29.30-1-03",
+      "text": "Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "29.49-2-01",
+      "text": "Fabricação de bancos e estofados para veículos automotores"
+    },
+    {
+      "code": "29.49-2-99",
+      "text": "Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente"
+    },
+    {
+      "code": "31.01-2-00",
+      "text": "Fabricação de móveis com predominância de madeira"
+    },
+    {
+      "code": "45.20-0-07",
+      "text": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+    },
+    {
+      "code": "45.20-0-08",
+      "text": "Serviços de capotaria"
+    },
+    {
+      "code": "45.30-7-01",
+      "text": "Comércio por atacado de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "45.30-7-03",
+      "text": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+    },
+    {
+      "code": "45.30-7-04",
+      "text": "Comércio a varejo de peças e acessórios usados para veículos automotores"
+    },
+    {
+      "code": "47.59-8-01",
+      "text": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+    },
+    {
+      "code": "95.29-1-05",
+      "text": "Reparação de artigos do mobiliário"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LUIZ EUSTAQUIO SOUZA VINTI DE ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JOSE EUSTAQUIO VINTI DE ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "LUCIA PIEDADE DE SOUZA ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "LUAN SOUZA VINTI DE ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R IMPERIAL",
+  "numero": "576",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SAO SEBASTIAO",
+  "uf": "MG",
+  "cep": "30.881-570",
+  "email": "contato@takocapotaria.com.br",
+  "telefone": "(31) 3477-6106",
+  "data_situacao": "03/11/2005",
+  "cnpj": "71.346.282/0001-21",
+  "ultima_atualizacao": "2025-07-14T18:21:28.063Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

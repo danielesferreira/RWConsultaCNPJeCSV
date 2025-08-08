@@ -1,0 +1,62 @@
+{
+  "abertura": "18/02/1971",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MERCEARIA VIDAL LTDA",
+  "fantasia": "MERCEARIA VIDAL",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "GUSTAVO DA CUNHA VIDAL",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R FLORIANO PEIXOTO",
+  "numero": "394",
+  "municipio": "CACHOEIRAS DE MACACU",
+  "bairro": "JAPUIBA",
+  "uf": "RJ",
+  "cep": "28.685-000",
+  "data_situacao": "24/09/2005",
+  "cnpj": "28.882.587/0001-29",
+  "ultima_atualizacao": "2025-07-28T14:50:48.969Z",
+  "status": "OK",
+  "complemento": "",
+  "email": "",
+  "telefone": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "88000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

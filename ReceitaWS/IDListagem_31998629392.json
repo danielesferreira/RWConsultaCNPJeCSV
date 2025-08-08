@@ -1,0 +1,70 @@
+{
+  "abertura": "01/03/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "IMPERIAL ELETRICA E HIDRAULICA LTDA",
+  "fantasia": "IMPERIAL ELETRICA E HIDRAULICA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-03",
+      "text": "Comércio varejista de materiais hidráulicos"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.41-5-00",
+      "text": "Comércio varejista de tintas e materiais para pintura"
+    },
+    {
+      "code": "47.42-3-00",
+      "text": "Comércio varejista de material elétrico"
+    },
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JAKSON JOSE RODRIGUES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R IMPERIAL",
+  "numero": "555",
+  "complemento": "LOJA A",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SAO SALVADOR",
+  "uf": "MG",
+  "cep": "30.881-450",
+  "email": "jaksonrodrigues@yahoo.com.br",
+  "telefone": "(31) 9601-8464",
+  "data_situacao": "01/03/2024",
+  "cnpj": "54.140.593/0001-10",
+  "ultima_atualizacao": "2025-07-23T12:44:21.375Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

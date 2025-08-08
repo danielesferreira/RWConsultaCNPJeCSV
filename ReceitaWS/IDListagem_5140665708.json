@@ -1,0 +1,70 @@
+{
+  "abertura": "21/11/2013",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "BELLOLI DELIVERY - COMERCIO VAREJISTA DE PIZZAS LTDA",
+  "fantasia": "BELLOLI PIZZARIA DELIVERY",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "82.91-1-00",
+      "text": "Atividades de cobrança e informações cadastrais"
+    },
+    {
+      "code": "82.99-7-99",
+      "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "DIEGO DOS SANTOS BELLOLI",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "YURI DOS SANTOS BELLOLI",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "AVENIDA OTTO NIEMEYER",
+  "numero": "2001",
+  "complemento": "LOJA 02",
+  "municipio": "PORTO ALEGRE",
+  "bairro": "TRISTEZA",
+  "uf": "RS",
+  "cep": "91.910-001",
+  "email": "pizzabellolibelloli@gmail.com",
+  "telefone": "(51) 8507-7844",
+  "data_situacao": "21/11/2013",
+  "cnpj": "19.297.538/0001-38",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "21/11/2013",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

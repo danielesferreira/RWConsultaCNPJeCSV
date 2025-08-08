@@ -1,0 +1,78 @@
+{
+  "abertura": "04/09/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DG COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.44-0-01",
+      "text": "Comércio varejista de ferragens e ferramentas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "33.14-7-11",
+      "text": "Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária"
+    },
+    {
+      "code": "33.14-7-99",
+      "text": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+    },
+    {
+      "code": "47.32-6-00",
+      "text": "Comércio varejista de lubrificantes"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "JUARES DE TOFEL",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "HELIO GOMES",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "R 11 DE NOVEMBRO",
+  "numero": "3194",
+  "municipio": "MASSARANDUBA",
+  "bairro": "CENTRO",
+  "uf": "SC",
+  "cep": "89.108-000",
+  "email": "dgcomerciodemaquinas@hotmail.com",
+  "telefone": "(47) 3379-5093",
+  "data_situacao": "04/09/2024",
+  "cnpj": "57.157.586/0001-10",
+  "ultima_atualizacao": "2025-08-04T13:05:15.802Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "25000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

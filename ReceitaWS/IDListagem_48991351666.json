@@ -1,0 +1,66 @@
+{
+  "abertura": "01/11/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DEJAVU BEER JM COMERCIO DE BEBIDAS E ALIMENTOS LTDA",
+  "fantasia": "DEJAVU BEER JM",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.23-7-00",
+      "text": "Comércio varejista de bebidas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.12-1-00",
+      "text": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARLON GROSS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "JUSSARA PEDROSO DA ROSA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "ESTRADA DOM JOAO BECKER",
+  "numero": "304",
+  "complemento": "SALA 09 TERREO",
+  "municipio": "FLORIANOPOLIS",
+  "bairro": "INGLESES",
+  "uf": "SC",
+  "cep": "88.058-600",
+  "email": "jussarapdarosa@gmail.com",
+  "telefone": "(48) 3030-6616",
+  "data_situacao": "01/11/2017",
+  "cnpj": "28.983.091/0001-41",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "40000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

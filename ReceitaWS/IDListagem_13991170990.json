@@ -1,0 +1,57 @@
+{
+  "abertura": "10/04/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "54.681.841 SHEILA SIMONE CABRAL SINHORAO PERLAMAGNA",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "213-5 - Empresário (Individual)",
+  "atividade_principal": [
+    {
+      "code": "56.20-1-04",
+      "text": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+    }
+  ],
+  "logradouro": "RUA JOSE DEMAR PERES",
+  "numero": "894",
+  "municipio": "PRAIA GRANDE",
+  "bairro": "MARACANA",
+  "uf": "SP",
+  "cep": "11.705-630",
+  "email": "sheilaperlamagna@hotmail.com",
+  "telefone": "(13) 9911-7099",
+  "data_situacao": "10/04/2024",
+  "cnpj": "54.681.841/0001-30",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "2000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "abertura": "09/08/1977",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "DROGARIA PEDRO IV LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.21-1-04",
+      "text": "Comércio varejista de doces, balas, bombons e semelhantes"
+    },
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "FERNANDA DE SOUZA ELIAS",
+      "qual": "49-Sócio-Administrador"
+    },
+    {
+      "nome": "EDILCE MARIA DE SOUZA",
+      "qual": "22-Sócio"
+    }
+  ],
+  "logradouro": "RUA IMPERIAL",
+  "numero": "596",
+  "municipio": "BELO HORIZONTE",
+  "bairro": "SERRANO",
+  "uf": "MG",
+  "cep": "30.881-535",
+  "email": "mjmjconsultar@terra.com.br",
+  "telefone": "(31) 3293-8183 / (31) 2535-8183",
+  "data_situacao": "23/03/2002",
+  "cnpj": "19.749.142/0001-84",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "10000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

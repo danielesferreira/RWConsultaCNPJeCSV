@@ -8,6 +8,7 @@ using System.Net.Http.Headers;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using System.Globalization;
+using System.Threading.Tasks;
 
 class Atividade
 {
@@ -91,6 +92,26 @@ class Program
             })
             .ToList();
 
+        // Detectar e exibir duplicados
+        var duplicados = registros
+            .GroupBy(r => r.SbjNum)
+            .Where(g => g.Count() > 1)
+            .Select(g => g.Key)
+            .ToList();
+
+        if (duplicados.Any())
+        {
+            Console.WriteLine("⚠️ SbjNum duplicados encontrados:");
+            foreach (var id in duplicados)
+                Console.WriteLine($" - {id}");
+        }
+
+        // Remover duplicados
+        registros = registros
+            .GroupBy(r => r.SbjNum)
+            .Select(g => g.First())
+            .ToList();
+
         if (opcao == "1")
         {
             var httpClient = new HttpClient();
@@ -153,7 +174,7 @@ class Program
                     string atividadesSecundarias = string.Join(" | ",
                         empresa.atividades_secundarias?.Select(a => RemoverAcentos(a.texto ?? "")) ?? new List<string>());
 
-                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};{Limpar(empresa.nome)};{Limpar(empresa.tipo)};{Limpar(empresa.situacao)};{Limpar(empresa.porte)};{Limpar(empresa.natureza_juridica)};{empresa.abertura};{Limpar(empresa.logradouro)};{empresa.numero};{Limpar(empresa.bairro)};{Limpar(empresa.municipio)};{empresa.uf};{empresa.cep};{empresa.simples?.optante};{empresa.simei?.optante};{empresa.telefone};{empresa.capital_social};{empresa.status};\"{atividadePrincipal}\";\"{atividadesSecundarias}\";{Limpar(empresa.email)}\"");
+                    sb.AppendLine($"{reg.IDListagem};{reg.CNPJ};{reg.SbjNum};{Limpar(empresa.nome)};{Limpar(empresa.tipo)};{Limpar(empresa.situacao)};{Limpar(empresa.porte)};{Limpar(empresa.natureza_juridica)};{empresa.abertura};{Limpar(empresa.logradouro)};{empresa.numero};{Limpar(empresa.bairro)};{Limpar(empresa.municipio)};{empresa.uf};{empresa.cep};{empresa.simples?.optante};{empresa.simei?.optante};{empresa.telefone};{empresa.capital_social};{empresa.status};\"{atividadePrincipal}\";\"{atividadesSecundarias}\";{Limpar(empresa.email)}");
                 }
                 else
                 {
